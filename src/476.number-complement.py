@@ -5,6 +5,7 @@
 #
 
 # @lc code=start
+# TAG: Bit Manipulation
 class Solution:
     # 28 ms, 61%. O(N)
     def findComplement(self, num: int) -> int:
