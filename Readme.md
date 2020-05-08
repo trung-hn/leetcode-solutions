@@ -5,6 +5,7 @@ For premium problems, question description are available as screenshots [here](.
 | # | Title | Level | Time | Space | Premium 🔒 |
 |---|---|---|---|---|---|
 | 1 | Two Sum | Easy | O(N) | O(N) | |
+| 15 | 3Sum | Medium | O(N) | O(1) | |
 | 21 | Merge Two Sorted Lists | Easy | O(N) | O(1) | |
 | 46 | Permutations | Medium | Pending | Pending | |
 | 387 | First Unique Character in a String | Easy | O(N) | O(N) | |
