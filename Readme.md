@@ -8,6 +8,7 @@ For premium problems, question description are available as screenshots [here](.
 | 15 | 3Sum | Medium | O(N) | O(1) | | |
 | 21 | Merge Two Sorted Lists | Easy | O(N) | O(1) | | |
 | 46 | Permutations | Medium | Pending | Pending | | |
+| 319 | Bulb Switcher | Medium | O(1) | O(1) | | Tricky |
 | 367 | Valid Perfect Square | Easy | O(log N) | O(1) | | |
 | 387 | First Unique Character in a String | Easy | O(N) | O(N) | | |
 | 295 | Find Median from Data Stream | Hard | O(log N) | O(N) | | |
