@@ -13,6 +13,7 @@ For premium problems, question description are available as screenshots [here](.
 | 387 | First Unique Character in a String | Easy | O(N) | O(N) | | |
 | 295 | Find Median from Data Stream | Hard | O(log N) | O(N) | | |
 | 476 | Number Complement | Easy | O(N) | O(1) | | |
+| 540 | Single Element in a Sorted Array | Medium | O(log N) | O(1) | | |
 | 733 | Flood Fill | Easy | O(N) | O(N) | | |
 | 830 | Positions of Large Groups | Easy | O(N) | O(1) | | |
 | 993 | Cousins in Binary Tree | Easy | O(N) | O(H) | | |
