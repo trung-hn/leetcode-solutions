@@ -12,6 +12,7 @@ For premium problems, question description are available as screenshots [here](.
 | 367 | Valid Perfect Square | Easy | O(log N) | O(1) | | |
 | 387 | First Unique Character in a String | Easy | O(N) | O(N) | | |
 | 295 | Find Median from Data Stream | Hard | O(log N) | O(N) | | |
+| 402 | Remove K Digits | Medium | O(N) | O(N) | | |
 | 476 | Number Complement | Easy | O(N) | O(1) | | |
 | 540 | Single Element in a Sorted Array | Medium | O(log N) | O(1) | | |
 | 733 | Flood Fill | Easy | O(N) | O(N) | | |
