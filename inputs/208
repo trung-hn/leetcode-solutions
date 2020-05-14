@@ -1,0 +1,6 @@
+["Trie","insert","search","search","startsWith","insert","search"]
+[[],["apple"],["apple"],["app"],["app"],["app"],["app"]]
+["Trie","insert","search","search","startsWith","insert","search","startsWith","search","insert","startsWith","search","startsWith","search"]
+[[],["apple"],["apple"],["app"],["app"],["app"],["app"],["a"],["a"],["trung"],["trun"],["trun"],["trung"],["trung"]]
+["Trie","insert","insert","insert","insert","insert","insert","search","search","search","search","search","search","search","search","search","startsWith","startsWith","startsWith","startsWith","startsWith","startsWith","startsWith","startsWith","startsWith"]
+[[],["app"],["apple"],["beer"],["add"],["jam"],["rental"],["apps"],["app"],["ad"],["applepie"],["rest"],["jan"],["rent"],["beer"],["jam"],["apps"],["app"],["ad"],["applepie"],["rest"],["jan"],["rent"],["beer"],["jam"]]

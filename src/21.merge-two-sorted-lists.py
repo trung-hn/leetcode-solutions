@@ -10,7 +10,7 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
-# TAGS: linked list, 
+# TAGS: Linked List, 
 class Solution:
         # 36 ms, 69.35%. Time: O(N). Space: O(1)
     def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
