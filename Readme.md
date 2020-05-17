@@ -24,6 +24,7 @@
 | 1060 | Missing Element in Sorted Array | Medium | O(log N) | O(1) | Binary Search | | 🔒 |
 | 1232 | Check If It Is a Straight Line | Easy | O(N) | O(1) | Math, Pythonic, Geometry | | |
 | 1375 | Bulb Switcher III | Medium | O(N) | O(1) | Array | | |
+| 1426 | Counting Elements | Easy | O(N) | O(N) | | | 🔒 |
 | 1441 | Build an Array With Stack Operations | Easy | O(N) | O(N) | | | |
 | 1446 | Consecutive Characters | Easy | O(N) | O(1) | | | |
 | | | | | | | | |
