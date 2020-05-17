@@ -32,8 +32,4 @@
 | | | | | | | | |
 | | | | | | | | |
 
-```python
-print(i)
-```
-
 <!-- For premium problems, question description are available as screenshots [here](./premium-questions) -->
