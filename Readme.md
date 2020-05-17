@@ -14,6 +14,7 @@
 | 367 | Valid Perfect Square | Easy | O(log N) | O(1) | | | |
 | 387 | First Unique Character in a String | Easy | O(N) | O(N) | | | |
 | 402 | Remove K Digits | Medium | O(N) | O(N) | Greedy | | |
+| 438 | Find All Anagrams in a String | Medium | O(N_s + N_p) | O(1) | Hash Table | | |
 | 476 | Number Complement | Easy | O(N) | O(1) | Bit Manipulation | | |
 | 540 | Single Element in a Sorted Array | Medium | O(log N) | O(1) | Binary Search | | |
 | 733 | Flood Fill | Easy | O(N) | O(N) | DFS | | |
