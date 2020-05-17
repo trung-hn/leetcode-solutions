@@ -6,6 +6,7 @@
 
 # @lc code=start
 # TAGS: Math, Pythonic, Geometry
+# REVIEWME:
 class Solution:
     # 60 ms, 77.13%. Check slope. First solution, not clean. 
     def checkStraightLine(self, coordinates: List[List[int]]) -> bool:
