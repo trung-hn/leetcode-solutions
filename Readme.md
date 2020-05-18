@@ -17,6 +17,7 @@
 | 438 | Find All Anagrams in a String | Medium | O(N_s + N_p) | O(1) | Hash Table | | |
 | 476 | Number Complement | Easy | O(N) | O(1) | Bit Manipulation | | |
 | 540 | Single Element in a Sorted Array | Medium | O(log N) | O(1) | Binary Search | | |
+| 567 | Permutation in String | Medium | O(S1 + S2) | O(1) | String, Two Pointers, Sliding Window | | |
 | 733 | Flood Fill | Easy | O(N) | O(N) | DFS | | |
 | 830 | Positions of Large Groups | Easy | O(N) | O(1) | | | |
 | 918 | Maximum Sum Circular Subarray | Medium | O(N) | O(1) | Array, Dynamic Programming | | |
@@ -32,4 +33,4 @@
 | | | | | | | | |
 | | | | | | | | |
 
-<!-- For premium problems, question description are available as screenshots [here](./premium-questions) -->
+For premium problems, question description are available as screenshots [here](./premium-questions)
