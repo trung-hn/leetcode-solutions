@@ -20,6 +20,7 @@
 | 567 | Permutation in String | Medium | O(S1 + S2) | O(1) | String, Two Pointers, Sliding Window | | |
 | 733 | Flood Fill | Easy | O(N) | O(N) | DFS | | |
 | 830 | Positions of Large Groups | Easy | O(N) | O(1) | | | |
+| 901 | Online Stock Span | Medium | O(1) | O(N) | Monotonic Stack | | |
 | 918 | Maximum Sum Circular Subarray | Medium | O(N) | O(1) | Array, Dynamic Programming | | |
 | 993 | Cousins in Binary Tree | Easy | O(N) | O(H) | Tree | | |
 | 1060 | Missing Element in Sorted Array | Medium | O(log N) | O(1) | Binary Search | | 🔒 |
