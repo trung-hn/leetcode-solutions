@@ -4,12 +4,13 @@
 | # | Title | Level | Time | Space | Tags | Note | Premium 🔒 |
 |---|---|---|---|---|---|---|---|
 | 1 | Two Sum | Easy | O(N) | O(N) | | | |
+| 7 | Reverse Integer | Easy | O(log x) | O(1) | Tricky | | |
 | 15 | 3Sum | Medium | O(N) | O(1) | | | |
 | 21 | Merge Two Sorted Lists | Easy | O(N) | O(1) | Linked List | | |
 | 46 | Permutations | Medium | Pending | Pending | | | |
 | 208 | Implement Trie (Prefix Tree) | Medium | Varying | Varying | Design, Trie | | |
 | 222 | Count Complete Tree Nodes | Medium | O(log N * log N) | O(1) | Binary Search, Tree | | |
-| 230 | Kth Smallest Element in a BST | Medium | O(H + k) | O(H + k) | Tree, Depth First Search | | |
+| 230 | Kth Smallest Element in a BST | Medium | O(H + k) | O(H + k) | Tree, Depth First Search | Use general formula for tree traversal | |
 | 295 | Find Median from Data Stream | Hard | O(log N) | O(N) | Design, Hard, Heap | | |
 | 319 | Bulb Switcher | Medium | O(1) | O(1) | Math, Tricky |  | |
 | 328 | Odd Even Linked List | Medium | O(N) | O(1) | Linked List |  | |
