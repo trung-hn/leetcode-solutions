@@ -9,6 +9,7 @@
 | 46 | Permutations | Medium | Pending | Pending | | | |
 | 208 | Implement Trie (Prefix Tree) | Medium | Varying | Varying | Design, Trie | | |
 | 222 | Count Complete Tree Nodes | Medium | O(log N * log N) | O(1) | Binary Search, Tree | | |
+| 230 | Kth Smallest Element in a BST | Medium | O(H + k) | O(H + k) | Tree, Depth First Search | | |
 | 295 | Find Median from Data Stream | Hard | O(log N) | O(N) | Design, Hard, Heap | | |
 | 319 | Bulb Switcher | Medium | O(1) | O(1) | Math, Tricky |  | |
 | 328 | Odd Even Linked List | Medium | O(N) | O(1) | Linked List |  | |
