@@ -18,6 +18,7 @@
 | 387 | First Unique Character in a String | Easy | O(N) | O(N) | | | |
 | 402 | Remove K Digits | Medium | O(N) | O(N) | Greedy | | |
 | 438 | Find All Anagrams in a String | Medium | O(N_s + N_p) | O(1) | Hash Table | | |
+| 450 | Delete Node in a BST | Medium | O(H) | O(H) | Binary Search Tree | | |
 | 476 | Number Complement | Easy | O(N) | O(1) | Bit Manipulation | | |
 | 540 | Single Element in a Sorted Array | Medium | O(log N) | O(1) | Binary Search | | |
 | 567 | Permutation in String | Medium | O(S1 + S2) | O(1) | String, Two Pointers, Sliding Window | | |

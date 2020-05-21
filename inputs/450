@@ -1,0 +1,22 @@
+[1,2]
+1
+[1,null, 2]
+1
+[]
+0
+[0]
+0
+[5,3,6,2,4,null,7]
+3
+[0,-8,2,null,-5,null,4,null,null,null,6,null,9,7]
+-5
+[0,-8,2,null,-5,null,4,null,null,null,6,null,9,7]
+2
+[0,-8,2,null,-5,null,4,null,null,null,6,null,9,7]
+4
+[0,-8,2,null,-5,null,4,null,null,null,6,null,9,7]
+7
+[0,-8,2,null,-5,null,4,null,null,null,6,null,9,7]
+9
+[0,-8,2,null,-5,null,4,null,null,null,6,null,9,7]
+0
