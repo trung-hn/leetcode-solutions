@@ -8,6 +8,7 @@
 | 15 | 3Sum | Medium | O(N) | O(1) | | | |
 | 21 | Merge Two Sorted Lists | Easy | O(N) | O(1) | Linked List | | |
 | 46 | Permutations | Medium | Pending | Pending | | | |
+| 153 | Find Minimum in Rotated Sorted Array | Medium | O(log N) | O(1) | Binary Search | | |
 | 208 | Implement Trie (Prefix Tree) | Medium | Varying | Varying | Design, Trie | | |
 | 221 | Maximal Square | Medium | O(N * M) | O(1) | Array, Dynamic Programming | | |
 | 222 | Count Complete Tree Nodes | Medium | O(log N * log N) | O(1) | Binary Search, Tree | | |
