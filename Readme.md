@@ -9,6 +9,7 @@
 | 21 | Merge Two Sorted Lists | Easy | O(N) | O(1) | Linked List | | |
 | 46 | Permutations | Medium | Pending | Pending | | | |
 | 208 | Implement Trie (Prefix Tree) | Medium | Varying | Varying | Design, Trie | | |
+| 221 | Maximal Square | Medium | O(N * M) | O(1) | Array, Dynamic Programming | | |
 | 222 | Count Complete Tree Nodes | Medium | O(log N * log N) | O(1) | Binary Search, Tree | | |
 | 230 | Kth Smallest Element in a BST | Medium | O(H + k) | O(H + k) | Tree, Depth First Search | Use general formula for tree traversal | |
 | 295 | Find Median from Data Stream | Hard | O(log N) | O(N) | Design, Hard, Heap | | |
@@ -29,14 +30,13 @@
 | 993 | Cousins in Binary Tree | Easy | O(N) | O(H) | Tree | | |
 | 1060 | Missing Element in Sorted Array | Medium | O(log N) | O(1) | Binary Search | | 🔒 |
 | 1232 | Check If It Is a Straight Line | Easy | O(N) | O(1) | Math, Pythonic, Geometry | | |
+| 1277 | Count Square Submatrices with All Ones | Medium | O(N * M) | O(1) | Array, Dynamic Programming | | |
 | 1375 | Bulb Switcher III | Medium | O(N) | O(1) | Array | | |
 | 1426 | Counting Elements | Easy | O(N) | O(N) | | | 🔒 |
 | 1427 | Perform String Shifts | Easy | O(N + S) | O(1) | | | 🔒 |
 | 1441 | Build an Array With Stack Operations | Easy | O(N) | O(N) | | | |
 | 1446 | Consecutive Characters | Easy | O(N) | O(1) | | | |
 | 1450 | Number of Students Doing Homework at a Given Time | Easy | O(N) | O(1) | | | |
-| | | | | | | | |
-| | | | | | | | |
 | | | | | | | | |
 
 For premium problems, question description are available as screenshots [here](./premium-questions)
