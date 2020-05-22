@@ -5,7 +5,7 @@
 #
 
 # @lc code=start
-# TAGS: Hash Table, Sorting, Pythonic
+# TAGS: Hash Table, Sorting, Pythonic, Bucket Sort
 # REVIEWME:
 class Solution:
     # 40 ms, 94 %. O(N logN) because of sorting. Space: O(N)

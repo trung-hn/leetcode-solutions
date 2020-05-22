@@ -8,6 +8,7 @@
 | 15 | 3Sum | Medium | O(N) | O(1) | | | |
 | 21 | Merge Two Sorted Lists | Easy | O(N) | O(1) | Linked List | | |
 | 46 | Permutations | Medium | Pending | Pending | | | |
+| 53 | Maximum Subarray | Easy | O(N) | O(1) | | | |
 | 153 | Find Minimum in Rotated Sorted Array | Medium | O(log N) | O(1) | Binary Search | | |
 | 154 | Find Minimum in Rotated Sorted Array II | Hard | O(log N) | O(1) | Binary Search | | |
 | 208 | Implement Trie (Prefix Tree) | Medium | Varying | Varying | Design, Trie | | |
