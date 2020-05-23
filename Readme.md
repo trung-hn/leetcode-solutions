@@ -6,6 +6,7 @@
 | 1 | Two Sum | Easy | O(N) | O(N) | | | |
 | 7 | Reverse Integer | Easy | O(log x) | O(1) | Tricky | | |
 | 15 | 3Sum | Medium | O(N) | O(1) | | | |
+| 20 | Valid Parentheses | Easy | O(N) | O(N) | String, Stack | | |
 | 21 | Merge Two Sorted Lists | Easy | O(N) | O(1) | Linked List | | |
 | 22 | Generate Parentheses | Medium | Complicated | Complicated | String, Backtracking | | |
 | 46 | Permutations | Medium | Pending | Pending | | | |
