@@ -7,6 +7,7 @@
 | 7 | Reverse Integer | Easy | O(log x) | O(1) | Tricky | | |
 | 15 | 3Sum | Medium | O(N) | O(1) | | | |
 | 21 | Merge Two Sorted Lists | Easy | O(N) | O(1) | Linked List | | |
+| 22 | Generate Parentheses | Medium | Complicated | Complicated | String, Backtracking | | |
 | 46 | Permutations | Medium | Pending | Pending | | | |
 | 53 | Maximum Subarray | Easy | O(N) | O(1) | | | |
 | 153 | Find Minimum in Rotated Sorted Array | Medium | O(log N) | O(1) | Binary Search | | |
