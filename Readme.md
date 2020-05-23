@@ -29,19 +29,19 @@
 | 476 | Number Complement | Easy | O(N) | O(1) | Bit Manipulation | | |
 | 540 | Single Element in a Sorted Array | Medium | O(log N) | O(1) | Binary Search | | |
 | 567 | Permutation in String | Medium | O(S1 + S2) | O(1) | String, Two Pointers, Sliding Window | | |
-| 733 | Flood Fill | Easy | O(N) | O(N) | DFS | | |
+| 733 | Flood Fill | Easy | O(N) | O(N) | Depth First Search | | |
 | 830 | Positions of Large Groups | Easy | O(N) | O(1) | | | |
 | 901 | Online Stock Span | Medium | O(1) | O(N) | Monotonic Stack | | |
 | 918 | Maximum Sum Circular Subarray | Medium | O(N) | O(1) | Array, Dynamic Programming | | |
 | 986 | Interval List Intersections | Medium | O(N + M) | O(1) | Two Pointers | | |
-| 993 | Cousins in Binary Tree | Easy | O(N) | O(H) | Tree | | |
+| 993 | Cousins in Binary Tree | Easy | O(N) | O(H) | Trees, Recursion | | |
 | 1060 | Missing Element in Sorted Array | Medium | O(log N) | O(1) | Binary Search | | 🔒 |
 | 1232 | Check If It Is a Straight Line | Easy | O(N) | O(1) | Math, Pythonic, Geometry | | |
 | 1277 | Count Square Submatrices with All Ones | Medium | O(N * M) | O(1) | Array, Dynamic Programming | | |
 | 1375 | Bulb Switcher III | Medium | O(N) | O(1) | Array | | |
 | 1426 | Counting Elements | Easy | O(N) | O(N) | | | 🔒 |
 | 1427 | Perform String Shifts | Easy | O(N + S) | O(1) | | | 🔒 |
-| 1441 | Build an Array With Stack Operations | Easy | O(N) | O(N) | | | |
+| 1441 | Build an Array With Stack Operations | Easy | O(N) | O(N) | Pythonic | | |
 | 1446 | Consecutive Characters | Easy | O(N) | O(1) | | | |
 | 1450 | Number of Students Doing Homework at a Given Time | Easy | O(N) | O(1) | | | |
 | | | | | | | | |

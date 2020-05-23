@@ -11,7 +11,7 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-# TAGS: trees, recursion
+# TAGS: Trees, Recursion
 # REVIEWME:
 class Solution:
     # 24 ms, 97.22%. Time: O(N). Space: O(H)

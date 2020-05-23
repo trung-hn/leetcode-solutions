@@ -5,7 +5,7 @@
 #
 
 # @lc code=start
-# TAGS: dfs, 
+# TAGS: Depth First Search 
 class Solution:
     # 76 ms, 80%. O(N), O(N)
     def floodFill(self, image: List[List[int]], sr: int, sc: int, newColor: int) -> List[List[int]]:

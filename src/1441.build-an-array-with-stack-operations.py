@@ -3,7 +3,7 @@
 #
 # [1441] Build an Array With Stack Operations
 #
-# TAGS: pythonic,
+# TAGS: Pythonic,
 # @lc code=start
 class Solution:
     # 28 ms, 100%
