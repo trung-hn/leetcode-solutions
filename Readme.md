@@ -43,6 +43,7 @@
 | 1427 | Perform String Shifts | Easy | O(N + S) | O(1) | | | 🔒 |
 | 1441 | Build an Array With Stack Operations | Easy | O(N) | O(N) | Pythonic | | |
 | 1446 | Consecutive Characters | Easy | O(N) | O(1) | | | |
+| 1447 | Simplified Fractions | Medium | Varying | Varying | | | |
 | 1450 | Number of Students Doing Homework at a Given Time | Easy | O(N) | O(1) | | | |
 | | | | | | | | |
 
