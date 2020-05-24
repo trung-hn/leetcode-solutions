@@ -44,6 +44,7 @@
 | 1441 | Build an Array With Stack Operations | Easy | O(N) | O(N) | Pythonic | | |
 | 1446 | Consecutive Characters | Easy | O(N) | O(1) | | | |
 | 1447 | Simplified Fractions | Medium | Varying | Varying | | | |
+| 1448 | Count Good Nodes in Binary Tree | Medium | O(N) | O(H) | Tree, Depth First Search | | |
 | 1450 | Number of Students Doing Homework at a Given Time | Easy | O(N) | O(1) | | | |
 | 1451 | Rearrange Words in a Sentence | Medium | O(N * logN) | O(1) | String, Sort | | |
 | | | | | | | | |
