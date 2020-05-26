@@ -11,6 +11,7 @@
 | 22 | Generate Parentheses | Medium | Complicated | Complicated | String, Backtracking | | |
 | 46 | Permutations | Medium | Pending | Pending | | | |
 | 53 | Maximum Subarray | Easy | O(N) | O(1) | | | |
+| 114 | Flatten Binary Tree to Linked List | Medium | O(N) | O(1) | Tree, Depth First Search | | |
 | 153 | Find Minimum in Rotated Sorted Array | Medium | O(logN) | O(1) | Binary Search | | |
 | 154 | Find Minimum in Rotated Sorted Array II | Hard | O(logN) | O(1) | Binary Search | | |
 | 208 | Implement Trie (Prefix Tree) | Medium | Varying | Varying | Design, Trie | | |
