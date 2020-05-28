@@ -21,6 +21,7 @@
 | 295 | Find Median from Data Stream | Hard | O(logN) | O(N) | Design, Hard, Heap | | |
 | 319 | Bulb Switcher | Medium | O(1) | O(1) | Math, Tricky |  | |
 | 328 | Odd Even Linked List | Medium | O(N) | O(1) | Linked List |  | |
+| 338 | Counting Bits | Medium | O(N) | O(N) | Dynamic Programming, Bit Manipulation |  | |
 | 367 | Valid Perfect Square | Easy | O(logN) | O(1) | | | |
 | 387 | First Unique Character in a String | Easy | O(N) | O(N) | | | |
 | 402 | Remove K Digits | Medium | O(N) | O(N) | Greedy | | |
