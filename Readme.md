@@ -14,6 +14,7 @@
 | 114 | Flatten Binary Tree to Linked List | Medium | O(N) | O(1) | Tree, Depth First Search | | |
 | 153 | Find Minimum in Rotated Sorted Array | Medium | O(logN) | O(1) | Binary Search | | |
 | 154 | Find Minimum in Rotated Sorted Array II | Hard | O(logN) | O(1) | Binary Search | | |
+| 207 | Course Schedule | Medium | O(N + E) | O(N + E) | Breath First Search, Depth First Search, Graph, Topological Sort | | |
 | 208 | Implement Trie (Prefix Tree) | Medium | Varying | Varying | Design, Trie | | |
 | 221 | Maximal Square | Medium | O(N * M) | O(1) | Array, Dynamic Programming | | |
 | 222 | Count Complete Tree Nodes | Medium | O(logN * logN) | O(1) | Binary Search, Tree | | |
