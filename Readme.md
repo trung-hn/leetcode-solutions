@@ -50,6 +50,7 @@
 | 1426 | Counting Elements | Easy | O(N) | O(N) | | | 🔒 |
 | 1427 | Perform String Shifts | Easy | O(N + S) | O(1) | | | 🔒 |
 | 1441 | Build an Array With Stack Operations | Easy | O(N) | O(N) | Pythonic | | |
+| 1442 | Count Triplets That Can Form Two Arrays of Equal XOR | Medium | O(N) | O(N) | Array, Math, Bit Manipulation | | |
 | 1446 | Consecutive Characters | Easy | O(N) | O(1) | | | |
 | 1447 | Simplified Fractions | Medium | Varying | Varying | | | |
 | 1448 | Count Good Nodes in Binary Tree | Medium | O(N) | O(H) | Tree, Depth First Search | | |
