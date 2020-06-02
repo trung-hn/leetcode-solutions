@@ -58,7 +58,8 @@
 | 1450 | Number of Students Doing Homework at a Given Time | Easy | O(N) | O(1) | | | |
 | 1451 | Rearrange Words in a Sentence | Medium | O(N * logN) | O(1) | String, Sort | | |
 | 1455 | Check If a Word Occurs As a Prefix of Any Word in a Sentence | Medium | O(N) | O(1) | String, Pythonic | | |
-| 1460 | Make Two Arrays Equal by Reversing Sub-arrays | Medium | O(N) | O(1) | Array | | |
+| 1460 | Make Two Arrays Equal by Reversing Sub-arrays | Easy | O(N) | O(1) | Array | | |
+| 1464 | Maximum Product of Two Elements in an Array | Easy | O(N) | O(1) | Array | | |
 | | | | | | | | |
 
 For premium problems, question description are available as screenshots [here](./premium-questions)
