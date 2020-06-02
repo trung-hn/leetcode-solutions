@@ -58,6 +58,18 @@
 | 1450 | Number of Students Doing Homework at a Given Time | Easy | O(N) | O(1) | | | |
 | 1451 | Rearrange Words in a Sentence | Medium | O(N * logN) | O(1) | String, Sort | | |
 | 1455 | Check If a Word Occurs As a Prefix of Any Word in a Sentence | Medium | O(N) | O(1) | String, Pythonic | | |
+| 1460 | Make Two Arrays Equal by Reversing Sub-arrays | Medium | O(N) | O(1) | Array | | |
 | | | | | | | | |
 
 For premium problems, question description are available as screenshots [here](./premium-questions)
+
+
+
+# Posts:
+- Graph: https://leetcode.com/discuss/general-discussion/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions 
+- Sliding Windows: https://leetcode.com/discuss/general-discussion/657507/Sliding-Window-for-Beginners-Problems-or-Template-or-Sample-Solutions
+
+### Dynamic Programming:
+- https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions
+- https://leetcode.com/discuss/interview-question/491522/dynamic-programming-questions-thread
+- https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns
