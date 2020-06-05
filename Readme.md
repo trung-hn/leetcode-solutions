@@ -33,7 +33,8 @@
 | 450 | Delete Node in a BST | Medium | O(H) | O(H) | Binary Search Tree | | |
 | 451 | Sort Characters By Frequency | Medium | O(N) | O(N) | Hash Table, Sorting, Pythonic | | |
 | 476 | Number Complement | Easy | O(N) | O(1) | Bit Manipulation | | |
-| 525 | Contiguous Array | Medium | O(N) | ON | Hash Table | Very good problem | |
+| 525 | Contiguous Array | Medium | O(N) | O(N) | Hash Table | Very good problem | |
+| 528 | Random Pick with Weight | Medium | O(N), O(logN) | O(N), O(1) | Binary Search, Random | Pythonic | |
 | 540 | Single Element in a Sorted Array | Medium | O(logN) | O(1) | Binary Search | | |
 | 567 | Permutation in String | Medium | O(S1 + S2) | O(1) | String, Two Pointers, Sliding Window | | |
 | 733 | Flood Fill | Easy | O(N) | O(N) | Depth First Search | | |
