@@ -28,6 +28,7 @@
 | 367 | Valid Perfect Square | Easy | O(logN) | O(1) | | | |
 | 387 | First Unique Character in a String | Easy | O(N) | O(N) | | | |
 | 402 | Remove K Digits | Medium | O(N) | O(N) | Greedy | | |
+| 406 | Queue Reconstruction by Height | Medium | O(N^2) | O(N) | Greedy | Clever solution | |
 | 419 | Battleships in a Board | Medium | O(N*N) | O(1) | Array, Depth First Search | | |
 | 438 | Find All Anagrams in a String | Medium | O(N_s + N_p) | O(1) | Hash Table | | |
 | 450 | Delete Node in a BST | Medium | O(H) | O(H) | Binary Search Tree | | |
