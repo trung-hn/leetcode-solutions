@@ -20,6 +20,7 @@
 | 221 | Maximal Square | Medium | O(N * M) | O(1) | Array, Dynamic Programming | | |
 | 222 | Count Complete Tree Nodes | Medium | O(logN * logN) | O(1) | Binary Search, Tree | | |
 | 230 | Kth Smallest Element in a BST | Medium | O(H + k) | O(H + k) | Tree, Depth First Search | Use general formula for tree traversal | |
+| 231 | Power of Two | Easy | O(1) | O(1) | Bit Manipulation | Important technique in bit manipulation | |
 | 295 | Find Median from Data Stream | Hard | O(logN) | O(N) | Design, Hard, Heap | | |
 | 319 | Bulb Switcher | Medium | O(1) | O(1) | Math, Tricky |  | |
 | 328 | Odd Even Linked List | Medium | O(N) | O(1) | Linked List |  | |
