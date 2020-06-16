@@ -68,6 +68,7 @@
 | 1464 | Maximum Product of Two Elements in an Array | Easy | O(N) | O(1) | Array | | |
 | 1470 | Shuffle the Array | Easy | O(N) | O(N) | Array | There is a better solution | |
 | 1471 | The k Strongest Values in an Array | Medium | O(NlogN) | O(N) | Array, Sort | There is a better solution | |
+| 1472 | Design Browser History | Medium | O(1) | O(1) | Design | | |
 | | | | | | | | |
 
 For premium problems, question description are available as screenshots [here](./premium-questions)
