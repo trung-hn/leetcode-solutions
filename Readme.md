@@ -40,6 +40,7 @@
 | 540 | Single Element in a Sorted Array | Medium | O(logN) | O(1) | Binary Search | | |
 | 567 | Permutation in String | Medium | O(S1 + S2) | O(1) | String, Two Pointers, Sliding Window | | |
 | 733 | Flood Fill | Easy | O(N) | O(N) | Depth First Search | | |
+| 787 |  Dijkstra's Algorithm | Medium | Complex | Complex |  | Quite hard | |
 | 830 | Positions of Large Groups | Easy | O(N) | O(1) | | | |
 | 886 | Possible Bipartition | Medium | O(N + E) | O(N + E) | Depth First Search | Good problem | |
 | 901 | Online Stock Span | Medium | O(1) | O(N) | Monotonic Stack | | |
