@@ -27,6 +27,7 @@
 | 338 | Counting Bits | Medium | O(N) | O(N) | Dynamic Programming, Bit Manipulation |  | |
 | 344 | Reverse String | Easy | O(N) | O(1) | Two Pointers, String |  | |
 | 367 | Valid Perfect Square | Easy | O(logN) | O(1) | | | |
+| 380 | Insert Delete GetRandom O(1) | Meidum | O(1) | O(N) | | | |
 | 387 | First Unique Character in a String | Easy | O(N) | O(N) | | | |
 | 402 | Remove K Digits | Medium | O(N) | O(N) | Greedy | | |
 | 406 | Queue Reconstruction by Height | Medium | O(N^2) | O(N) | Greedy | Clever solution | |
