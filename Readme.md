@@ -67,6 +67,7 @@
 | 1451 | Rearrange Words in a Sentence | Medium | O(N * logN) | O(1) | String, Sort | | |
 | 1455 | Check If a Word Occurs As a Prefix of Any Word in a Sentence | Medium | O(N) | O(1) | String, Pythonic | | |
 | 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium | O(N) | O(1) | String, Sliding Window | | |
+| 1457 | Pseudo-Palindromic Paths in a Binary Tree | Medium | O(N) | O(H) | Bit Manipulation, Tree, Depth First Search   | | |
 | 1460 | Make Two Arrays Equal by Reversing Sub-arrays | Easy | O(N) | O(1) | Array | | |
 | 1464 | Maximum Product of Two Elements in an Array | Easy | O(N) | O(1) | Array | | |
 | 1470 | Shuffle the Array | Easy | O(N) | O(N) | Array | There is a better solution | |
