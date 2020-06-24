@@ -76,6 +76,7 @@
 | 1471 | The k Strongest Values in an Array | Medium | O(NlogN) | O(N) | Array, Sort | There is a better solution | |
 | 1472 | Design Browser History | Medium | O(1) | O(1) | Design | | |
 | 1474 | Delete N Nodes After M Nodes of a Linked List | Easy | O(N) | O(1) | Linked List | | 🔒 |
+| 1475 | Final Prices With a Special Discount in a Shop | Easy | O(N) | O(1) | Monotonic Stack | | |
 | | | | | | | | |
 
 For premium problems, question description are available as screenshots [here](./premium-questions)
