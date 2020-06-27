@@ -79,6 +79,7 @@
 | 1474 | Delete N Nodes After M Nodes of a Linked List | Easy | O(N) | O(1) | Linked List | | 🔒 |
 | 1475 | Final Prices With a Special Discount in a Shop | Easy | O(N) | O(1) | Monotonic Stack | | |
 | 1480 | Running Sum of 1d Array | Easy | O(N) | O(1) | | | |
+| 1481 | Least Number of Unique Integers after K Removals | Medium | O(NlogN) | O(N) | Array, Sort | | |
 | | | | | | | | |
 
 For premium problems, question description are available as screenshots [here](./premium-questions)
