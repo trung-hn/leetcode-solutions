@@ -61,6 +61,7 @@
 | 1427 | Perform String Shifts | Easy | O(N + S) | O(1) | | | 🔒 |
 | 1441 | Build an Array With Stack Operations | Easy | O(N) | O(N) | Pythonic | | |
 | 1442 | Count Triplets That Can Form Two Arrays of Equal XOR | Medium | O(N) | O(N) | Array, Math, Bit Manipulation | | |
+| 1443 | Minimum Time to Collect All Apples in a Tree | Medium | O(E) | O(E) | Tree, Depth First Search | | |
 | 1446 | Consecutive Characters | Easy | O(N) | O(1) | | | |
 | 1447 | Simplified Fractions | Medium | Varying | Varying | | | |
 | 1448 | Count Good Nodes in Binary Tree | Medium | O(N) | O(H) | Tree, Depth First Search | | |
@@ -93,3 +94,5 @@ For premium problems, question description are available as screenshots [here](.
 - https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions
 - https://leetcode.com/discuss/interview-question/491522/dynamic-programming-questions-thread
 - https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns
+### Others:
+- https://leetcode.com/discuss/general-discussion/705117/requesting-guidance-from-those-who-solved-1000-leets-so-far
