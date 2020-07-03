@@ -49,6 +49,7 @@
 | 886 | Possible Bipartition | Medium | O(N + E) | O(N + E) | Depth First Search | Good problem | |
 | 901 | Online Stock Span | Medium | O(1) | O(N) | Monotonic Stack | | |
 | 918 | Maximum Sum Circular Subarray | Medium | O(N) | O(1) | Array, Dynamic Programming | | |
+| 957 | Prison Cells After N Days | Medium | O(1) | O(1) | Has Table | | |
 | 973 | K Closest Points to Origin | Medium | O(N log(K)) | O(K) | Divide and Conquer, Heap, Sort | | |
 | 986 | Interval List Intersections | Medium | O(N + M) | O(1) | Two Pointers | | |
 | 993 | Cousins in Binary Tree | Easy | O(N) | O(H) | Trees, Recursion | | |
