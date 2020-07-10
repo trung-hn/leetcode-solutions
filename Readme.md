@@ -78,7 +78,7 @@
 | 1457 | Pseudo-Palindromic Paths in a Binary Tree | Medium | O(N) | O(H) | Bit Manipulation, Tree, Depth First Search   | | |
 | 1460 | Make Two Arrays Equal by Reversing Sub-arrays | Easy | O(N) | O(1) | Array | | |
 | 1464 | Maximum Product of Two Elements in an Array | Easy | O(N) | O(1) | Array | | |
-| 1466 | Reorder Routes to Make All Paths Lead to the City Zero | Medium | O(|V|) | O(|V|) | Tree, Depth First Search | | |
+| 1466 | Reorder Routes to Make All Paths Lead to the City Zero | Medium | O(\|V\|) | O(\|V\|) | Tree, Depth First Search | | |
 | 1470 | Shuffle the Array | Easy | O(N) | O(N) | Array | There is a better solution | |
 | 1471 | The k Strongest Values in an Array | Medium | O(NlogN) | O(N) | Array, Sort | There is a better solution | |
 | 1472 | Design Browser History | Medium | O(1) | O(1) | Design | | |
