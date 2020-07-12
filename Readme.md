@@ -90,6 +90,7 @@
 | 1480 | Running Sum of 1d Array | Easy | O(N) | O(1) | | | |
 | 1481 | Least Number of Unique Integers after K Removals | Medium | O(NlogN) | O(N) | Array, Sort | | |
 | 1482 | Minimum Number of Days to Make m Bouquets | Medium | O(NlogN) | O(N) | Array, Binary Search | | |
+| 1486 | XOR Operation in an Array | Easy | O(1) | O(1) | Bit Manipulation | | |
 | | | | | | | | |
 
 For premium problems, question description are available as screenshots [here](./premium-questions)
