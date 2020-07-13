@@ -13,6 +13,7 @@
 | 53 | Maximum Subarray | Easy | O(N) | O(1) | | | |
 | 72 | Edit Distance | Hard | O(N * M) | O(N) | String, Dynamic Programming | | |
 | 78 | Subsets | Medium | O(N\*2^N) | O(N\*2^N) | Backtracking, Bit Manipulation | | |
+| 100 | Same Tree | Easy | O(N) | O(H) | Tree, Pythonic | | |
 | 107 | Binary Tree Level Order Traversal II | Easy | O(N) | O(N) | Tree, Breath First Search | | |
 | 114 | Flatten Binary Tree to Linked List | Medium | O(N) | O(1) | Tree, Depth First Search | | |
 | 153 | Find Minimum in Rotated Sorted Array | Medium | O(logN) | O(1) | Binary Search | | |
