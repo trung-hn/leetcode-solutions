@@ -52,7 +52,8 @@
 | 662 | Maximum Width of Binary Tree | Medium | O(N) | O(N) | Tree | | |
 | 700 | Search in a Binary Search Tree | Easy | O(H) | O(1) | Tree | | |
 | 733 | Flood Fill | Easy | O(N) | O(N) | Depth First Search | | |
-| 787 |  Dijkstra's Algorithm | Medium | Complex | Complex |  | Quite hard | |
+| 787 | Dijkstra's Algorithm | Medium | Complex | Complex |  | Quite hard | |
+| 797 | All Paths From Source to Target | Medium | O(2^N * N) | O(2^N * N) | Backtracking, Depth First Search |  | |
 | 830 | Positions of Large Groups | Easy | O(N) | O(1) | | | |
 | 886 | Possible Bipartition | Medium | O(N + E) | O(N + E) | Depth First Search | Good problem | |
 | 901 | Online Stock Span | Medium | O(1) | O(N) | Monotonic Stack | | |
