@@ -96,6 +96,7 @@
 | 1481 | Least Number of Unique Integers after K Removals | Medium | O(NlogN) | O(N) | Array, Sort | | |
 | 1482 | Minimum Number of Days to Make m Bouquets | Medium | O(NlogN) | O(N) | Array, Binary Search | | |
 | 1486 | XOR Operation in an Array | Easy | O(1) | O(1) | Bit Manipulation | | |
+| 1491 | Average Salary Excluding the Minimum and Maximum Salary | Easy | O(N) | O(1) | | | |
 | | | | | | | | |
 
 For premium problems, question description are available as screenshots [here](./premium-questions)
