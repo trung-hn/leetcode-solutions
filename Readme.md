@@ -97,6 +97,7 @@
 | 1482 | Minimum Number of Days to Make m Bouquets | Medium | O(NlogN) | O(N) | Array, Binary Search | | |
 | 1486 | XOR Operation in an Array | Easy | O(1) | O(1) | Bit Manipulation | | |
 | 1491 | Average Salary Excluding the Minimum and Maximum Salary | Easy | O(N) | O(1) | | | |
+| 1493 | Longest Subarray of 1's After Deleting One Element | Medium | O(N) | O(1) | Array | | |
 | | | | | | | | |
 
 For premium problems, question description are available as screenshots [here](./premium-questions)
