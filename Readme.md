@@ -44,6 +44,7 @@
 | 406 | Queue Reconstruction by Height | Medium | O(N^2) | O(N) | Greedy | Clever solution | |
 | 419 | Battleships in a Board | Medium | O(N*N) | O(1) | Array, Depth First Search | | |
 | 438 | Find All Anagrams in a String | Medium | O(N_s + N_p) | O(1) | Hash Table | | |
+| 442 | Find All Duplicates in an Array | Medium | O(N) | O(1) | Array | | |
 | 450 | Delete Node in a BST | Medium | O(H) | O(H) | Binary Search Tree | | |
 | 451 | Sort Characters By Frequency | Medium | O(N) | O(N) | Hash Table, Sorting, Pythonic | | |
 | 463 | Island Perimeter | Easy | O(N*M) | O(1) | Greedy | | |
