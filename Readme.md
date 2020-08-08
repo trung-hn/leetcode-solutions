@@ -29,6 +29,7 @@
 | 230 | Kth Smallest Element in a BST | Medium | O(H + k) | O(H + k) | Tree, Depth First Search | Use general formula for tree traversal | |
 | 231 | Power of Two | Easy | O(1) | O(1) | Bit Manipulation | Important technique in bit manipulation | |
 | 264 | Ugly Number II | Medium | O(1) | O(1) | Heap, Dynamic Programming | | |
+| 270 | Closest Binary Search Tree Value | Easy | O(H) | O(1) | Binary Search, Tree | | 🔒 |
 | 274 | H-Index | Medium | O(NlogN) | O(N) | Hash Table, Sort | There is a better solution | |
 | 295 | Find Median from Data Stream | Hard | O(logN) | O(N) | Design, Hard, Heap | | |
 | 319 | Bulb Switcher | Medium | O(1) | O(1) | Math, Tricky | | |
