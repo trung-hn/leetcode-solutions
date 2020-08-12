@@ -16,6 +16,7 @@
 | 100 | Same Tree | Easy | O(N) | O(H) | Tree, Pythonic | | |
 | 107 | Binary Tree Level Order Traversal II | Easy | O(N) | O(N) | Tree, Breath First Search | | |
 | 114 | Flatten Binary Tree to Linked List | Medium | O(N) | O(1) | Tree, Depth First Search | | |
+| 119 | Pascal's Triangle II | Easy | O(k^2) | O(k) | Array | | |
 | 125 | Valid Palindrome | Easy | O(1) | O(1) | String | | |
 | 151 | Reverse Words in a String | Easy | O(N) | O(N) | String | | |
 | 153 | Find Minimum in Rotated Sorted Array | Medium | O(logN) | O(1) | Binary Search | | |
