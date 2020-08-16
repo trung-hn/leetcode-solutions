@@ -46,6 +46,7 @@
 | 402 | Remove K Digits | Medium | O(N) | O(N) | Greedy | | |
 | 406 | Queue Reconstruction by Height | Medium | O(N^2) | O(N) | Greedy | Clever solution | |
 | 419 | Battleships in a Board | Medium | O(N*N) | O(1) | Array, Depth First Search | | |
+| 435 | Non-overlapping Intervals | Medium | O(NlogN) | O(1) | Greedy | Tricky, Hard | |
 | 437 | Path Sum III | Medium | O(N) | O(N) | Tree | Tricky, Hard | |
 | 438 | Find All Anagrams in a String | Medium | O(N_s + N_p) | O(1) | Hash Table | | |
 | 442 | Find All Duplicates in an Array | Medium | O(N) | O(1) | Array | | |
