@@ -70,6 +70,7 @@
 | 901 | Online Stock Span | Medium | O(1) | O(N) | Monotonic Stack | | |
 | 918 | Maximum Sum Circular Subarray | Medium | O(N) | O(1) | Array, Dynamic Programming | | |
 | 957 | Prison Cells After N Days | Medium | O(1) | O(1) | Has Table | | |
+| 967 | Numbers With Same Consecutive Differences | Medium | O(N*2^N) | O(2^N) | DFS | | |
 | 973 | K Closest Points to Origin | Medium | O(N log(K)) | O(K) | Divide and Conquer, Heap, Sort | | |
 | 986 | Interval List Intersections | Medium | O(N + M) | O(1) | Two Pointers | | |
 | 987 | Vertical Order Traversal of a Binary Tree | Medium | O(NlogN) | O(N) | Hash Table, Tree | | |
