@@ -69,6 +69,7 @@
 | 830 | Positions of Large Groups | Easy | O(N) | O(1) | | | |
 | 886 | Possible Bipartition | Medium | O(N + E) | O(N + E) | Depth First Search | Good problem | |
 | 901 | Online Stock Span | Medium | O(1) | O(N) | Monotonic Stack | | |
+| 905 | Sort Array By Parity | Easy | O(N) | O(1) | Array | | |
 | 918 | Maximum Sum Circular Subarray | Medium | O(N) | O(1) | Array, Dynamic Programming | | |
 | 957 | Prison Cells After N Days | Medium | O(1) | O(1) | Has Table | | |
 | 967 | Numbers With Same Consecutive Differences | Medium | O(N*2^N) | O(2^N) | DFS | | |
