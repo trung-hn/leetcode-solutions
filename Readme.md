@@ -55,6 +55,7 @@
 | 451 | Sort Characters By Frequency | Medium | O(N) | O(N) | Hash Table, Sorting, Pythonic | | |
 | 463 | Island Perimeter | Easy | O(N*M) | O(1) | Greedy | | |
 | 476 | Number Complement | Easy | O(N) | O(1) | Bit Manipulation | | |
+| 497 | Random Point in Non-overlapping Rectangles | Medium | O(logN) | O(N) | Design, Binary Search | | |
 | 520 | Detect Capital | Easy | O(N) | O(1) | | | |
 | 525 | Contiguous Array | Medium | O(N) | O(N) | Hash Table | Very good problem | |
 | 528 | Random Pick with Weight | Medium | O(N), O(logN) | O(N), O(1) | Binary Search, Random | Pythonic | |
