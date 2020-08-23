@@ -80,6 +80,7 @@
 | 993 | Cousins in Binary Tree | Easy | O(N) | O(H) | Trees, Recursion | | |
 | 994 | Rotting Oranges | Medium | O(N^2) | O(N) | Trees, Recursion | | |
 | 1029 | Two City Scheduling | Easy | O(NlogN) | O(N) | Greedy | Good Problem | |
+| 1032 | Stream of Characters | Hard | O(M) | O(M) | Trie | | |
 | 1035 | Uncrossed Lines | Medium | O(N^2) | O(N) | Array, Dynamic Programming | | |
 | 1060 | Missing Element in Sorted Array | Medium | O(logN) | O(1) | Binary Search | | 🔒 |
 | 1232 | Check If It Is a Straight Line | Easy | O(N) | O(1) | Math, Pythonic, Geometry | | |
@@ -119,6 +120,7 @@
 | 1496 | Path Crossing | Easy | O(N) | O(N) | String | | |
 | 1502 | Can Make Arithmetic Progression From Sequence | Easy | O(NlogN) | O(1) | Array | | |
 | 1507 | Reformat Date | Easy | O(1) | O(1) | String | | |
+| 1508 | Range Sum of Sorted Subarray Sums | Medium | O(N^2logN) | O(N^2) | | | |
 | | | | | | | | |
 
 For premium problems, question description are available as screenshots [here](./premium-questions)
