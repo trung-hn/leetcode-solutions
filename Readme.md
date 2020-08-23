@@ -118,6 +118,7 @@
 | 1493 | Longest Subarray of 1's After Deleting One Element | Medium | O(N) | O(1) | Array | | |
 | 1496 | Path Crossing | Easy | O(N) | O(N) | String | | |
 | 1502 | Can Make Arithmetic Progression From Sequence | Easy | O(NlogN) | O(1) | Array | | |
+| 1507 | Reformat Date | Easy | O(1) | O(1) | String | | |
 | | | | | | | | |
 
 For premium problems, question description are available as screenshots [here](./premium-questions)
