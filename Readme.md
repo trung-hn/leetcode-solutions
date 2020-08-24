@@ -45,6 +45,7 @@
 | 380 | Insert Delete GetRandom O(1) | Meidum | O(1) | O(N) | | | |
 | 387 | First Unique Character in a String | Easy | O(N) | O(N) | | | |
 | 402 | Remove K Digits | Medium | O(N) | O(N) | Greedy | | |
+| 404 | Sum of Left Leaves | Easy | O(N) | O(H) | Tree | | |
 | 406 | Queue Reconstruction by Height | Medium | O(N^2) | O(N) | Greedy | Clever solution | |
 | 419 | Battleships in a Board | Medium | O(N*N) | O(1) | Array, Depth First Search | | |
 | 435 | Non-overlapping Intervals | Medium | O(NlogN) | O(1) | Greedy | Tricky, Hard | |
