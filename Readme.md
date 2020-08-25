@@ -125,6 +125,7 @@
 | 1509 | Minimum Difference Between Largest and Smallest Value in Three Moves | Medium | O(NlogN) | O(1) | | | |
 | 1512 | Number of Good Pairs | Easy | O(N) | O(N) | | | |
 | 1513 | Number of Substrings With Only 1s | Medium | O(N) | O(N) | String, Math | | |
+| 1528 | Shuffle String | Easy | O(N) | O(N) | String | | |
 | | | | | | | | |
 
 For premium problems, question description are available as screenshots [here](./premium-questions)
