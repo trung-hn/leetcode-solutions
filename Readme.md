@@ -127,6 +127,7 @@
 | 1512 | Number of Good Pairs | Easy | O(N) | O(N) | | | |
 | 1513 | Number of Substrings With Only 1s | Medium | O(N) | O(N) | String, Math | | |
 | 1528 | Shuffle String | Easy | O(N) | O(N) | String | | |
+| 1529 | Bulb Switcher IV | Medium | O(N) | O(1) | String | | |
 | | | | | | | | |
 
 For premium problems, question description are available as screenshots [here](./premium-questions)
