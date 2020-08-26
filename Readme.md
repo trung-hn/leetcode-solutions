@@ -126,6 +126,7 @@
 | 1509 | Minimum Difference Between Largest and Smallest Value in Three Moves | Medium | O(NlogN) | O(1) | | | |
 | 1512 | Number of Good Pairs | Easy | O(N) | O(N) | | | |
 | 1513 | Number of Substrings With Only 1s | Medium | O(N) | O(N) | String, Math | | |
+| 1518 | Water Bottles | Easy | O(1) | O(1) | Greedy, Simulation | | |
 | 1525 | Number of Good Ways to Split a String | Medium | O(N) | O(N) | String | | |
 | 1528 | Shuffle String | Easy | O(N) | O(N) | String | | |
 | 1529 | Bulb Switcher IV | Medium | O(N) | O(1) | String | | |
