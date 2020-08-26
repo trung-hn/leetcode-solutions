@@ -128,6 +128,7 @@
 | 1513 | Number of Substrings With Only 1s | Medium | O(N) | O(N) | String, Math | | |
 | 1528 | Shuffle String | Easy | O(N) | O(N) | String | | |
 | 1529 | Bulb Switcher IV | Medium | O(N) | O(1) | String | | |
+| 1530 | Number of Good Leaf Nodes Pairs | Medium | O(N^2logN) | O(N) | Tree, Depth First Search | | |
 | | | | | | | | |
 
 For premium problems, question description are available as screenshots [here](./premium-questions)
