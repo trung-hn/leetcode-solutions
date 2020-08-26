@@ -128,6 +128,7 @@
 | 1513 | Number of Substrings With Only 1s | Medium | O(N) | O(N) | String, Math | | |
 | 1518 | Water Bottles | Easy | O(1) | O(1) | Greedy, Simulation | | |
 | 1523 | Count Odd Numbers in an Interval Range | Easy | O(1) | O(1) | Math | | |
+| 1524 | Number of Sub-arrays With Odd Sum | Medium | O(N) | O(1) | Array, Math, Dynamic Programming | | |
 | 1525 | Number of Good Ways to Split a String | Medium | O(N) | O(N) | String | | |
 | 1528 | Shuffle String | Easy | O(N) | O(N) | String | | |
 | 1529 | Bulb Switcher IV | Medium | O(N) | O(1) | String | | |
