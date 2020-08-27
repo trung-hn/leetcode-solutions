@@ -136,6 +136,7 @@
 | 1530 | Number of Good Leaf Nodes Pairs | Medium | O(N^2logN) | O(N) | Tree, Depth First Search | | |
 | 1535 | Find the Winner of an Array Game | Medium | O(N) | O(1) | Array | | |
 | 1556 | Thousand Separator | Easy | O(N) | O(N) | String | | |
+| 1557 | Minimum Number of Vertices to Reach All Nodes | Medium | O(N) | O(N) | Graph | | |
 | | | | | | | | |
 
 For premium problems, question description are available as screenshots [here](./premium-questions)
