@@ -137,6 +137,7 @@
 | 1535 | Find the Winner of an Array Game | Medium | O(N) | O(1) | Array | | |
 | 1556 | Thousand Separator | Easy | O(N) | O(N) | String | | |
 | 1557 | Minimum Number of Vertices to Reach All Nodes | Medium | O(N) | O(N) | Graph | | |
+| 1558 | Minimum Numbers of Function Calls to Make Target Array | Medium | O(NlogK) | O(N) | Greedy, Simulation | | |
 | | | | | | | | |
 
 For premium problems, question description are available as screenshots [here](./premium-questions)
