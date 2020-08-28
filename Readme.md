@@ -56,6 +56,7 @@
 | 450 | Delete Node in a BST | Medium | O(H) | O(H) | Binary Search Tree | | |
 | 451 | Sort Characters By Frequency | Medium | O(N) | O(N) | Hash Table, Sorting, Pythonic | | |
 | 463 | Island Perimeter | Easy | O(N*M) | O(1) | Greedy | | |
+| 470 | Implement Rand10() Using Rand7() | Medium | O(1) | O(1) | Math | | |
 | 476 | Number Complement | Easy | O(N) | O(1) | Bit Manipulation | | |
 | 497 | Random Point in Non-overlapping Rectangles | Medium | O(logN) | O(N) | Design, Binary Search | | |
 | 520 | Detect Capital | Easy | O(N) | O(1) | | | |
