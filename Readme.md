@@ -136,6 +136,7 @@
 | 1529 | Bulb Switcher IV | Medium | O(N) | O(1) | String | | |
 | 1530 | Number of Good Leaf Nodes Pairs | Medium | O(N^2logN) | O(N) | Tree, Depth First Search | | |
 | 1535 | Find the Winner of an Array Game | Medium | O(N) | O(1) | Array | | |
+| 1550 | Three Consecutive Odds | Easy | O(N) | O(1) | Array | | |
 | 1556 | Thousand Separator | Easy | O(N) | O(N) | String | | |
 | 1557 | Minimum Number of Vertices to Reach All Nodes | Medium | O(N) | O(N) | Graph | | |
 | 1558 | Minimum Numbers of Function Calls to Make Target Array | Medium | O(NlogK) | O(N) | Greedy, Simulation | | |
