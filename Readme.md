@@ -136,6 +136,7 @@
 | 1529 | Bulb Switcher IV | Medium | O(N) | O(1) | String | | |
 | 1530 | Number of Good Leaf Nodes Pairs | Medium | O(N^2logN) | O(N) | Tree, Depth First Search | | |
 | 1535 | Find the Winner of an Array Game | Medium | O(N) | O(1) | Array | | |
+| 1544 | Make The String Great | Easy | O(N) | O(N) | String, Stack | | |
 | 1550 | Three Consecutive Odds | Easy | O(N) | O(1) | Array | | |
 | 1551 | Minimum Operations to Make Array Equal | Medium | O(1) | O(1) | Math | | |
 | 1552 | Magnetic Force Between Two Balls | Medium | O(NlogN) | O(1) | Binary Search | Template for Binary Search | |
