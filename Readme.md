@@ -77,6 +77,7 @@
 | 918 | Maximum Sum Circular Subarray | Medium | O(N) | O(1) | Array, Dynamic Programming | | |
 | 957 | Prison Cells After N Days | Medium | O(1) | O(1) | Has Table | | |
 | 967 | Numbers With Same Consecutive Differences | Medium | O(N*2^N) | O(2^N) | DFS | | |
+| 969 | Pancake Sorting | Medium | O(N^2) | O(N) | Array | | |
 | 973 | K Closest Points to Origin | Medium | O(N log(K)) | O(K) | Divide and Conquer, Heap, Sort | | |
 | 983 | Minimum Cost For Tickets | Medium | O(365) | O(365) | LRU Cache, Dynamic Programming | | |
 | 986 | Interval List Intersections | Medium | O(N + M) | O(1) | Two Pointers | | |
