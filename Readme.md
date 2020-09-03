@@ -27,6 +27,7 @@
 | 207 | Course Schedule | Medium | O(N + E) | O(N + E) | Breath First Search, Depth First Search, Graph, Topological Sort | | |
 | 208 | Implement Trie (Prefix Tree) | Medium | Varying | Varying | Design, Trie | | |
 | 211 | Add and Search Word - Data structure design | Medium | O(M) | O(1) | Trie, Design | | |
+| 220 | Contains Duplicate III | Medium | O(N) | O(N) | Sort, Ordered Map | | |
 | 221 | Maximal Square | Medium | O(N * M) | O(1) | Array, Dynamic Programming | | |
 | 222 | Count Complete Tree Nodes | Medium | O(logN * logN) | O(1) | Binary Search, Tree | | |
 | 230 | Kth Smallest Element in a BST | Medium | O(H + k) | O(H + k) | Tree, Depth First Search | Use general formula for tree traversal | |
