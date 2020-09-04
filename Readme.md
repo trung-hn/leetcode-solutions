@@ -69,6 +69,7 @@
 | 700 | Search in a Binary Search Tree | Easy | O(H) | O(1) | Tree | | |
 | 705 | Design HashSet | Easy | Varies | Varies | Design HashSet | | |
 | 733 | Flood Fill | Easy | O(N) | O(N) | Depth First Search | | |
+| 763 | Partition Labels | Medium | O(N) | O(N) | | Greedy, Two Pointers |
 | 787 | Dijkstra's Algorithm | Medium | Complex | Complex |  | Quite hard | |
 | 797 | All Paths From Source to Target | Medium | O(2^N * N) | O(2^N * N) | Backtracking, Depth First Search |  | |
 | 830 | Positions of Large Groups | Easy | O(N) | O(1) | | | |
