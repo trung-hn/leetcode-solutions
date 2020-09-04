@@ -145,6 +145,7 @@
 | 1556 | Thousand Separator | Easy | O(N) | O(N) | String | | |
 | 1557 | Minimum Number of Vertices to Reach All Nodes | Medium | O(N) | O(N) | Graph | | |
 | 1558 | Minimum Numbers of Function Calls to Make Target Array | Medium | O(NlogK) | O(N) | Greedy, Simulation | | |
+| 1560 | Most Visited Sector in  a Circular Track | Easy | O(N) | O(1) | Array | | |
 | | | | | | | | |
 
 For premium problems, question description are available as screenshots [here](./premium-questions)
