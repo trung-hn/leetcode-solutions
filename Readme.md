@@ -35,6 +35,7 @@
 | 264 | Ugly Number II | Medium | O(1) | O(1) | Heap, Dynamic Programming | | |
 | 270 | Closest Binary Search Tree Value | Easy | O(H) | O(1) | Binary Search, Tree | | 🔒 |
 | 274 | H-Index | Medium | O(NlogN) | O(N) | Hash Table, Sort | There is a better solution | |
+| 290 | Word Pattern | Easy | O(N) | O(N) | Hash Table | | |
 | 295 | Find Median from Data Stream | Hard | O(logN) | O(N) | Design, Hard, Heap | | |
 | 319 | Bulb Switcher | Medium | O(1) | O(1) | Math, Tricky | | |
 | 328 | Odd Even Linked List | Medium | O(N) | O(1) | Linked List | | |
