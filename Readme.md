@@ -88,6 +88,7 @@
 | 987 | Vertical Order Traversal of a Binary Tree | Medium | O(NlogN) | O(N) | Hash Table, Tree | | |
 | 993 | Cousins in Binary Tree | Easy | O(N) | O(H) | Trees, Recursion | | |
 | 994 | Rotting Oranges | Medium | O(N^2) | O(N) | Trees, Recursion | | |
+| 1022 | Sum of Root To Leaf Binary Numbers | Easy | O(N) | O(H) | Tree | | |
 | 1029 | Two City Scheduling | Easy | O(NlogN) | O(N) | Greedy | Good Problem | |
 | 1032 | Stream of Characters | Hard | O(M) | O(M) | Trie | | |
 | 1035 | Uncrossed Lines | Medium | O(N^2) | O(N) | Array, Dynamic Programming | | |
