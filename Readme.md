@@ -42,7 +42,8 @@
 | 328 | Odd Even Linked List | Medium | O(N) | O(1) | Linked List | | |
 | 338 | Counting Bits | Medium | O(N) | O(N) | Dynamic Programming, Bit Manipulation | | |
 | 342 | Power of Four | Easy | O(1) | O(1) | Math, Bit Manipulation | | |
-| 344 | Reverse String | Easy | O(N) | O(1) | Two Pointers, String | | |
+| 344 | Reverse String | Easy | O(N) | O(1) | Two Pointers, String | | 🔒 |
+| 346 | Moving Average from Data Stream | Easy | O(1) | O(N) | Design | | |
 | 347 | Top K Frequent Elements | Medium | O(N) | O(N) | Hash Table, Heap | | |
 | 367 | Valid Perfect Square | Easy | O(logN) | O(1) | | | |
 | 380 | Insert Delete GetRandom O(1) | Meidum | O(1) | O(N) | | | |
