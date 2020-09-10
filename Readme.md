@@ -38,6 +38,7 @@
 | 274 | H-Index | Medium | O(NlogN) | O(N) | Hash Table, Sort | There is a better solution | |
 | 290 | Word Pattern | Easy | O(N) | O(N) | Hash Table | | |
 | 295 | Find Median from Data Stream | Hard | O(logN) | O(N) | Design, Hard, Heap | | |
+| 299 | Bulls and Cows | Easy | O(N) | O(N) | Hash Table | | |
 | 319 | Bulb Switcher | Medium | O(1) | O(1) | Math, Tricky | | |
 | 328 | Odd Even Linked List | Medium | O(N) | O(1) | Linked List | | |
 | 338 | Counting Bits | Medium | O(N) | O(N) | Dynamic Programming, Bit Manipulation | | |
