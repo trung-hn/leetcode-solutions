@@ -20,6 +20,7 @@
 | 125 | Valid Palindrome | Easy | O(1) | O(1) | String | | |
 | 143 | Reorder List | Medium | O(N) | O(1) | Linked List| | |
 | 151 | Reverse Words in a String | Easy | O(N) | O(N) | String | | |
+| 152 | Maximum Product Subarray | Medium | O(N) | O(N) | Dynamic Programming, Array | | |
 | 153 | Find Minimum in Rotated Sorted Array | Medium | O(logN) | O(1) | Binary Search | | |
 | 154 | Find Minimum in Rotated Sorted Array II | Hard | O(logN) | O(1) | Binary Search | | |
 | 165 | Compare Version Numbers | Medium | O(N) | O(1) | String | | |
