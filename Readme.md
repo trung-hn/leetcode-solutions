@@ -29,6 +29,7 @@
 | 207 | Course Schedule | Medium | O(N + E) | O(N + E) | Breath First Search, Depth First Search, Graph, Topological Sort | | |
 | 208 | Implement Trie (Prefix Tree) | Medium | Varying | Varying | Design, Trie | | |
 | 211 | Add and Search Word - Data structure design | Medium | O(M) | O(1) | Trie, Design | | |
+| 216 | Combination Sum III | Medium | O(N^2) | O(N^2) | Array, Backtracking | | |
 | 220 | Contains Duplicate III | Medium | O(N) | O(N) | Sort, Ordered Map | | |
 | 221 | Maximal Square | Medium | O(N * M) | O(1) | Array, Dynamic Programming | | |
 | 222 | Count Complete Tree Nodes | Medium | O(logN * logN) | O(1) | Binary Search, Tree | | |
