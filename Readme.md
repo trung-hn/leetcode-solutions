@@ -150,6 +150,7 @@
 | 1535 | Find the Winner of an Array Game | Medium | O(N) | O(1) | Array | | |
 | 1539 | Kth Missing Positive Number | Easy | O(logN) | O(1) | Binary Search | | |
 | 1544 | Make The String Great | Easy | O(N) | O(N) | String, Stack | | |
+| 1545 | Find Kth Bit in Nth Binary String | Medium | O(N^2) | O(N^2) | String | Not Optimal | |
 | 1550 | Three Consecutive Odds | Easy | O(N) | O(1) | Array | | |
 | 1551 | Minimum Operations to Make Array Equal | Medium | O(1) | O(1) | Math | | |
 | 1552 | Magnetic Force Between Two Balls | Medium | O(NlogN) | O(1) | Binary Search | Template for Binary Search | |
