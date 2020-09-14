@@ -27,6 +27,7 @@
 | 165 | Compare Version Numbers | Medium | O(N) | O(1) | String | | |
 | 171 | Excel Sheet Column Number | Easy | O(N) | O(1) | String | | |
 | 190 | Reverse Bits | Easy | O(1) | O(1) | Bit Manipulation | | |
+| 198 | House Robber | Easy | O(N) | O(1) | Dynamic Programming | | |
 | 207 | Course Schedule | Medium | O(N + E) | O(N + E) | Breath First Search, Depth First Search, Graph, Topological Sort | | |
 | 208 | Implement Trie (Prefix Tree) | Medium | Varying | Varying | Design, Trie | | |
 | 211 | Add and Search Word - Data structure design | Medium | O(M) | O(1) | Trie, Design | | |
