@@ -11,6 +11,7 @@
 | 22 | Generate Parentheses | Medium | Complicated | Complicated | String, Backtracking | | |
 | 46 | Permutations | Medium | Pending | Pending | | | |
 | 53 | Maximum Subarray | Easy | O(N) | O(1) | | | |
+| 57 | Insert Interval | Hard | O(N) | O(N) | Array, Sort, Greedy | | |
 | 72 | Edit Distance | Hard | O(N * M) | O(N) | String, Dynamic Programming | | |
 | 78 | Subsets | Medium | O(N\*2^N) | O(N\*2^N) | Backtracking, Bit Manipulation | | |
 | 100 | Same Tree | Easy | O(N) | O(H) | Tree, Pythonic | | |
