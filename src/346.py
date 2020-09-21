@@ -9,7 +9,7 @@ m.next(10) = (1 + 10) / 2
 m.next(3) = (1 + 10 + 3) / 3
 m.next(5) = (10 + 3 + 5) / 3
 """
-# TAGS: Design, Array
+# TAGS: Design, Array, Premium
 class MovingAverage:
     # 60 ms, 92%. Time: O(1). Space: O(N)
     def __init__(self, size: int):

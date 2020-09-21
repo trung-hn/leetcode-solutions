@@ -68,6 +68,7 @@
 | 470 | Implement Rand10() Using Rand7() | Medium | O(1) | O(1) | Math | | |
 | 476 | Number Complement | Easy | O(N) | O(1) | Bit Manipulation | | |
 | 497 | Random Point in Non-overlapping Rectangles | Medium | O(logN) | O(N) | Design, Binary Search | | |
+| 510 | Inorder Successor in BST II | Medium | O(H) | O(1) | Tree | | 🔒 |
 | 520 | Detect Capital | Easy | O(N) | O(1) | | | |
 | 525 | Contiguous Array | Medium | O(N) | O(N) | Hash Table | Very good problem | |
 | 528 | Random Pick with Weight | Medium | O(N), O(logN) | O(N), O(1) | Binary Search, Random | Pythonic | |

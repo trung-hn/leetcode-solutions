@@ -20,7 +20,7 @@ Explanation:
 We can first put the box of height 1 in room 4. Then we can put the box of height 3 in either of the 3 rooms 1, 2, or 3. Lastly, we can put one box of height 4 in room 0.
 There is no way we can fit all 4 boxes in the warehouse."""
 
-# TAGS: Greedy
+# TAGS: Greedy, Premium
 
 class Solution:
     # 704 ms, 35.55 %. Time: O(NlogN) and Space: O(N)
