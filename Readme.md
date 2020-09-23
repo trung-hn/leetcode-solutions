@@ -35,6 +35,7 @@
 | 220 | Contains Duplicate III | Medium | O(N) | O(N) | Sort, Ordered Map | | |
 | 221 | Maximal Square | Medium | O(N * M) | O(1) | Array, Dynamic Programming | | |
 | 222 | Count Complete Tree Nodes | Medium | O(logN * logN) | O(1) | Binary Search, Tree | | |
+| 229 | Majority Element II | Medium | O(N) | O(1) | Array | |
 | 230 | Kth Smallest Element in a BST | Medium | O(H + k) | O(H + k) | Tree, Depth First Search | Use general formula for tree traversal | |
 | 231 | Power of Two | Easy | O(1) | O(1) | Bit Manipulation | Important technique in bit manipulation | |
 | 264 | Ugly Number II | Medium | O(1) | O(1) | Heap, Dynamic Programming | | |
