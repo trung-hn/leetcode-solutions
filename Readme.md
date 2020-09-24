@@ -19,6 +19,7 @@
 | 114 | Flatten Binary Tree to Linked List | Medium | O(N) | O(1) | Tree, Depth First Search | | |
 | 119 | Pascal's Triangle II | Easy | O(k^2) | O(k) | Array | | |
 | 125 | Valid Palindrome | Easy | O(1) | O(1) | String | | |
+| 134 | Gas Station | Medium | O(N) | O(N) | Dynamic Programming, Greedy | | |
 | 143 | Reorder List | Medium | O(N) | O(1) | Linked List| | |
 | 151 | Reverse Words in a String | Easy | O(N) | O(N) | String | | |
 | 152 | Maximum Product Subarray | Medium | O(N) | O(N) | Dynamic Programming, Array | | |
