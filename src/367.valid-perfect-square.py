@@ -5,6 +5,7 @@
 #
 
 # @lc code=start
+# TAGS: Math, Binary Search
 class Solution:
     # O(N)
     def isPerfectSquare(self, num: int) -> bool:
