@@ -71,6 +71,7 @@
 | 463 | Island Perimeter | Easy | O(N*M) | O(1) | Greedy | | |
 | 470 | Implement Rand10() Using Rand7() | Medium | O(1) | O(1) | Math | | |
 | 476 | Number Complement | Easy | O(N) | O(1) | Bit Manipulation | | |
+| 495 | Teemo Attacking | Medium | O(N) | O(1) | Array | | |
 | 497 | Random Point in Non-overlapping Rectangles | Medium | O(logN) | O(N) | Design, Binary Search | | |
 | 510 | Inorder Successor in BST II | Medium | O(H) | O(1) | Tree | | 🔒 |
 | 520 | Detect Capital | Easy | O(N) | O(1) | | | |
@@ -174,8 +175,10 @@
 
 For premium problems, question description are available as screenshots [here](./premium-questions)
 
+## My profile:
+https://leetcode.com/jummyegg/
 
-# Posts:
+## Posts:
 - Graph: https://leetcode.com/discuss/general-discussion/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions 
 - Sliding Windows: https://leetcode.com/discuss/general-discussion/657507/Sliding-Window-for-Beginners-Problems-or-Template-or-Sample-Solutions
 - Trie: https://leetcode.com/discuss/general-discussion/680706/Article-on-Trie.-General-Template-and-List-of-problems. 
