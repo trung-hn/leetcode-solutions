@@ -174,6 +174,7 @@
 | 1560 | Most Visited Sector in a Circular Track | Easy | O(N) | O(1) | Array | | |
 | 1561 | Maximum Number of Coins You Can Get | Medium | O(N) | O(1) | Sort | | |
 | 1564 | Put Boxes Into the Warehouse I | Medium | O(NlogN) | O(N) | Greedy | | |
+| 1572 | Matrix Diagonal Sum | Easy | O(N) | O(1) | Array | | |
 | | | | | | | | |
 
 For premium problems, question description are available as screenshots [here](./premium-questions)
