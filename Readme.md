@@ -57,6 +57,7 @@
 | 380 | Insert Delete GetRandom | Medium | O(1) | O(N) | Array, Hash Table, Design | | |
 | 389 | Find the Difference | Medium | O(N) | O(1) | Hash Table, Bit Manipulation | | |
 | 387 | First Unique Character in a String | Easy | O(N) | O(N) | | | |
+| 399 | Evaluate Division | Medium | O(N*M) | O(N) | Union Find, Graph | | |
 | 402 | Remove K Digits | Medium | O(N) | O(N) | Greedy | | |
 | 404 | Sum of Left Leaves | Easy | O(N) | O(H) | Tree | | |
 | 406 | Queue Reconstruction by Height | Medium | O(N^2) | O(N) | Greedy | Clever solution | |
