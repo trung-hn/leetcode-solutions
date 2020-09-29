@@ -20,6 +20,7 @@
 | 119 | Pascal's Triangle II | Easy | O(k^2) | O(k) | Array | | |
 | 125 | Valid Palindrome | Easy | O(1) | O(1) | String | | |
 | 134 | Gas Station | Medium | O(N) | O(N) | Dynamic Programming, Greedy | | |
+| 139 | Word Break | Medium | O(N^2) | O(N) | Dynamic Programming | | |
 | 143 | Reorder List | Medium | O(N) | O(1) | Linked List| | |
 | 151 | Reverse Words in a String | Easy | O(N) | O(N) | String | | |
 | 152 | Maximum Product Subarray | Medium | O(N) | O(N) | Dynamic Programming, Array | | |
@@ -191,5 +192,6 @@ https://leetcode.com/jummyegg/
 - https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions
 - https://leetcode.com/discuss/interview-question/491522/dynamic-programming-questions-thread
 - https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns
+- https://leetcode.com/discuss/general-discussion/868902/dynamic-programming
 ### Others:
 - https://leetcode.com/discuss/general-discussion/705117/requesting-guidance-from-those-who-solved-1000-leets-so-far
