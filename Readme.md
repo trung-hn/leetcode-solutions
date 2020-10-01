@@ -63,6 +63,7 @@
 | 404 | Sum of Left Leaves | Easy | O(N) | O(H) | Tree | | |
 | 406 | Queue Reconstruction by Height | Medium | O(N^2) | O(N) | Greedy | Clever solution | |
 | 419 | Battleships in a Board | Medium | O(N*N) | O(1) | Array, Depth First Search | | |
+| 425 | Word Squares | Hard | Complex | Complex | Back Tracking, Trie | | 🔒 |
 | 435 | Non-overlapping Intervals | Medium | O(NlogN) | O(1) | Greedy | Tricky, Hard | |
 | 436 | Find Right Interval | Medium | O(NlogN) | O(N) | Binary Search | Bad Description | |
 | 437 | Path Sum III | Medium | O(N) | O(N) | Tree | Tricky, Hard | |
