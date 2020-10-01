@@ -97,6 +97,7 @@
 | 901 | Online Stock Span | Medium | O(1) | O(N) | Monotonic Stack | | |
 | 905 | Sort Array By Parity | Easy | O(N) | O(1) | Array | | |
 | 918 | Maximum Sum Circular Subarray | Medium | O(N) | O(1) | Array, Dynamic Programming | | |
+| 933 | Number of Recent Calls | Easy | O(1) | O(1) | Queue | | |
 | 957 | Prison Cells After N Days | Medium | O(1) | O(1) | Has Table | | |
 | 967 | Numbers With Same Consecutive Differences | Medium | O(N*2^N) | O(2^N) | DFS | | |
 | 969 | Pancake Sorting | Medium | O(N^2) | O(N) | Array | | |
