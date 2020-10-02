@@ -9,6 +9,7 @@
 | 20 | Valid Parentheses | Easy | O(N) | O(N) | String, Stack | | |
 | 21 | Merge Two Sorted Lists | Easy | O(N) | O(1) | Linked List | | |
 | 22 | Generate Parentheses | Medium | Complicated | Complicated | String, Backtracking | | |
+| 39 | Combination Sum | Medium | O(N^2) | O(N) | Array, Backtracking | | |
 | 46 | Permutations | Medium | Pending | Pending | | | |
 | 53 | Maximum Subarray | Easy | O(N) | O(1) | | | |
 | 57 | Insert Interval | Hard | O(N) | O(N) | Array, Sort, Greedy | | |
