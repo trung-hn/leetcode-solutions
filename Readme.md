@@ -83,6 +83,7 @@
 | 528 | Random Pick with Weight | Medium | O(N), O(logN) | O(N), O(1) | Binary Search, Random | Pythonic | |
 | 540 | Single Element in a Sorted Array | Medium | O(logN) | O(1) | Binary Search | | |
 | 567 | Permutation in String | Medium | O(S1 + S2) | O(1) | String, Two Pointers, Sliding Window | | |
+| 624 | Maximum Distance in Arrays | Easy | O(N) | O(1) | Hash Table, Array | | 🔒 |
 | 662 | Maximum Width of Binary Tree | Medium | O(N) | O(N) | Tree | | |
 | 700 | Search in a Binary Search Tree | Easy | O(H) | O(1) | Tree | | |
 | 705 | Design HashSet | Easy | Varies | Varies | Design HashSet | | |
