@@ -115,6 +115,7 @@
 | 1032 | Stream of Characters | Hard | O(M) | O(M) | Trie | | |
 | 1035 | Uncrossed Lines | Medium | O(N^2) | O(N) | Array, Dynamic Programming | | |
 | 1060 | Missing Element in Sorted Array | Medium | O(logN) | O(1) | Binary Search | | 🔒 |
+| 1061 | Lexicographically Smallest Equivalent String | Medium | O(N) | O(N) | DFS, Union Find | | 🔒 |
 | 1094 | Car Pooling | Medium | O(N) | O(1) | Car Pooling | | |
 | 1232 | Check If It Is a Straight Line | Easy | O(N) | O(1) | Math, Pythonic, Geometry | | |
 | 1277 | Count Square Submatrices with All Ones | Medium | O(N * M) | O(1) | Array, Dynamic Programming | | |
