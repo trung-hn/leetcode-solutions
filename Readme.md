@@ -81,6 +81,7 @@
 | 520 | Detect Capital | Easy | O(N) | O(1) | | | |
 | 525 | Contiguous Array | Medium | O(N) | O(N) | Hash Table | Very good problem | |
 | 528 | Random Pick with Weight | Medium | O(N), O(logN) | O(N), O(1) | Binary Search, Random | Pythonic | |
+| 532 | K-diff Pairs in an Array | Medium | O(N) | O(N) | Array, Two Pointers | | |
 | 540 | Single Element in a Sorted Array | Medium | O(logN) | O(1) | Binary Search | | |
 | 567 | Permutation in String | Medium | O(S1 + S2) | O(1) | String, Two Pointers, Sliding Window | | |
 | 624 | Maximum Distance in Arrays | Easy | O(N) | O(1) | Hash Table, Array | | 🔒 |
