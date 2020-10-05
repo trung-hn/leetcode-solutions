@@ -120,6 +120,7 @@
 | 1094 | Car Pooling | Medium | O(N) | O(1) | Car Pooling | | |
 | 1232 | Check If It Is a Straight Line | Easy | O(N) | O(1) | Math, Pythonic, Geometry | | |
 | 1277 | Count Square Submatrices with All Ones | Medium | O(N * M) | O(1) | Array, Dynamic Programming | | |
+| 1288 | Remove Covered Intervals | Medium | O(N) | O(1) | Greedy, Sort, Line Sweep | | |
 | 1291 | Sequential Digits | Medium | O(N) | O(N) | Backtracking | | |
 | 1305 | All Elements in Two Binary Search Trees | Medium | O(N) | O(N) | Sort, Tree | | |
 | 1344 | Angle Between Hands of a Clock | Medium | O(1) | O(1) | Math | | |
