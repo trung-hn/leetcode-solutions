@@ -184,6 +184,7 @@
 | 1564 | Put Boxes Into the Warehouse I | Medium | O(NlogN) | O(N) | Greedy | | |
 | 1566 | Detect Pattern of Length M Repeated K or More Times | Easy | O(N) | O(1) | Array | | |
 | 1572 | Matrix Diagonal Sum | Easy | O(N) | O(1) | Array | | |
+| 1576 | Replace All ?'s to Avoid Consecutive Repeating Characters | Easy | O(N) | O(N) | String | | |
 | | | | | | | | |
 
 For premium problems, question description are available as screenshots [here](./premium-questions)
