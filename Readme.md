@@ -52,8 +52,8 @@
 | 328 | Odd Even Linked List | Medium | O(N) | O(1) | Linked List | | |
 | 338 | Counting Bits | Medium | O(N) | O(N) | Dynamic Programming, Bit Manipulation | | |
 | 342 | Power of Four | Easy | O(1) | O(1) | Math, Bit Manipulation | | |
-| 344 | Reverse String | Easy | O(N) | O(1) | Two Pointers, String | | 🔒 |
-| 346 | Moving Average from Data Stream | Easy | O(1) | O(N) | Design | | |
+| 344 | Reverse String | Easy | O(N) | O(1) | Two Pointers, String | | |
+| 346 | Moving Average from Data Stream | Easy | O(1) | O(N) | Design | | 🔒 |
 | 347 | Top K Frequent Elements | Medium | O(N) | O(N) | Hash Table, Heap | | |
 | 367 | Valid Perfect Square | Easy | O(logN) | O(1) | Math, Binary Search | | |
 | 380 | Insert Delete GetRandom | Medium | O(1) | O(N) | Array, Hash Table, Design | | |
@@ -89,7 +89,7 @@
 | 700 | Search in a Binary Search Tree | Easy | O(H) | O(1) | Tree | | |
 | 701 | Insert into a Binary Search Tree | Medium | O(H) | O(1) | Tree | | |
 | 705 | Design HashSet | Easy | Varies | Varies | Design HashSet | | |
-| 708 | Insert into a Sorted Circular Linked List | Medium | O(N) | O(1) | Linked List | | |
+| 708 | Insert into a Sorted Circular Linked List | Medium | O(N) | O(1) | Linked List | | 🔒 |
 | 713 | Subarray Product Less Than K | Medium | O(N) | O(1) | Array, Two Pointers | | |
 | 733 | Flood Fill | Easy | O(N) | O(N) | Depth First Search | | |
 | 763 | Partition Labels | Medium | O(N) | O(N) | | Greedy, Two Pointers |
@@ -182,12 +182,12 @@
 | 1558 | Minimum Numbers of Function Calls to Make Target Array | Medium | O(NlogK) | O(N) | Greedy, Simulation | | |
 | 1560 | Most Visited Sector in a Circular Track | Easy | O(N) | O(1) | Array | | |
 | 1561 | Maximum Number of Coins You Can Get | Medium | O(N) | O(1) | Sort | | |
-| 1564 | Put Boxes Into the Warehouse I | Medium | O(NlogN) | O(N) | Greedy | | |
+| 1564 | Put Boxes Into the Warehouse I | Medium | O(NlogN) | O(N) | Greedy | | 🔒 |
 | 1566 | Detect Pattern of Length M Repeated K or More Times | Easy | O(N) | O(1) | Array | | |
 | 1572 | Matrix Diagonal Sum | Easy | O(N) | O(1) | Array | | |
 | 1576 | Replace All ?'s to Avoid Consecutive Repeating Characters | Easy | O(N) | O(N) | String | | |
 | 1578 | Minimum Deletion Cost to Avoid Repeating Letters | Medium | O(N) | O(1) | Greedy | | |
-| 1580 | Put Boxes Into the Warehouse II | Medium | O(NlogN) | O(N) | Greedy | | |
+| 1580 | Put Boxes Into the Warehouse II | Medium | O(NlogN) | O(N) | Greedy | | 🔒 |
 | | | | | | | | |
 
 For premium problems, question description are available as screenshots [here](./premium-questions)

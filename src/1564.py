@@ -43,3 +43,20 @@ class Solution:
                 i += 1
                 cnt += 1
         return cnt
+
+    # 640 ms, 89.7 %. Cleaner solution after doing 1580
+    def maxBoxesInWarehouse(self, boxes: List[int], warehouse: List[int]) -> int:
+        usable_height = [warehouse[0]]
+        for room in warehouse[1:]:
+            usable_height.append(min(room, usable_height[-1]))
+        
+        usable_height.reverse()
+        boxes.sort()
+        
+        i = j = cnt = 0
+        while i < len(boxes) and j < len(usable_height):
+            if boxes[i] <= usable_height[j]:
+                cnt += 1
+                i += 1
+            j += 1
+        return cnt
