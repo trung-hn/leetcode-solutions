@@ -186,6 +186,7 @@
 | 1564 | Put Boxes Into the Warehouse I | Medium | O(NlogN) | O(N) | Greedy | | 🔒 |
 | 1566 | Detect Pattern of Length M Repeated K or More Times | Easy | O(N) | O(1) | Array | | |
 | 1572 | Matrix Diagonal Sum | Easy | O(N) | O(1) | Array | | |
+| 1573 | Number of Ways to Split a String | Medium | O(N) | O(N) | String | | |
 | 1576 | Replace All ?'s to Avoid Consecutive Repeating Characters | Easy | O(N) | O(N) | String | | |
 | 1578 | Minimum Deletion Cost to Avoid Repeating Letters | Medium | O(N) | O(1) | Greedy | | |
 | 1580 | Put Boxes Into the Warehouse II | Medium | O(NlogN) | O(N) | Greedy | | 🔒 |
