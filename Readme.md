@@ -36,6 +36,7 @@
 | 207 | Course Schedule | Medium | O(N + E) | O(N + E) | Breath First Search, Depth First Search, Graph, Topological Sort | | |
 | 208 | Implement Trie (Prefix Tree) | Medium | Varying | Varying | Design, Trie | | |
 | 211 | Add and Search Word - Data structure design | Medium | O(M) | O(1) | Trie, Design | | |
+| 213 | House Robber II | Medium | O(N) | O(1) | Dynamic Programming | | |
 | 216 | Combination Sum III | Medium | O(N^2) | O(N^2) | Array, Backtracking | | |
 | 220 | Contains Duplicate III | Medium | O(N) | O(N) | Sort, Ordered Map | | |
 | 221 | Maximal Square | Medium | O(N * M) | O(1) | Array, Dynamic Programming | | |
