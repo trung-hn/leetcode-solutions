@@ -15,6 +15,7 @@
 | 57 | Insert Interval | Hard | O(N) | O(N) | Array, Sort, Greedy | | |
 | 61 | Rotate List | Medium | O(N) | O(1) | Linked List, Two Pointers | | |
 | 72 | Edit Distance | Hard | O(N * M) | O(N) | String, Dynamic Programming | | |
+| 74 | Search a 2D Matrix | Medium | O(logN + logM) | O(1) | Binary Search | | |
 | 78 | Subsets | Medium | O(N\*2^N) | O(N\*2^N) | Backtracking, Bit Manipulation | | |
 | 100 | Same Tree | Easy | O(N) | O(H) | Tree, Pythonic | | |
 | 107 | Binary Tree Level Order Traversal II | Easy | O(N) | O(N) | Tree, Breath First Search | | |
