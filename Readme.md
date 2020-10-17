@@ -32,6 +32,7 @@
 | 165 | Compare Version Numbers | Medium | O(N) | O(1) | String | | |
 | 171 | Excel Sheet Column Number | Easy | O(N) | O(1) | String | | |
 | 179 | Largest Number | Medium | O(NlogN) | O(1) | Sort | | |
+| 187 | Repeated DNA Sequences | Medium | O(N-L) | O(N-L) | Hash Table, Bit Manipulation | | |
 | 190 | Reverse Bits | Easy | O(1) | O(1) | Bit Manipulation | | |
 | 198 | House Robber | Easy | O(N) | O(1) | Dynamic Programming | | |
 | 207 | Course Schedule | Medium | O(N + E) | O(N + E) | Breath First Search, Depth First Search, Graph, Topological Sort | | |
