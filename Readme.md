@@ -21,6 +21,7 @@
 | 107 | Binary Tree Level Order Traversal II | Easy | O(N) | O(N) | Tree, Breath First Search | | |
 | 114 | Flatten Binary Tree to Linked List | Medium | O(N) | O(1) | Tree, Depth First Search | | |
 | 119 | Pascal's Triangle II | Easy | O(k^2) | O(k) | Array | | |
+| 121 | Best Time to Buy and Sell Stock | Easy | O(N) | O(1) | Dynamic Programming | | |
 | 125 | Valid Palindrome | Easy | O(1) | O(1) | String | | |
 | 134 | Gas Station | Medium | O(N) | O(N) | Dynamic Programming, Greedy | | |
 | 139 | Word Break | Medium | O(N^2) | O(N) | Dynamic Programming | | |
