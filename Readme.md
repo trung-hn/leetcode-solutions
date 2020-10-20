@@ -1,6 +1,5 @@
 # Solutions list
 
-
 | # | Title | Level | Time | Space | Tags | Note | Premium 🔒 |
 |---|---|---|---|---|---|---|---|
 | 1 | Two Sum | Easy | O(N) | O(N) | | | |
@@ -48,6 +47,7 @@
 | 229 | Majority Element II | Medium | O(N) | O(1) | Array | |
 | 230 | Kth Smallest Element in a BST | Medium | O(H + k) | O(H + k) | Tree, Depth First Search | Use general formula for tree traversal | |
 | 231 | Power of Two | Easy | O(1) | O(1) | Bit Manipulation | Important technique in bit manipulation | |
+| 253 | Meeting Rooms II | Medium | O(NlogN) | O(N) | Premium, Heap, Greedy, Sort | | 🔒 |
 | 264 | Ugly Number II | Medium | O(1) | O(1) | Heap, Dynamic Programming | | |
 | 270 | Closest Binary Search Tree Value | Easy | O(H) | O(1) | Binary Search, Tree | | 🔒 |
 | 274 | H-Index | Medium | O(NlogN) | O(N) | Hash Table, Sort | There is a better solution | |
