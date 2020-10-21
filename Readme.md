@@ -101,6 +101,7 @@
 | 705 | Design HashSet | Easy | Varies | Varies | Design HashSet | | |
 | 708 | Insert into a Sorted Circular Linked List | Medium | O(N) | O(1) | Linked List | | 🔒 |
 | 713 | Subarray Product Less Than K | Medium | O(N) | O(1) | Array, Two Pointers | | |
+| 729 | My Calendar I | Medium | O(NlogN) | O(N) | Tree | | |
 | 733 | Flood Fill | Easy | O(N) | O(N) | Depth First Search | | |
 | 763 | Partition Labels | Medium | O(N) | O(N) | | Greedy, Two Pointers |
 | 787 | Dijkstra's Algorithm | Medium | Complex | Complex |  | Quite hard | |
