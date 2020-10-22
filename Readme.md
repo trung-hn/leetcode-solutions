@@ -99,6 +99,7 @@
 | 662 | Maximum Width of Binary Tree | Medium | O(N) | O(N) | Tree | | |
 | 700 | Search in a Binary Search Tree | Easy | O(H) | O(1) | Tree | | |
 | 701 | Insert into a Binary Search Tree | Medium | O(H) | O(1) | Tree | | |
+| 702 | Search in a Sorted Array of Unknown Size | Medium | O(logN) | O(1) | Binary Search | | 🔒 |
 | 705 | Design HashSet | Easy | Varies | Varies | Design HashSet | | |
 | 708 | Insert into a Sorted Circular Linked List | Medium | O(N) | O(1) | Linked List | | 🔒 |
 | 713 | Subarray Product Less Than K | Medium | O(N) | O(1) | Array, Two Pointers | | |
