@@ -207,6 +207,7 @@
 | 1582 | Special Positions in a Binary Matrix | Easy | O(N) | O(N) | Array | | |
 | 1583 | Count Unhappy Friends | Medium | O(N^2) | O(N^2) | Array | | |
 | 1588 | Sum of All Odd Length Subarrays | Easy | O(N) | O(1) | Array | | |
+| 1598 | Crawler Log Folder | Easy | O(N) | O(1) | Stack | | |
 | | | | | | | | |
 
 For premium problems, question description are available as screenshots [here](./premium-questions)
