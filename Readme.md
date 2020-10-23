@@ -113,6 +113,7 @@
 | 835 | Image Overlap | Medium | O(N^2) | O(N) | | | |
 | 838 | Push Dominoes | Medium | O(N) | O(N) | | | |
 | 859 | Buddy Strings | Easy | O(N) | O(1) | String | | |
+| 875 | Koko Eating Bananas | Medium | O(NlogN) | O(1) | Binary Search | | |
 | 886 | Possible Bipartition | Medium | O(N + E) | O(N + E) | Depth First Search | Good problem | |
 | 901 | Online Stock Span | Medium | O(1) | O(N) | Monotonic Stack | | |
 | 905 | Sort Array By Parity | Easy | O(N) | O(1) | Array | | |
