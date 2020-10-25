@@ -107,6 +107,7 @@
 | 713 | Subarray Product Less Than K | Medium | O(N) | O(1) | Array, Two Pointers | | |
 | 729 | My Calendar I | Medium | O(NlogN) | O(N) | Tree | | |
 | 733 | Flood Fill | Easy | O(N) | O(N) | Depth First Search | | |
+| 734 | Sentence Similarity | Easy | O(N) | O(N) | Premium, Hash Table | | 🔒 |
 | 735 | Asteroid Collision | Medium | O(N) | O(N) | Stack | | |
 | 763 | Partition Labels | Medium | O(N) | O(N) | | Greedy, Two Pointers |
 | 787 | Dijkstra's Algorithm | Medium | Complex | Complex |  | Quite hard | |
