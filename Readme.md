@@ -109,6 +109,7 @@
 | 733 | Flood Fill | Easy | O(N) | O(N) | Depth First Search | | |
 | 734 | Sentence Similarity | Easy | O(N) | O(N) | Premium, Hash Table | | 🔒 |
 | 735 | Asteroid Collision | Medium | O(N) | O(N) | Stack | | |
+| 737 | Sentence Similarity II | Medium | O(NlogP + P) or o(NP) | O(N) | Premium, DFS, Union Find | | 🔒 |
 | 763 | Partition Labels | Medium | O(N) | O(N) | | Greedy, Two Pointers |
 | 787 | Dijkstra's Algorithm | Medium | Complex | Complex |  | Quite hard | |
 | 797 | All Paths From Source to Target | Medium | O(2^N * N) | O(2^N * N) | Backtracking, Depth First Search |  | |
