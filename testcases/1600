@@ -1,0 +1,2 @@
+["ThroneInheritance","birth","birth","birth","birth","birth","birth","getInheritanceOrder","death","getInheritanceOrder","death","getInheritanceOrder","birth","birth","getInheritanceOrder"]
+[["king"],["king","andy"],["king","bob"],["king","catherine"],["andy","matthew"],["bob","alex"],["bob","asha"],[null],["bob"],[null],["king"],[null],["andy","toy"],["alex","alextwo"],[null]]
