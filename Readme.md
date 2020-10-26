@@ -220,6 +220,7 @@
 | 1592 | Rearrange Spaces Between Words | Easy | O(N) | O(N) | String | | |
 | 1598 | Crawler Log Folder | Easy | O(N) | O(1) | Stack | | |
 | 1600 | Throne Inheritance | Medium | O(N) | O(N) | Tree, Design | | |
+| 1602 | Find Nearest Right Node in Binary Tree | Medium | O(N) | O(N) | Premium, Tree, BFS | | |
 | 1624 | Largest Substring Between Two Equal Characters | Easy | O(N) | O(1) | String | | |
 | | | | | | | | |
 
