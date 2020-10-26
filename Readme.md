@@ -113,6 +113,7 @@
 | 763 | Partition Labels | Medium | O(N) | O(N) | | Greedy, Two Pointers |
 | 787 | Dijkstra's Algorithm | Medium | Complex | Complex |  | Quite hard | |
 | 797 | All Paths From Source to Target | Medium | O(2^N * N) | O(2^N * N) | Backtracking, Depth First Search |  | |
+| 799 | Champagne Tower | Medium | O(R^2) | O(R^2) | Dynamic Programming |  | |
 | 830 | Positions of Large Groups | Easy | O(N) | O(1) | | | |
 | 835 | Image Overlap | Medium | O(N^2) | O(N) | | | |
 | 838 | Push Dominoes | Medium | O(N) | O(N) | | | |
