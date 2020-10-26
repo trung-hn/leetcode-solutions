@@ -195,6 +195,7 @@
 | 1528 | Shuffle String | Easy | O(N) | O(N) | String | | |
 | 1529 | Bulb Switcher IV | Medium | O(N) | O(1) | String | | |
 | 1530 | Number of Good Leaf Nodes Pairs | Medium | O(N^2logN) | O(N) | Tree, Depth First Search | | |
+| 1533 | Find the Index of the Large Integer | Medium | O(logN) | O(1) | Premium, Binary Search | | 🔒 |
 | 1535 | Find the Winner of an Array Game | Medium | O(N) | O(1) | Array | | |
 | 1539 | Kth Missing Positive Number | Easy | O(logN) | O(1) | Binary Search | | |
 | 1544 | Make The String Great | Easy | O(N) | O(N) | String, Stack | | |
@@ -220,7 +221,7 @@
 | 1592 | Rearrange Spaces Between Words | Easy | O(N) | O(N) | String | | |
 | 1598 | Crawler Log Folder | Easy | O(N) | O(1) | Stack | | |
 | 1600 | Throne Inheritance | Medium | O(N) | O(N) | Tree, Design | | |
-| 1602 | Find Nearest Right Node in Binary Tree | Medium | O(N) | O(N) | Premium, Tree, BFS | | |
+| 1602 | Find Nearest Right Node in Binary Tree | Medium | O(N) | O(N) | Premium, Tree, BFS | | 🔒 |
 | 1624 | Largest Substring Between Two Equal Characters | Easy | O(N) | O(1) | String | | |
 | | | | | | | | |
 
