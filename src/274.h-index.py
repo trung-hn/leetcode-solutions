@@ -23,5 +23,19 @@ class Solution:
     # 32 ms 91%. Pythonic (from discussion). Time: O(NlogN) because of sorting. Space: O(N)
     def hIndex(self, citations: List[int]) -> int:
         return sum(i < cit for i, cit in enumerate(sorted(citations, reverse = True)))
+
+    # 36 ms, 70.11%. Time: O(NlogN). Space: O(N). Third try
+    def hIndex1(self, citations: List[int]) -> int:
+        citations.sort()
+        for i, citation in enumerate(citations):
+            if i >= len(citations) - i:
+                return n - i
+            # Above is similar to the followings:
+            # if i == len(citations) - i:
+            #     return i # return right away
+            # elif i < len(citations) - i:
+            #     prev = i # save
+            # elif i > len(citations) - i:
+            #     return prev # return the prev
 # @lc code=end
 
