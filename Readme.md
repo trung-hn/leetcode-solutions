@@ -27,6 +27,7 @@
 | 133 | Clone Graph | Medium | O(N+M) | O(N) | DFS, BFS, Graph | | |
 | 134 | Gas Station | Medium | O(N) | O(N) | Dynamic Programming, Greedy | | |
 | 139 | Word Break | Medium | O(N^2) | O(N) | Dynamic Programming | | |
+| 142 | Linked List Cycle II | Medium | O(N) | O(1) | Linked List, Two Pointers| | |
 | 143 | Reorder List | Medium | O(N) | O(1) | Linked List| | |
 | 151 | Reverse Words in a String | Easy | O(N) | O(N) | String | | |
 | 152 | Maximum Product Subarray | Medium | O(N) | O(N) | Dynamic Programming, Array | | |
