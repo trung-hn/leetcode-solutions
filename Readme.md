@@ -223,6 +223,7 @@
 | 1600 | Throne Inheritance | Medium | O(N) | O(N) | Tree, Design | | |
 | 1602 | Find Nearest Right Node in Binary Tree | Medium | O(N) | O(N) | Premium, Tree, BFS | | 🔒 |
 | 1608 | Special Array With X Elements Greater Than or Equal X | Easy | O(NlogN) | O(N) | Binary Search, Array | | |
+| 1609 | Even Odd Tree | Easy | O(N) | O(N) | Tree | | |
 | 1614 | Maximum Nesting Depth of the Parentheses | Easy | O(N) | O(1) | String | | |
 | 1615 | Maximal Network Rank | Medium | O(N) | O(1) | Graph | | |
 | 1624 | Largest Substring Between Two Equal Characters | Easy | O(N) | O(1) | String | | |
