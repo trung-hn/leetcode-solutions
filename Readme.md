@@ -223,6 +223,7 @@
 | 1598 | Crawler Log Folder | Easy | O(N) | O(1) | Stack | | |
 | 1600 | Throne Inheritance | Medium | O(N) | O(N) | Tree, Design | | |
 | 1602 | Find Nearest Right Node in Binary Tree | Medium | O(N) | O(N) | Premium, Tree, BFS | | 🔒 |
+| 1604 | Alert Using Same Key-Card Three or More Times in a One Hour Period | Medium | O(NlogN) | O(N) | String, Ordered Map | | |
 | 1608 | Special Array With X Elements Greater Than or Equal X | Easy | O(NlogN) | O(N) | Binary Search, Array | | |
 | 1609 | Even Odd Tree | Easy | O(N) | O(N) | Tree | | |
 | 1614 | Maximum Nesting Depth of the Parentheses | Easy | O(N) | O(1) | String | | |
