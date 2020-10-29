@@ -117,6 +117,7 @@
 | 768 | Max Chunks To Make Sorted II | Hard | O(N) | O(N) | Array | | |
 | 769 | Max Chunks To Make Sorted | Medium | O(N) | O(1) | Array | | |
 | 787 | Cheapest Flights Within K Stops | Medium | Complex | Complex | Dijkstra's Algorithm, Graph | Quite hard | |
+| 794 | Valid Tic-Tac-Toe State | Medium | O(1) | O(1) | Array, String | | |
 | 797 | All Paths From Source to Target | Medium | O(2^N * N) | O(2^N * N) | Backtracking, Depth First Search | | |
 | 799 | Champagne Tower | Medium | O(R^2) | O(R^2) | Dynamic Programming | | |
 | 830 | Positions of Large Groups | Easy | O(N) | O(1) | | | |
