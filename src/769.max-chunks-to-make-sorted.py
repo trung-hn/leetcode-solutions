@@ -21,5 +21,8 @@ class Solution:
     # 28 ms, 80.48%. Time: O(N). Space: O(1) because accumulate return an iterator
     def maxChunksToSorted(self, arr: List[int]) -> int:
         return sum(i == v for i, v in enumerate(itertools.accumulate(arr, max)))
+    
+    # Follow up: what if it is an array A instead of 0 to N-1
+    
 # @lc code=end
 
