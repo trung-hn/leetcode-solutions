@@ -113,6 +113,7 @@
 | 735 | Asteroid Collision | Medium | O(N) | O(N) | Stack | | |
 | 737 | Sentence Similarity II | Medium | O(NlogP + P) or o(NP) | O(N) | Premium, DFS, Union Find | | 🔒 |
 | 763 | Partition Labels | Medium | O(N) | O(N) | | Greedy, Two Pointers |
+| 769 | Max Chunks To Make Sorted | Medium | O(N) | O(1) | | Array |
 | 787 | Dijkstra's Algorithm | Medium | Complex | Complex |  | Quite hard | |
 | 797 | All Paths From Source to Target | Medium | O(2^N * N) | O(2^N * N) | Backtracking, Depth First Search |  | |
 | 799 | Champagne Tower | Medium | O(R^2) | O(R^2) | Dynamic Programming |  | |
