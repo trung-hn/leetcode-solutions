@@ -112,12 +112,13 @@
 | 734 | Sentence Similarity | Easy | O(N) | O(N) | Premium, Hash Table | | 🔒 |
 | 735 | Asteroid Collision | Medium | O(N) | O(N) | Stack | | |
 | 737 | Sentence Similarity II | Medium | O(NlogP + P) or o(NP) | O(N) | Premium, DFS, Union Find | | 🔒 |
-| 763 | Partition Labels | Medium | O(N) | O(N) | | Greedy, Two Pointers |
-| 767 | Reorganize String | Medium | O(NlogN) | O(N) | | String, Heap, Greedy, Sort |
-| 769 | Max Chunks To Make Sorted | Medium | O(N) | O(1) | | Array |
-| 787 | Dijkstra's Algorithm | Medium | Complex | Complex |  | Quite hard | |
-| 797 | All Paths From Source to Target | Medium | O(2^N * N) | O(2^N * N) | Backtracking, Depth First Search |  | |
-| 799 | Champagne Tower | Medium | O(R^2) | O(R^2) | Dynamic Programming |  | |
+| 763 | Partition Labels | Medium | O(N) | O(N) | Greedy, Two Pointers | | |
+| 767 | Reorganize String | Medium | O(NlogN) | O(N) |  String, Heap, Greedy, Sort | | |
+| 768 | Max Chunks To Make Sorted II | Hard | O(N) | O(N) | Array | | |
+| 769 | Max Chunks To Make Sorted | Medium | O(N) | O(1) | Array | | |
+| 787 | Cheapest Flights Within K Stops | Medium | Complex | Complex | Dijkstra's Algorithm, Graph | Quite hard | |
+| 797 | All Paths From Source to Target | Medium | O(2^N * N) | O(2^N * N) | Backtracking, Depth First Search | | |
+| 799 | Champagne Tower | Medium | O(R^2) | O(R^2) | Dynamic Programming | | |
 | 830 | Positions of Large Groups | Easy | O(N) | O(1) | | | |
 | 835 | Image Overlap | Medium | O(N^2) | O(N) | | | |
 | 838 | Push Dominoes | Medium | O(N) | O(N) | | | |
