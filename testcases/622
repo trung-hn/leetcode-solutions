@@ -1,0 +1,6 @@
+["MyCircularQueue","enQueue","enQueue","enQueue","enQueue","Rear","isFull","deQueue","enQueue","Rear"]
+[[3],[1],[2],[3],[4],[],[],[],[4],[]]
+["MyCircularQueue","enQueue","Rear","Front","deQueue","Front","deQueue","Front","enQueue","enQueue","enQueue","enQueue"]
+[[3],[2],[],[],[],[],[],[],[4],[2],[2],[3]]
+["MyCircularQueue","enQueue","Rear","enQueue","deQueue","Front","deQueue","deQueue","isEmpty","deQueue","enQueue","enQueue"]
+[[2],[4],[],[9],[],[],[],[],[],[],[6],[4]]
