@@ -251,6 +251,7 @@
 | 1614 | Maximum Nesting Depth of the Parentheses | Easy | O(N) | O(1) | String | | |
 | 1615 | Maximal Network Rank | Medium | O(N) | O(1) | Graph | | |
 | 1624 | Largest Substring Between Two Equal Characters | Easy | O(N) | O(1) | String | | |
+| 1639 | Number of Ways to Form a Target String Given a Dictionary | Hard | O(N\*M) | O(N\*M) | Dynamic Programming | | |
 | | | | | | | | |
 
 For premium problems, question description are available as screenshots [here](./premium-questions)
