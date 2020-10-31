@@ -1,4 +1,4 @@
-# TAGS: DFS, Union Find
+# TAGS: DFS, Union Find, Premium
 # REVIEWME: Union Find
 class Solution:
     # 44 ms, 66.18%. Time and Space: O(N)

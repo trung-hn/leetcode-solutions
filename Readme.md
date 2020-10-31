@@ -53,7 +53,7 @@
 | 231 | Power of Two | Easy | O(1) | O(1) | Bit Manipulation | Important technique in bit manipulation | |
 | 253 | Meeting Rooms II | Medium | O(NlogN) | O(N) | Premium, Heap, Greedy, Sort | | 🔒 |
 | 264 | Ugly Number II | Medium | O(1) | O(1) | Heap, Dynamic Programming | | |
-| 270 | Closest Binary Search Tree Value | Easy | O(H) | O(1) | Binary Search, Tree | | 🔒 |
+| 270 | Closest Binary Search Tree Value | Easy | O(H) | O(1) | Premium, Binary Search, Tree | | 🔒 |
 | 274 | H-Index | Medium | O(NlogN) | O(N) | Hash Table, Sort | There is a better solution | |
 | 290 | Word Pattern | Easy | O(N) | O(N) | Hash Table | | |
 | 295 | Find Median from Data Stream | Hard | O(logN) | O(N) | Design, Hard, Heap | | |
@@ -64,9 +64,9 @@
 | 338 | Counting Bits | Medium | O(N) | O(N) | Dynamic Programming, Bit Manipulation | | |
 | 342 | Power of Four | Easy | O(1) | O(1) | Math, Bit Manipulation | | |
 | 344 | Reverse String | Easy | O(N) | O(1) | Two Pointers, String | | |
-| 346 | Moving Average from Data Stream | Easy | O(1) | O(N) | Design | | 🔒 |
+| 346 | Moving Average from Data Stream | Easy | O(1) | O(N) | Premium, Design | | 🔒 |
 | 347 | Top K Frequent Elements | Medium | O(N) | O(N) | Hash Table, Heap | | |
-| 351 | Android Unlock Patterns | Medium | O(N!) | O(N) | Dynamic Programming, Backtracking, Premium | | |
+| 351 | Android Unlock Patterns | Medium | O(N!) | O(N) | Dynamic Programming, Backtracking, Premium | | 🔒 |
 | 367 | Valid Perfect Square | Easy | O(logN) | O(1) | Math, Binary Search | | |
 | 380 | Insert Delete GetRandom | Medium | O(1) | O(N) | Array, Hash Table, Design | | |
 | 389 | Find the Difference | Medium | O(N) | O(1) | Hash Table, Bit Manipulation | | |
@@ -77,9 +77,9 @@
 | 404 | Sum of Left Leaves | Easy | O(N) | O(H) | Tree | | |
 | 406 | Queue Reconstruction by Height | Medium | O(N^2) | O(N) | Greedy | Clever solution | |
 | 419 | Battleships in a Board | Medium | O(N*N) | O(1) | Array, Depth First Search | | |
-| 425 | Word Squares | Hard | Complex | Complex | Back Tracking, Trie | | 🔒 |
-| 428 | Serialize and Deserialize N-ary Tree | Hard | O(N) | O(H) | Tree | | 🔒 |
-| 431 | Encode N-ary Tree to Binary Tree | Hard | O(N) | O(H) | Tree | | 🔒 |
+| 425 | Word Squares | Hard | Complex | Complex | Back Tracking, Trie, Premium | | 🔒 |
+| 428 | Serialize and Deserialize N-ary Tree | Hard | O(N) | O(H) | Tree, Premium | | 🔒 |
+| 431 | Encode N-ary Tree to Binary Tree | Hard | O(N) | O(H) | Tree, Premium | | 🔒 |
 | 435 | Non-overlapping Intervals | Medium | O(NlogN) | O(1) | Greedy | Tricky, Hard | |
 | 436 | Find Right Interval | Medium | O(NlogN) | O(N) | Binary Search | Bad Description | |
 | 437 | Path Sum III | Medium | O(N) | O(N) | Tree | Tricky, Hard | |
@@ -95,7 +95,7 @@
 | 476 | Number Complement | Easy | O(N) | O(1) | Bit Manipulation | | |
 | 495 | Teemo Attacking | Medium | O(N) | O(1) | Array | | |
 | 497 | Random Point in Non-overlapping Rectangles | Medium | O(logN) | O(N) | Design, Binary Search | | |
-| 510 | Inorder Successor in BST II | Medium | O(H) | O(1) | Tree | | 🔒 |
+| 510 | Inorder Successor in BST II | Medium | O(H) | O(1) | Tree, Premium | | 🔒 |
 | 520 | Detect Capital | Easy | O(N) | O(1) | | | |
 | 525 | Contiguous Array | Medium | O(N) | O(N) | Hash Table | Very good problem | |
 | 528 | Random Pick with Weight | Medium | O(N), O(logN) | O(N), O(1) | Binary Search, Random | Pythonic | |
@@ -103,15 +103,15 @@
 | 540 | Single Element in a Sorted Array | Medium | O(logN) | O(1) | Binary Search | | |
 | 567 | Permutation in String | Medium | O(S1 + S2) | O(1) | String, Two Pointers, Sliding Window | | |
 | 622 | Design Circular Queue | Medium | O(1) | O(1) | Design, Queue | | |
-| 624 | Maximum Distance in Arrays | Easy | O(N) | O(1) | Hash Table, Array | | 🔒 |
+| 624 | Maximum Distance in Arrays | Easy | O(N) | O(1) | Hash Table, Array, Premium | | 🔒 |
 | 646 | Maximum Length of Pair Chain | Medium | O(NlogN) | O(N) | Greedy, Dynamic Programming | | |
 | 662 | Maximum Width of Binary Tree | Medium | O(N) | O(N) | Tree | | |
 | 673 | Number of Longest Increasing Subsequence | Medium | O(N^2) | O(N) | Dynamic Programming | | |
 | 700 | Search in a Binary Search Tree | Easy | O(H) | O(1) | Tree | | |
 | 701 | Insert into a Binary Search Tree | Medium | O(H) | O(1) | Tree | | |
-| 702 | Search in a Sorted Array of Unknown Size | Medium | O(logN) | O(1) | Binary Search | | 🔒 |
+| 702 | Search in a Sorted Array of Unknown Size | Medium | O(logN) | O(1) | Binary Search, Premium | | 🔒 |
 | 705 | Design HashSet | Easy | Varies | Varies | Design HashSet | | |
-| 708 | Insert into a Sorted Circular Linked List | Medium | O(N) | O(1) | Linked List | | 🔒 |
+| 708 | Insert into a Sorted Circular Linked List | Medium | O(N) | O(1) | Linked List, Premium | | 🔒 |
 | 713 | Subarray Product Less Than K | Medium | O(N) | O(1) | Array, Two Pointers | | |
 | 729 | My Calendar I | Medium | O(NlogN) | O(N) | Tree | | |
 | 733 | Flood Fill | Easy | O(N) | O(N) | Depth First Search | | |
@@ -158,8 +158,8 @@
 | 1029 | Two City Scheduling | Easy | O(NlogN) | O(N) | Greedy | Good Problem | |
 | 1032 | Stream of Characters | Hard | O(M) | O(M) | Trie | | |
 | 1035 | Uncrossed Lines | Medium | O(N^2) | O(N) | Array, Dynamic Programming | | |
-| 1060 | Missing Element in Sorted Array | Medium | O(logN) | O(1) | Binary Search | | 🔒 |
-| 1061 | Lexicographically Smallest Equivalent String | Medium | O(N) | O(N) | DFS, Union Find | | 🔒 |
+| 1060 | Missing Element in Sorted Array | Medium | O(logN) | O(1) | Binary Search, Premium | | 🔒 |
+| 1061 | Lexicographically Smallest Equivalent String | Medium | O(N) | O(N) | DFS, Union Find, Premium | | 🔒 |
 | 1094 | Car Pooling | Medium | O(N) | O(1) | Car Pooling | | |
 | 1162 | As Far from Land as Possible | Medium | O(N\*M) | O(N\*M) | Graph, BFS | | |
 | 1232 | Check If It Is a Straight Line | Easy | O(N) | O(1) | Math, Pythonic, Geometry | | |
@@ -169,7 +169,7 @@
 | 1305 | All Elements in Two Binary Search Trees | Medium | O(N) | O(N) | Sort, Tree | | |
 | 1344 | Angle Between Hands of a Clock | Medium | O(1) | O(1) | Math | | |
 | 1375 | Bulb Switcher III | Medium | O(N) | O(1) | Array | | |
-| 1426 | Counting Elements | Easy | O(N) | O(N) | | | 🔒 |
+| 1426 | Counting Elements | Easy | O(N) | O(N) | Array, Premium | | 🔒 |
 | 1427 | Perform String Shifts | Easy | O(N + S) | O(1) | | | 🔒 |
 | 1441 | Build an Array With Stack Operations | Easy | O(N) | O(N) | Pythonic | | |
 | 1442 | Count Triplets That Can Form Two Arrays of Equal XOR | Medium | O(N) | O(N) | Array, Math, Bit Manipulation | | |
@@ -189,7 +189,7 @@
 | 1470 | Shuffle the Array | Easy | O(N) | O(N) | Array | There is a better solution | |
 | 1471 | The k Strongest Values in an Array | Medium | O(NlogN) | O(N) | Array, Sort | There is a better solution | |
 | 1472 | Design Browser History | Medium | O(1) | O(1) | Design | | |
-| 1474 | Delete N Nodes After M Nodes of a Linked List | Easy | O(N) | O(1) | Linked List | | 🔒 |
+| 1474 | Delete N Nodes After M Nodes of a Linked List | Easy | O(N) | O(1) | Linked List, Premium | | 🔒 |
 | 1475 | Final Prices With a Special Discount in a Shop | Easy | O(N) | O(1) | Monotonic Stack | | |
 | 1476 | Subrectangle Queries | Easy | Varies | Varies | Design | | |
 | 1480 | Running Sum of 1d Array | Easy | O(N) | O(1) | | | |

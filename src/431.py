@@ -1,4 +1,4 @@
-# TAGS: Tree
+# TAGS: Tree, Premium
 """
 # Definition for a Node.
 class Node:

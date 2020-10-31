@@ -1,4 +1,4 @@
-# TAGS: Hash Table, Array
+# TAGS: Hash Table, Array, Premium
 class Solution:
     # LTE. Time: O(M^2)
     def maxDistance(self, arrays: List[List[int]]) -> int:
