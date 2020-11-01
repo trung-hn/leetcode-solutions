@@ -131,6 +131,7 @@
 | 794 | Valid Tic-Tac-Toe State | Medium | O(1) | O(1) | Array, String | | |
 | 797 | All Paths From Source to Target | Medium | O(2^N * N) | O(2^N * N) | Backtracking, Depth First Search | | |
 | 799 | Champagne Tower | Medium | O(R^2) | O(R^2) | Dynamic Programming | | |
+| 820 | Short Encoding of Words | Medium | O(N\*M) | O(N\*M) | Trie | | |
 | 830 | Positions of Large Groups | Easy | O(N) | O(1) | | | |
 | 835 | Image Overlap | Medium | O(N^2) | O(N) | | | |
 | 838 | Push Dominoes | Medium | O(N) | O(N) | | | |
@@ -169,6 +170,7 @@
 | 1232 | Check If It Is a Straight Line | Easy | O(N) | O(1) | Math, Pythonic, Geometry | | |
 | 1277 | Count Square Submatrices with All Ones | Medium | O(N * M) | O(1) | Array, Dynamic Programming | | |
 | 1288 | Remove Covered Intervals | Medium | O(N) | O(1) | Greedy, Sort, Line Sweep | | |
+| 1290 | Convert Binary Number in a Linked List to Integer | Easy | O(N) | O(1) | Linked List, Bit Manipulation | | |
 | 1291 | Sequential Digits | Medium | O(N) | O(N) | Backtracking | | |
 | 1305 | All Elements in Two Binary Search Trees | Medium | O(N) | O(N) | Sort, Tree | | |
 | 1344 | Angle Between Hands of a Clock | Medium | O(1) | O(1) | Math | | |
