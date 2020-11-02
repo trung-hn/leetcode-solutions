@@ -159,6 +159,7 @@
 | 987 | Vertical Order Traversal of a Binary Tree | Medium | O(NlogN) | O(N) | Hash Table, Tree | | |
 | 993 | Cousins in Binary Tree | Easy | O(N) | O(H) | Trees, Recursion | | |
 | 994 | Rotting Oranges | Medium | O(N^2) | O(N) | Trees, Recursion | | |
+| 1004 | Max Consecutive Ones III | Medium | O(N) | O(1) | Sliding Window, Two Pointers | | |
 | 1007 | Minimum Domino Rotations For Equal Row | Medium | O(N) | O(1) | Array, Greedy | | |
 | 1022 | Sum of Root To Leaf Binary Numbers | Easy | O(N) | O(H) | Tree | | |
 | 1029 | Two City Scheduling | Easy | O(NlogN) | O(N) | Greedy | Good Problem | |
