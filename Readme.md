@@ -146,6 +146,7 @@
 | 926 | Flip String to Monotone Increasing | Medium | O(N) | O(N) | Array | | |
 | 930 | Binary Subarrays With Sum | Medium | O(N) | O(N) | Hash Table, Two Pointers | | |
 | 933 | Number of Recent Calls | Easy | O(1) | O(1) | Queue | | |
+| 935 | Knight Dialer | Medium | O(N) | O(1) | Dynamic Programming | | |
 | 946 | Validate Stack Sequences | Medium | O(N) | O(N) | Stack | | |
 | 948 | Bag of Tokens | Medium | O(NlogN) | O(N) | Greedy | | |
 | 957 | Prison Cells After N Days | Medium | O(1) | O(1) | Has Table | | |
