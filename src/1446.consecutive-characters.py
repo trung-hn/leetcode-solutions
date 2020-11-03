@@ -4,35 +4,17 @@
 # [1446] Consecutive Characters
 #
 # TAGS: String
-# REVIEWME:
 # @lc code=start
 class Solution:
-    # 40 ms, O(N), O(1)
+    # 44 ms, 54.86%. O(N), O(1)
     def maxPower(self, s: str) -> int:
-        s += "."
-        char = s[0]
-        power = rv = 1
-        for c in s[1:]:
-            if char is None or char == c:
-                power += 1
+        cnt = ans = 1
+        for c1, c2 in zip(s, s[1:]):
+            if c1 == c2:
+                cnt += 1
             else:
-                rv = max(rv, power)
-                power = 1
-            char = c
-        return rv
-
-    # 44 ms
-    def maxPower(self, s: str) -> int:
-        char = None
-        power = rv = 1
-        for c in s:
-            if char == c:
-                power += 1
-            else:
-                power = 1
-                char = c
-            rv = max(rv, power)
-        return rv
-
+                cnt = 1
+            ans = max(ans, cnt)
+        return ans
 # @lc code=end
 
