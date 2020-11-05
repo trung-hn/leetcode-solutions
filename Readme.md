@@ -61,6 +61,7 @@
 | 295 | Find Median from Data Stream | Hard | O(logN) | O(N) | Design, Hard, Heap | | |
 | 296 | Best Meeting Point | Hard | O(M*N) | O(M+N) | Premium, Math | | 🔒 |
 | 299 | Bulls and Cows | Easy | O(N) | O(N) | Hash Table | | |
+| 310 | Minimum Height Trees | Medium | O(V) | O(V) | BFS, Graph | | |
 | 316 | Remove Duplicate Letters | Hard | O(N) | O(1) | Greedy, Tricky, Stack | | |
 | 317 | Shortest Distance from All Buildings | Hard | O(N\*M) | O(N\*M) | BFS, Premium | | 🔒 |
 | 319 | Bulb Switcher | Medium | O(1) | O(1) | Math, Tricky | | |
