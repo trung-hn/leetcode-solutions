@@ -66,6 +66,7 @@
 | 316 | Remove Duplicate Letters | Hard | O(N) | O(1) | Greedy, Tricky, Stack | | |
 | 317 | Shortest Distance from All Buildings | Hard | O(N\*M) | O(N\*M) | BFS, Premium | | 🔒 |
 | 319 | Bulb Switcher | Medium | O(1) | O(1) | Math, Tricky | | |
+| 320 | Generalized Abbreviation | Medium | O(N*2^N) | O(N) | Premium, Backtracking | | 🔒 |
 | 328 | Odd Even Linked List | Medium | O(N) | O(1) | Linked List | | |
 | 338 | Counting Bits | Medium | O(N) | O(N) | Dynamic Programming, Bit Manipulation | | |
 | 342 | Power of Four | Easy | O(1) | O(1) | Math, Bit Manipulation | | |
