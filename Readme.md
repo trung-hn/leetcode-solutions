@@ -72,8 +72,9 @@
 | 344 | Reverse String | Easy | O(N) | O(1) | Two Pointers, String | | |
 | 346 | Moving Average from Data Stream | Easy | O(1) | O(N) | Premium, Design | | 🔒 |
 | 347 | Top K Frequent Elements | Medium | O(N) | O(N) | Hash Table, Heap | | |
+| 348 | Design Tic-Tac-Toe | Medium | O(1) | O(N^2) | Premium, Design | | 🔒 |
 | 351 | Android Unlock Patterns | Medium | O(N!) | O(N) | Dynamic Programming, Backtracking, Premium | | 🔒 |
-| 362 | Design Hit Counter | Medium | O(1) | O(N) | Design, Premium | | |
+| 362 | Design Hit Counter | Medium | O(1) | O(N) | Design, Premium | | 🔒 |
 | 367 | Valid Perfect Square | Easy | O(logN) | O(1) | Math, Binary Search | | |
 | 380 | Insert Delete GetRandom | Medium | O(1) | O(N) | Array, Hash Table, Design | | |
 | 389 | Find the Difference | Medium | O(N) | O(1) | Hash Table, Bit Manipulation | | |
