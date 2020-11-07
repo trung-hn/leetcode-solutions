@@ -1,0 +1,16 @@
+"abcd"
+[0, 2]
+["a", "cd"]
+["eee", "ffff"]
+"abcd"
+[2, 0]
+["cd", "a"]
+["ffff", "eee"]
+"abcd"
+[0, 2]
+["ab","ec"]
+["eee","ffff"]
+"abcdefgh"
+[0, 2, 5]
+["be","c","fg"]
+["eee","ffff","u"]

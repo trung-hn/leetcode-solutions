@@ -142,6 +142,7 @@
 | 799 | Champagne Tower | Medium | O(R^2) | O(R^2) | Dynamic Programming | | |
 | 820 | Short Encoding of Words | Medium | O(N\*M) | O(N\*M) | Trie | | |
 | 830 | Positions of Large Groups | Easy | O(N) | O(1) | | | |
+| 833 | Find And Replace in String | Medium | O(N) | O(N) | String | | |
 | 835 | Image Overlap | Medium | O(N^2) | O(N) | | | |
 | 838 | Push Dominoes | Medium | O(N) | O(N) | | | |
 | 849 | Maximize Distance to Closest Person | Medium | O(N) | O(1) | Array | | |
