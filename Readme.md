@@ -75,6 +75,7 @@
 | 347 | Top K Frequent Elements | Medium | O(N) | O(N) | Hash Table, Heap | | |
 | 348 | Design Tic-Tac-Toe | Medium | O(1) | O(N^2) | Premium, Design | | 🔒 |
 | 351 | Android Unlock Patterns | Medium | O(N!) | O(N) | Dynamic Programming, Backtracking, Premium | | 🔒 |
+| 361 | Bomb Enemy | Medium | O(N\*M) | O(N\*M) | Premium, Dynamic Programming | | 🔒 |
 | 362 | Design Hit Counter | Medium | O(1) | O(N) | Design, Premium | | 🔒 |
 | 367 | Valid Perfect Square | Easy | O(logN) | O(1) | Math, Binary Search | | |
 | 380 | Insert Delete GetRandom | Medium | O(1) | O(N) | Array, Hash Table, Design | | |
