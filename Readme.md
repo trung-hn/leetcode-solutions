@@ -113,6 +113,7 @@
 | 528 | Random Pick with Weight | Medium | O(N), O(logN) | O(N), O(1) | Binary Search, Random | Pythonic | |
 | 532 | K-diff Pairs in an Array | Medium | O(N) | O(N) | Array, Two Pointers | | |
 | 540 | Single Element in a Sorted Array | Medium | O(logN) | O(1) | Binary Search | | |
+| 563 | Binary Tree Tilt | Easy | O(N) | O(H) | Tree, DFS, Recursion | | |
 | 567 | Permutation in String | Medium | O(S1 + S2) | O(1) | String, Two Pointers, Sliding Window | | |
 | 573 | Squirrel Simulation | Medium | O(N) | O(1) | Premium, Math | | |
 | 622 | Design Circular Queue | Medium | O(1) | O(1) | Design, Queue | | |
