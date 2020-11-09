@@ -147,6 +147,7 @@
 | 833 | Find And Replace in String | Medium | O(N) | O(N) | String | | |
 | 835 | Image Overlap | Medium | O(N^2) | O(N) | | | |
 | 838 | Push Dominoes | Medium | O(N) | O(N) | | | |
+| 846 | Hand of Straights | Medium | O(MlogM+NW) | O(N) | Ordered Map | | |
 | 849 | Maximize Distance to Closest Person | Medium | O(N) | O(1) | Array | | |
 | 851 | Loud and Rich | Medium | O(N^2) | O(N^2) | DFS | | |
 | 853 | Car Fleet | Medium | O(NlogN) | O(N) | Sort | | |
