@@ -119,6 +119,7 @@
 | 622 | Design Circular Queue | Medium | O(1) | O(1) | Design, Queue | | |
 | 624 | Maximum Distance in Arrays | Easy | O(N) | O(1) | Hash Table, Array, Premium | | 🔒 |
 | 646 | Maximum Length of Pair Chain | Medium | O(NlogN) | O(N) | Greedy, Dynamic Programming | | |
+| 655 | Print Binary Tree | Medium | O(N) | O(H) | Tree | | |
 | 662 | Maximum Width of Binary Tree | Medium | O(N) | O(N) | Tree | | |
 | 673 | Number of Longest Increasing Subsequence | Medium | O(N^2) | O(N) | Dynamic Programming | | |
 | 700 | Search in a Binary Search Tree | Easy | O(H) | O(1) | Tree | | |
