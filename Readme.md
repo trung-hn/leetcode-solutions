@@ -149,6 +149,7 @@
 | 838 | Push Dominoes | Medium | O(N) | O(N) | | | |
 | 849 | Maximize Distance to Closest Person | Medium | O(N) | O(1) | Array | | |
 | 851 | Loud and Rich | Medium | O(N^2) | O(N^2) | DFS | | |
+| 853 | Car Fleet | Medium | O(NlogN) | O(N) | Sort | | |
 | 859 | Buddy Strings | Easy | O(N) | O(1) | String | | |
 | 875 | Koko Eating Bananas | Medium | O(NlogN) | O(1) | Binary Search | | |
 | 886 | Possible Bipartition | Medium | O(N + E) | O(N + E) | Depth First Search | Good problem | |
