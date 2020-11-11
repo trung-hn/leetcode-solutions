@@ -116,6 +116,7 @@
 | 563 | Binary Tree Tilt | Easy | O(N) | O(H) | Tree, DFS, Recursion | | |
 | 567 | Permutation in String | Medium | O(S1 + S2) | O(1) | String, Two Pointers, Sliding Window | | |
 | 573 | Squirrel Simulation | Medium | O(N) | O(1) | Premium, Math | | |
+| 593 | Valid Square | Medium | O(1) | O(1) | Math | | |
 | 622 | Design Circular Queue | Medium | O(1) | O(1) | Design, Queue | | |
 | 624 | Maximum Distance in Arrays | Easy | O(N) | O(1) | Hash Table, Array, Premium | | 🔒 |
 | 646 | Maximum Length of Pair Chain | Medium | O(NlogN) | O(N) | Greedy, Dynamic Programming | | |
