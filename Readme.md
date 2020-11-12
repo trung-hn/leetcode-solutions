@@ -9,7 +9,8 @@
 | 21 | Merge Two Sorted Lists | Easy | O(N) | O(1) | Linked List | | |
 | 22 | Generate Parentheses | Medium | Complicated | Complicated | String, Backtracking | | |
 | 39 | Combination Sum | Medium | O(N^2) | O(N) | Array, Backtracking | | |
-| 46 | Permutations | Medium | Pending | Pending | | | |
+| 46 | Permutations | Medium | O(N!) | O(N!) | Backtracking | | |
+| 47 | Permutations II | Medium | O(N!) | O(N!) | Backtracking | | |
 | 53 | Maximum Subarray | Easy | O(N) | O(1) | | | |
 | 57 | Insert Interval | Hard | O(N) | O(N) | Array, Sort, Greedy | | |
 | 61 | Rotate List | Medium | O(N) | O(1) | Linked List, Two Pointers | | |
