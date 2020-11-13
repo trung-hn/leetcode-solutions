@@ -59,6 +59,7 @@
 | 264 | Ugly Number II | Medium | O(1) | O(1) | Heap, Dynamic Programming | | |
 | 270 | Closest Binary Search Tree Value | Easy | O(H) | O(1) | Premium, Binary Search, Tree | | 🔒 |
 | 274 | H-Index | Medium | O(NlogN) | O(N) | Hash Table, Sort | There is a better solution | |
+| 284 | Peeking Iterator | Medium | O(NlogN) | O(N) | Design | | |
 | 290 | Word Pattern | Easy | O(N) | O(N) | Hash Table | | |
 | 295 | Find Median from Data Stream | Hard | O(logN) | O(N) | Design, Hard, Heap | | |
 | 296 | Best Meeting Point | Hard | O(M*N) | O(M+N) | Premium, Math | | 🔒 |
