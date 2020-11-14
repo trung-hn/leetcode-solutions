@@ -22,6 +22,7 @@
 | 107 | Binary Tree Level Order Traversal II | Easy | O(N) | O(N) | Tree, Breath First Search | | |
 | 111 | Minimum Depth of Binary Tree | Easy | O(N) | O(H) | Tree, DFS, BFS | | |
 | 114 | Flatten Binary Tree to Linked List | Medium | O(N) | O(1) | Tree, Depth First Search | | |
+| 116 | Populating Next Right Pointers in Each Node | Medium | O(N) | O(N) | Tree, DFS, BFS | | |
 | 119 | Pascal's Triangle II | Easy | O(k^2) | O(k) | Array | | |
 | 121 | Best Time to Buy and Sell Stock | Easy | O(N) | O(1) | Dynamic Programming | | |
 | 122 | Best Time to Buy and Sell Stock II | Easy | O(N) | O(1) | Array, Greedy | | |
@@ -292,6 +293,7 @@ For premium problems, question description are available as screenshots [here](.
 https://leetcode.com/jummyegg/
 
 ## Posts:
+- [Important and Useful links from all over the LeetCode](https://leetcode.com/discuss/general-discussion/665604/Important-and-Useful-links-from-all-over-the-LeetCode)
 - Graph: https://leetcode.com/discuss/general-discussion/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions 
 - Sliding Windows: https://leetcode.com/discuss/general-discussion/657507/Sliding-Window-for-Beginners-Problems-or-Template-or-Sample-Solutions
 - Trie: https://leetcode.com/discuss/general-discussion/680706/Article-on-Trie.-General-Template-and-List-of-problems. 
