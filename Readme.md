@@ -290,6 +290,7 @@
 | 1639 | Number of Ways to Form a Target String Given a Dictionary | Hard | O(N\*M) | O(N\*M) | Dynamic Programming | | |
 | 1640 | Check Array Formation Through Concatenation | Medium | O(N) | O(N) | Array | | |
 | 1641 | Count Sorted Vowel Strings | Medium | O(N) | O(1) | Dynamic Programming, Math, Backtracking | | |
+| 1646 | Get Maximum in Generated Array | Easy | O(N) | O(N) | Array | | |
 | 1652 | Defuse the Bomb | Medium | O(N) | O(N) | Array | | |
 | | | | | | | | |
 
