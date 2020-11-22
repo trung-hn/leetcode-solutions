@@ -293,6 +293,7 @@
 | 1640 | Check Array Formation Through Concatenation | Medium | O(N) | O(N) | Array | | |
 | 1641 | Count Sorted Vowel Strings | Medium | O(N) | O(1) | Dynamic Programming, Math, Backtracking | | |
 | 1642 | Furthest Building You Can Reach | Medium | O(NlogN) | O(N) | Binary Search, Heap | | |
+| 1644 | Lowest Common Ancestor of a Binary Tree II | Medium | O(N) | O(H) | Premium, Tree | | |
 | 1646 | Get Maximum in Generated Array | Easy | O(N) | O(N) | Array | | |
 | 1652 | Defuse the Bomb | Medium | O(N) | O(N) | Array | | |
 | | | | | | | | |
