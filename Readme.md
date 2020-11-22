@@ -295,6 +295,7 @@
 | 1642 | Furthest Building You Can Reach | Medium | O(NlogN) | O(N) | Binary Search, Heap | | |
 | 1644 | Lowest Common Ancestor of a Binary Tree II | Medium | O(N) | O(H) | Premium, Tree | | 🔒 |
 | 1646 | Get Maximum in Generated Array | Easy | O(N) | O(N) | Array | | |
+| 1647 | Minimum Deletions to Make Character Frequencies Unique | Medium | O(1) | O(1) | Greedy, Sort | | |
 | 1650 | Lowest Common Ancestor of a Binary Tree III | Medium | O(H) | O(1) | Premium, Tree | | 🔒 |
 | 1652 | Defuse the Bomb | Medium | O(N) | O(N) | Array | | |
 | | | | | | | | |
