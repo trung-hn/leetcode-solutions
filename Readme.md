@@ -120,7 +120,7 @@
 | 540 | Single Element in a Sorted Array | Medium | O(logN) | O(1) | Binary Search | | |
 | 563 | Binary Tree Tilt | Easy | O(N) | O(H) | Tree, DFS, Recursion | | |
 | 567 | Permutation in String | Medium | O(S1 + S2) | O(1) | String, Two Pointers, Sliding Window | | |
-| 573 | Squirrel Simulation | Medium | O(N) | O(1) | Premium, Math | | |
+| 573 | Squirrel Simulation | Medium | O(N) | O(1) | Premium, Math | | 🔒 |
 | 593 | Valid Square | Medium | O(1) | O(1) | Math | | |
 | 622 | Design Circular Queue | Medium | O(1) | O(1) | Design, Queue | | |
 | 624 | Maximum Distance in Arrays | Easy | O(N) | O(1) | Hash Table, Array, Premium | | 🔒 |
@@ -293,8 +293,9 @@
 | 1640 | Check Array Formation Through Concatenation | Medium | O(N) | O(N) | Array | | |
 | 1641 | Count Sorted Vowel Strings | Medium | O(N) | O(1) | Dynamic Programming, Math, Backtracking | | |
 | 1642 | Furthest Building You Can Reach | Medium | O(NlogN) | O(N) | Binary Search, Heap | | |
-| 1644 | Lowest Common Ancestor of a Binary Tree II | Medium | O(N) | O(H) | Premium, Tree | | |
+| 1644 | Lowest Common Ancestor of a Binary Tree II | Medium | O(N) | O(H) | Premium, Tree | | 🔒 |
 | 1646 | Get Maximum in Generated Array | Easy | O(N) | O(N) | Array | | |
+| 1650 | Lowest Common Ancestor of a Binary Tree III | Medium | O(H) | O(1) | Premium, Tree | | 🔒 |
 | 1652 | Defuse the Bomb | Medium | O(N) | O(N) | Array | | |
 | | | | | | | | |
 
