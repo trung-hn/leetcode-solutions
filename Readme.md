@@ -289,6 +289,7 @@
 | 1615 | Maximal Network Rank | Medium | O(N) | O(1) | Graph | | |
 | 1624 | Largest Substring Between Two Equal Characters | Easy | O(N) | O(1) | String | | |
 | 1629 | Slowest Key | Easy | O(N) | O(1) | String | | |
+| 1634 | Add Two Polynomials Represented as Linked Lists | Medium | O(N) | O(1) | Premium, Linked List | | 🔒 |
 | 1639 | Number of Ways to Form a Target String Given a Dictionary | Hard | O(N\*M) | O(N\*M) | Dynamic Programming | | |
 | 1640 | Check Array Formation Through Concatenation | Medium | O(N) | O(N) | Array | | |
 | 1641 | Count Sorted Vowel Strings | Medium | O(N) | O(1) | Dynamic Programming, Math, Backtracking | | |
