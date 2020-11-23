@@ -82,6 +82,7 @@
 | 361 | Bomb Enemy | Medium | O(N\*M) | O(N\*M) | Premium, Dynamic Programming | | 🔒 |
 | 362 | Design Hit Counter | Medium | O(1) | O(N) | Design, Premium | | 🔒 |
 | 367 | Valid Perfect Square | Easy | O(logN) | O(1) | Math, Binary Search | | |
+| 378 | Kth Smallest Element in a Sorted Matrix | Medium | O(N^2logK) | O(K) | Heap, Binary Search | | |
 | 380 | Insert Delete GetRandom | Medium | O(1) | O(N) | Array, Hash Table, Design | | |
 | 389 | Find the Difference | Medium | O(N) | O(1) | Hash Table, Bit Manipulation | | |
 | 387 | First Unique Character in a String | Easy | O(N) | O(N) | | | |
