@@ -192,6 +192,7 @@
 | 994 | Rotting Oranges | Medium | O(N^2) | O(N) | Trees, Recursion | | |
 | 1004 | Max Consecutive Ones III | Medium | O(N) | O(1) | Sliding Window, Two Pointers | | |
 | 1007 | Minimum Domino Rotations For Equal Row | Medium | O(N) | O(1) | Array, Greedy | | |
+| 1015 | Smallest Integer Divisible by K | Medium | O(K) | O(K) | Math | | |
 | 1022 | Sum of Root To Leaf Binary Numbers | Easy | O(N) | O(H) | Tree | | |
 | 1026 | Maximum Difference Between Node and Ancestor | Medium | O(N) | O(H) | Tree, DFS | | |
 | 1029 | Two City Scheduling | Easy | O(NlogN) | O(N) | Greedy | Good Problem | |
