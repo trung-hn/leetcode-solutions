@@ -291,6 +291,7 @@
 | 1609 | Even Odd Tree | Easy | O(N) | O(N) | Tree | | |
 | 1614 | Maximum Nesting Depth of the Parentheses | Easy | O(N) | O(1) | String | | |
 | 1615 | Maximal Network Rank | Medium | O(N) | O(1) | Graph | | |
+| 1618 | Maximum Font to Fit a Sentence in a Screen | Medium | O(logN) | O(1) | Premium, String, Binary Search | | 🔒 |
 | 1624 | Largest Substring Between Two Equal Characters | Easy | O(N) | O(1) | String | | |
 | 1629 | Slowest Key | Easy | O(N) | O(1) | String | | |
 | 1634 | Add Two Polynomials Represented as Linked Lists | Medium | O(N) | O(1) | Premium, Linked List | | 🔒 |
