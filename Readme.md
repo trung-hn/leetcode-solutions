@@ -89,6 +89,7 @@
 | 389 | Find the Difference | Medium | O(N) | O(1) | Hash Table, Bit Manipulation | | |
 | 387 | First Unique Character in a String | Easy | O(N) | O(N) | | | |
 | 394 | Decode String | Medium | O(maxK*N) | O(N) | Stack, DFS | | |
+| 395 | Longest Substring with At Least K Repeating Characters | Medium | O(NlogN) | O(N) | Divide and Conquer, Recursion, Sliding Window | | |
 | 399 | Evaluate Division | Medium | O(N*M) | O(N) | Union Find, Graph | | |
 | 402 | Remove K Digits | Medium | O(N) | O(N) | Greedy | | |
 | 404 | Sum of Left Leaves | Easy | O(N) | O(H) | Tree | | |
