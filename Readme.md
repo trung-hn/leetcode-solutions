@@ -216,6 +216,7 @@
 | 1290 | Convert Binary Number in a Linked List to Integer | Easy | O(N) | O(1) | Linked List, Bit Manipulation | | |
 | 1291 | Sequential Digits | Medium | O(N) | O(N) | Backtracking | | |
 | 1305 | All Elements in Two Binary Search Trees | Medium | O(N) | O(N) | Sort, Tree | | |
+| 1306 | All Elements inJump Game III | Medium | O(N) | O(N) | BFS, DFS, Recursion | | |
 | 1344 | Angle Between Hands of a Clock | Medium | O(1) | O(1) | Math | | |
 | 1375 | Bulb Switcher III | Medium | O(N) | O(1) | Array | | |
 | 1426 | Counting Elements | Easy | O(N) | O(N) | Array, Premium | | 🔒 |
