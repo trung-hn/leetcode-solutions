@@ -6,6 +6,7 @@
 
 # @lc code=start
 # TAGS: Divide and Conquer, Recursion, Sliding Window
+# REVIEWME: Divide and Conquer
 class Solution:
     # LTE. Time: O(N^2)
     def longestSubstring(self, s: str, k: int) -> int:
@@ -22,7 +23,7 @@ class Solution:
         return ans
                     
     # Divide and conquer. 32 ms, 83.66%. 
-    # Worst case is still O(N^2) but O(NlogN) on average
+    # Worst case is still O(N^2) but O(N) on average because there are O(1) levels due to only having letters
     def longestSubstring(self, s: str, k: int) -> int:
         for c in set(s):
             if s.count(c) < k: # split here
