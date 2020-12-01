@@ -50,6 +50,7 @@
 | 211 | Add and Search Word - Data structure design | Medium | O(M) | O(1) | Trie, Design | | |
 | 213 | House Robber II | Medium | O(N) | O(1) | Dynamic Programming | | |
 | 216 | Combination Sum III | Medium | O(N^2) | O(N^2) | Array, Backtracking | | |
+| 218 | The Skyline Problem | Hard | O(NlogN) | O(N) | Divide and Conquer, Heap, Binary Indexed Tree, Segment Tree, Line Sweep | | |
 | 220 | Contains Duplicate III | Medium | O(N) | O(N) | Sort, Ordered Map | | |
 | 221 | Maximal Square | Medium | O(N * M) | O(1) | Array, Dynamic Programming | | |
 | 222 | Count Complete Tree Nodes | Medium | O(logN * logN) | O(1) | Binary Search, Tree | | |
