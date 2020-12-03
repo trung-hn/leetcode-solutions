@@ -210,6 +210,7 @@
 | 1094 | Car Pooling | Medium | O(N) | O(1) | Car Pooling | | |
 | 1162 | As Far from Land as Possible | Medium | O(N\*M) | O(N\*M) | Graph, BFS | | |
 | 1217 | Minimum Cost to Move Chips to The Same Position | Easy | O(N) | O(1) | Math, Greedy, Array | | |
+| 1219 | Minimum CostPath with Maximum Gold | Medium | O(R\*C+N\*2^N) | O(N) | Backtracking | | |
 | 1232 | Check If It Is a Straight Line | Easy | O(N) | O(1) | Math, Pythonic, Geometry | | |
 | 1249 | Minimum Remove to Make Valid Parentheses | Medium | O(N) | O(N) | Stack, String | | |
 | 1277 | Count Square Submatrices with All Ones | Medium | O(N * M) | O(1) | Array, Dynamic Programming | | |
