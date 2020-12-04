@@ -30,5 +30,21 @@ class Solution:
         if k > len(nums): return -1
         return n // nums[-k]
 
+
+    # Redo. 24 ms, 95.02%. Time and Space: O(logN)
+    def kthFactor(self, n: int, k: int) -> int:
+        pre = []; post = []
+        for i in range(1, int(n**0.5) + 1):
+            if i * i == n:
+                pre.append(i)
+            elif n % i == 0:
+                pre.append(i)
+                post.append(n // i)
+        k -= 1
+        if k >= len(pre) + len(post): return -1
+        if k < len(pre): return pre[k]
+        k -= len(pre)
+        return post[~k]
+
 # @lc code=end
 
