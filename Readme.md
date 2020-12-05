@@ -117,6 +117,7 @@
 | 462 | Minimum Moves to Equal Array Elements II | Median | O(NlogN) | O(N) | Math | | |
 | 463 | Island Perimeter | Easy | O(N*M) | O(1) | Greedy | | |
 | 470 | Implement Rand10() Using Rand7() | Medium | O(1) | O(1) | Math | | |
+| 474 | Ones and Zeroes | Medium | O(K\*M\*N) | O(K\*M\*N) | Dynamic Programming | | |
 | 476 | Number Complement | Easy | O(N) | O(1) | Bit Manipulation | | |
 | 495 | Teemo Attacking | Medium | O(N) | O(1) | Array | | |
 | 497 | Random Point in Non-overlapping Rectangles | Medium | O(logN) | O(N) | Design, Binary Search | | |
