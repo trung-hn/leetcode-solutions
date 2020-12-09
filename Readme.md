@@ -178,6 +178,7 @@
 | 886 | Possible Bipartition | Medium | O(N + E) | O(N + E) | Depth First Search | Good problem | |
 | 901 | Online Stock Span | Medium | O(1) | O(N) | Monotonic Stack | | |
 | 902 | Numbers At Most N Given Digit Set | Hard | O(LogN) | O(1) | Math, Dynamic Programming | | |
+| 904 | Fruit Into Baskets | Medium | O(N) | O(1) | Two Pointers | | |
 | 905 | Sort Array By Parity | Easy | O(N) | O(1) | Array | | |
 | 911 | Online Election | Medium | O(N + QlogN) | O(N) | Binary Search | | |
 | 918 | Maximum Sum Circular Subarray | Medium | O(N) | O(1) | Array, Dynamic Programming | | |
