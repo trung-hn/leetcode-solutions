@@ -196,6 +196,7 @@
 | 967 | Numbers With Same Consecutive Differences | Medium | O(N*2^N) | O(2^N) | DFS | | |
 | 969 | Pancake Sorting | Medium | O(N^2) | O(N) | Array | | |
 | 973 | K Closest Points to Origin | Medium | O(N log(K)) | O(K) | Divide and Conquer, Heap, Sort | | |
+| 974 | Subarray Sums Divisible by K | Medium | O(N) | O(K) | Array, Hash Table | | |
 | 976 | Largest Perimeter Triangle | Medium | O(NlogN) | O(N) | Math, Sort | | |
 | 979 | Distribute Coins in Binary Tree | Medium | O(N) | O(H) | Tree, DFS | | |
 | 980 | Unique Paths III | Medium | O(2^N) | O(N) | Backtracking, DFS | | |
