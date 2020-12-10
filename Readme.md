@@ -122,6 +122,7 @@
 | 476 | Number Complement | Easy | O(N) | O(1) | Bit Manipulation | | |
 | 495 | Teemo Attacking | Medium | O(N) | O(1) | Array | | |
 | 497 | Random Point in Non-overlapping Rectangles | Medium | O(logN) | O(N) | Design, Binary Search | | |
+| 498 | Diagonal Traverse | Medium | O(R\*C) | O(R\*C) | Array | | |
 | 510 | Inorder Successor in BST II | Medium | O(H) | O(1) | Tree, Premium | | 🔒 |
 | 520 | Detect Capital | Easy | O(N) | O(1) | | | |
 | 525 | Contiguous Array | Medium | O(N) | O(N) | Hash Table | Very good problem | |
@@ -229,8 +230,9 @@
 | 1306 | All Elements inJump Game III | Medium | O(N) | O(N) | BFS, DFS, Recursion | | |
 | 1344 | Angle Between Hands of a Clock | Medium | O(1) | O(1) | Math | | |
 | 1375 | Bulb Switcher III | Medium | O(N) | O(1) | Array | | |
+| 1424 | Diagonal Traverse II | Medium | O(A) | O(A) | Array | | |
 | 1426 | Counting Elements | Easy | O(N) | O(N) | Array, Premium | | 🔒 |
-| 1427 | Perform String Shifts | Easy | O(N + S) | O(1) | | | 🔒 |
+| 1427 | Perform String Shifts | Easy | O(N + S) | O(1) | Premium | | 🔒 |
 | 1441 | Build an Array With Stack Operations | Easy | O(N) | O(N) | Pythonic | | |
 | 1442 | Count Triplets That Can Form Two Arrays of Equal XOR | Medium | O(N) | O(N) | Array, Math, Bit Manipulation | | |
 | 1443 | Minimum Time to Collect All Apples in a Tree | Medium | O(E) | O(E) | Tree, Depth First Search | | |
