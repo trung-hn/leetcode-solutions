@@ -188,6 +188,7 @@
 | 933 | Number of Recent Calls | Easy | O(1) | O(1) | Queue | | |
 | 934 | Shortest Bridge | Medium | O(E+V) | O(E+V) | BFS, DFS | | |
 | 935 | Knight Dialer | Medium | O(N) | O(1) | Dynamic Programming | | |
+| 941 | Valid Mountain Array | Easy | O(N) | O(1) | Array | | |
 | 946 | Validate Stack Sequences | Medium | O(N) | O(N) | Stack | | |
 | 948 | Bag of Tokens | Medium | O(NlogN) | O(N) | Greedy | | |
 | 957 | Prison Cells After N Days | Medium | O(1) | O(1) | Has Table | | |
