@@ -186,6 +186,7 @@
 | 905 | Sort Array By Parity | Easy | O(N) | O(1) | Array | | |
 | 911 | Online Election | Medium | O(N + QlogN) | O(N) | Binary Search | | |
 | 918 | Maximum Sum Circular Subarray | Medium | O(N) | O(1) | Array, Dynamic Programming | | |
+| 919 | Complete Binary Tree Inserter | Medium | O(N) | O(1) | Tree | | |
 | 926 | Flip String to Monotone Increasing | Medium | O(N) | O(N) | Array | | |
 | 930 | Binary Subarrays With Sum | Medium | O(N) | O(N) | Hash Table, Two Pointers | | |
 | 933 | Number of Recent Calls | Easy | O(1) | O(1) | Queue | | |
@@ -341,6 +342,7 @@ https://leetcode.com/jummyegg/
 - Graph: https://leetcode.com/discuss/general-discussion/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions 
 - Sliding Windows: https://leetcode.com/discuss/general-discussion/657507/Sliding-Window-for-Beginners-Problems-or-Template-or-Sample-Solutions
 - Trie: https://leetcode.com/discuss/general-discussion/680706/Article-on-Trie.-General-Template-and-List-of-problems. 
+- Graph: https://leetcode.com/discuss/general-discussion/969327/graph-algorithms-one-place-dijkstra-bellman-ford-floyd-warshall-prims-kruskals-dsu
 ### Dynamic Programming:
 - https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions
 - https://leetcode.com/discuss/interview-question/491522/dynamic-programming-questions-thread

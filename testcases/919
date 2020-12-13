@@ -1,0 +1,6 @@
+["CBTInserter","insert","get_root"]
+[[[1]],[2],[]]
+["CBTInserter","insert","insert","get_root"]
+[[[1,2,3,4,5,6]],[7],[8],[]]
+["CBTInserter","insert","insert","insert","get_root"]
+[[[1]],[2],[3],[4],[]]
