@@ -331,6 +331,7 @@
 | 1652 | Defuse the Bomb | Medium | O(N) | O(N) | Array | | |
 | 1657 | Determine if Two Strings Are Close | Medium | O(N) | O(1) | Greedy | | |
 | 1663 | Smallest String With A Given Numeric Value | Medium | O(N) | O(1) | Greedy | | |
+| 1664 | Ways to Make a Fair Array | Medium | O(N) | O(1) | Dynamic Programming, Greedy | | |
 | | | | | | | | |
 
 For premium problems, question description are available as screenshots [here](./premium-questions)
