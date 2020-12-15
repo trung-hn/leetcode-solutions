@@ -203,6 +203,7 @@
 | 973 | K Closest Points to Origin | Medium | O(N log(K)) | O(K) | Divide and Conquer, Heap, Sort | | |
 | 974 | Subarray Sums Divisible by K | Medium | O(N) | O(K) | Array, Hash Table | | |
 | 976 | Largest Perimeter Triangle | Medium | O(NlogN) | O(N) | Math, Sort | | |
+| 977 | Squares of a Sorted Array | Easy | O(N) | O(N) | Array, Two Pointers | | |
 | 979 | Distribute Coins in Binary Tree | Medium | O(N) | O(H) | Tree, DFS | | |
 | 980 | Unique Paths III | Medium | O(2^N) | O(N) | Backtracking, DFS | | |
 | 983 | Minimum Cost For Tickets | Medium | O(365) | O(365) | LRU Cache, Dynamic Programming | | |
