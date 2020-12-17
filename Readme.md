@@ -330,6 +330,7 @@
 | 1647 | Minimum Deletions to Make Character Frequencies Unique | Medium | O(1) | O(1) | Greedy, Sort | | |
 | 1650 | Lowest Common Ancestor of a Binary Tree III | Medium | O(H) | O(1) | Premium, Tree | | 🔒 |
 | 1652 | Defuse the Bomb | Medium | O(N) | O(N) | Array | | |
+| 1653 | Minimum Deletions to Make String Balanced | Medium | O(N) | O(N) | Greedy, String | | |
 | 1657 | Determine if Two Strings Are Close | Medium | O(N) | O(1) | Greedy | | |
 | 1663 | Smallest String With A Given Numeric Value | Medium | O(N) | O(1) | Greedy | | |
 | 1664 | Ways to Make a Fair Array | Medium | O(N) | O(1) | Dynamic Programming, Greedy | | |
