@@ -78,6 +78,7 @@
 | 319 | Bulb Switcher | Medium | O(1) | O(1) | Math, Tricky | | |
 | 320 | Generalized Abbreviation | Medium | O(N*2^N) | O(N) | Premium, Backtracking | | 🔒 |
 | 328 | Odd Even Linked List | Medium | O(N) | O(1) | Linked List | | |
+| 334 | Increasing Triplet Subsequence | Medium | O(N) | O(1) | Array | | |
 | 337 | House Robber III | Medium | O(N) | O(N) | Dynamic Programming, Tree, DFS | | |
 | 338 | Counting Bits | Medium | O(N) | O(N) | Dynamic Programming, Bit Manipulation | | |
 | 342 | Power of Four | Easy | O(1) | O(1) | Math, Bit Manipulation | | |
