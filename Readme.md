@@ -256,6 +256,7 @@
 | 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium | O(N) | O(1) | String, Sliding Window | | |
 | 1457 | Pseudo-Palindromic Paths in a Binary Tree | Medium | O(N) | O(H) | Bit Manipulation, Tree, Depth First Search   | | |
 | 1460 | Make Two Arrays Equal by Reversing Sub-arrays | Easy | O(N) | O(1) | Array | | |
+| 1463 | Cherry Pickup II | hard | O(R\*C\*C) | O(R\*C\*C) | Dynamic Programming | | |
 | 1464 | Maximum Product of Two Elements in an Array | Easy | O(N) | O(1) | Array | | |
 | 1466 | Reorder Routes to Make All Paths Lead to the City Zero | Medium | O(\|V\|) | O(\|V\|) | Tree, Depth First Search | | |
 | 1470 | Shuffle the Array | Easy | O(N) | O(N) | Array | There is a better solution | |
