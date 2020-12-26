@@ -21,6 +21,7 @@
 | 74 | Search a 2D Matrix | Medium | O(logN + logM) | O(1) | Binary Search | | |
 | 78 | Subsets | Medium | O(N\*2^N) | O(N\*2^N) | Backtracking, Bit Manipulation | | |
 | 80 | Remove Duplicates from Sorted Array II | Medium | O(N) | O(1) | Array, Two Pointers | | |
+| 91 | Decode Ways | Medium | O(N) | O(N) | String, Dynamic Programming | | |
 | 99 | Recover Binary Search Tree | Hard | O(N) | O(N) | Tree, DFS | | |
 | 100 | Same Tree | Easy | O(N) | O(H) | Tree, Pythonic | | |
 | 107 | Binary Tree Level Order Traversal II | Easy | O(N) | O(N) | Tree, Breath First Search | | |
