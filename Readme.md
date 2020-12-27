@@ -344,6 +344,7 @@
 | 1664 | Ways to Make a Fair Array | Medium | O(N) | O(1) | Dynamic Programming, Greedy | | |
 | 1679 | Max Number of K-Sum Pairs | Medium | O(N) | O(N) | Hash Table | | |
 | 1684 | Count the Number of Consistent Strings | Easy | O(N) | O(1) | String | | |
+| 1685 | Sum of Absolute Differences in a Sorted Array | Medium | O(N) | O(N) | Math, Greedy | | |
 | | | | | | | | |
 
 For premium problems, question description are available as screenshots [here](./premium-questions)
