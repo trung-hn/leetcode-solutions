@@ -346,6 +346,7 @@
 | 1679 | Max Number of K-Sum Pairs | Medium | O(N) | O(N) | Hash Table | | |
 | 1684 | Count the Number of Consistent Strings | Easy | O(N) | O(1) | String | | |
 | 1685 | Sum of Absolute Differences in a Sorted Array | Medium | O(N) | O(N) | Math, Greedy | | |
+| 1695 | Maximum Erasure Value | Medium | O(N) | O(1) | Two Pointers | | |
 | | | | | | | | |
 
 For premium problems, question description are available as screenshots [here](./premium-questions)
