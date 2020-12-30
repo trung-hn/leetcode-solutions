@@ -13,19 +13,19 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    # 412 ms, 85.09%. Time: O(N). Space: O(H)
+    # 368 ms, 85.44%. Time: O(N). Space: O(H)
     def pseudoPalindromicPaths (self, root: TreeNode) -> int:      
-        def dfs(node, evens=[True]*10):
+        def dfs(node, odds=[0]*10):
             if not node: return
-            evens[node.val] ^= 1 # Flip bit
+            odds[node.val] ^= 1 # Flip bit
             
             if node.left is node.right is None:
-                if evens.count(False) < 2:
+                if sum(odds) <= 1:
                     self.ans += 1
             
-            dfs(node.left, evens)
-            dfs(node.right, evens)
-            evens[node.val] ^= 1 # Flip bit
+            dfs(node.left, odds)
+            dfs(node.right, odds)
+            odds[node.val] ^= 1 # Flip bit
         self.ans = 0
         dfs(root)
         return self.ans
