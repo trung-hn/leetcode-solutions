@@ -349,6 +349,7 @@
 | 1684 | Count the Number of Consistent Strings | Easy | O(N) | O(1) | String | | |
 | 1685 | Sum of Absolute Differences in a Sorted Array | Medium | O(N) | O(N) | Math, Greedy | | |
 | 1695 | Maximum Erasure Value | Medium | O(N) | O(1) | Two Pointers | | |
+| 1706 | Where Will the Ball Fall | Medium | O(N*M) | O(M) | Dynamic Programming | | |
 | | | | | | | | |
 
 For premium problems, question description are available as screenshots [here](./premium-questions)
