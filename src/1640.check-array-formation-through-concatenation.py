@@ -16,5 +16,23 @@ class Solution:
             if piece != arr[index : index + len(piece)]:
                 return False
         return True
+    
+    # Second solution
+    def canFormArray(self, arr: List[int], pieces: List[List[int]]) -> bool:
+        pos = {val:i for i, piece in enumerate(pieces) for val in piece}
+                
+        order = []
+        visited = set()
+        for val in arr:
+            if val not in pos: return False
+            if pos[val] in visited: continue
+            visited.add(pos[val])
+            order.append(pos[val])
+        
+        nums = []
+        for i in order:
+            nums.extend(pieces[i])
+        return arr == nums
+        
 # @lc code=end
 
