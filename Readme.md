@@ -350,6 +350,7 @@
 | 1684 | Count the Number of Consistent Strings | Easy | O(N) | O(1) | String | | |
 | 1685 | Sum of Absolute Differences in a Sorted Array | Medium | O(N) | O(N) | Math, Greedy | | |
 | 1695 | Maximum Erasure Value | Medium | O(N) | O(1) | Two Pointers | | |
+| 1700 | Number of Students Unable to Eat Lunch | Medium | O(N) | O(1) | Array | | |
 | 1705 | Maximum Number of Eaten Apples | Medium | O(NlogN) | O(N) | Heap, Greedy | | |
 | 1706 | Where Will the Ball Fall | Medium | O(N*M) | O(M) | Dynamic Programming | | |
 | | | | | | | | |
