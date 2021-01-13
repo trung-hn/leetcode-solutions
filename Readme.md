@@ -189,6 +189,7 @@
 | 865 | Smallest Subtree with all the Deepest Nodes | Medium | O(N) | O(N) | Tree, BFS, DFS, Recursion | | |
 | 875 | Koko Eating Bananas | Medium | O(NlogN) | O(1) | Binary Search | | |
 | 880 | Decoded String at Index | Medium | O(N) | O(1) | Stack | Good problem | |
+| 881 | Boats to Save People | Medium | O(NlogN) | O(N) | Two Pointers, Greedy | | |
 | 886 | Possible Bipartition | Medium | O(N + E) | O(N + E) | Depth First Search | Good problem | |
 | 901 | Online Stock Span | Medium | O(1) | O(N) | Monotonic Stack | | |
 | 902 | Numbers At Most N Given Digit Set | Hard | O(LogN) | O(1) | Math, Dynamic Programming | | |
