@@ -347,6 +347,7 @@
 | 1653 | Minimum Deletions to Make String Balanced | Medium | O(N) | O(N) | Greedy, String | | |
 | 1656 | Design an Ordered Stream | Easy | O(N) | O(N) | Array, Design | | |
 | 1657 | Determine if Two Strings Are Close | Medium | O(N) | O(1) | Greedy | | |
+| 1658 | Minimum Operations to Reduce X to Zero | Medium | O(N) | O(N) | Greedy, Sliding Window | | |
 | 1663 | Smallest String With A Given Numeric Value | Medium | O(N) | O(1) | Greedy | | |
 | 1664 | Ways to Make a Fair Array | Medium | O(N) | O(1) | Dynamic Programming, Greedy | | |
 | 1679 | Max Number of K-Sum Pairs | Medium | O(N) | O(N) | Hash Table | | |
