@@ -141,6 +141,7 @@
 | 563 | Binary Tree Tilt | Easy | O(N) | O(H) | Tree, DFS, Recursion | | |
 | 567 | Permutation in String | Medium | O(S1 + S2) | O(1) | String, Two Pointers, Sliding Window | | |
 | 573 | Squirrel Simulation | Medium | O(N) | O(1) | Premium, Math | | 🔒 |
+| 583 | Delete Operation for Two Strings | Medium | O(N^2) | O(N) | Dynamic Programming, String | | |
 | 593 | Valid Square | Medium | O(1) | O(1) | Math | | |
 | 605 | Can Place Flowers | Easy | O(N) | O(1) | Array, Greedy | | |
 | 622 | Design Circular Queue | Medium | O(1) | O(1) | Design, Queue | | |
