@@ -352,6 +352,7 @@
 | 1658 | Minimum Operations to Reduce X to Zero | Medium | O(N) | O(N) | Greedy, Sliding Window | | |
 | 1663 | Smallest String With A Given Numeric Value | Medium | O(N) | O(1) | Greedy | | |
 | 1664 | Ways to Make a Fair Array | Medium | O(N) | O(1) | Dynamic Programming, Greedy | | |
+| 1673 | Find the Most Competitive Subsequence | Medium | O(N) | O(K) | Stack, Heap, Greedy, Queue | | |
 | 1679 | Max Number of K-Sum Pairs | Medium | O(N) | O(N) | Hash Table | | |
 | 1684 | Count the Number of Consistent Strings | Easy | O(N) | O(1) | String | | |
 | 1685 | Sum of Absolute Differences in a Sorted Array | Medium | O(N) | O(N) | Math, Greedy | | |
