@@ -361,6 +361,7 @@
 | 1705 | Maximum Number of Eaten Apples | Medium | O(NlogN) | O(N) | Heap, Greedy | | |
 | 1706 | Where Will the Ball Fall | Medium | O(N*M) | O(M) | Dynamic Programming | | |
 | 1710 | Maximum Units on a Truck | Medium | O(NlogN) | O(N) | Greedy, Sort | | |
+| 1721 | Swapping Nodes in a Linked List | Medium | O(N) | O(1) | Linked List | | |
 | | | | | | | | |
 
 For premium problems, question description are available as screenshots [here](./premium-questions)
