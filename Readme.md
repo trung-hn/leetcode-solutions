@@ -37,6 +37,7 @@
 | 127 | Word Ladder | Hard | O(M^2\*N) | O(M^2\*N) | BFS | | |
 | 133 | Clone Graph | Medium | O(N+M) | O(N) | DFS, BFS, Graph | | |
 | 134 | Gas Station | Medium | O(N) | O(N) | Dynamic Programming, Greedy | | |
+| 138 | Copy List with Random Pointer | Medium | O(N) | O(N) | Hash Table, Linked List | | |
 | 139 | Word Break | Medium | O(N^2) | O(N) | Dynamic Programming | | |
 | 141 | Linked List Cycle | Easy | O(N) | O(1) | Linked List, Two Pointers | | |
 | 142 | Linked List Cycle II | Medium | O(N) | O(1) | Linked List, Two Pointers | | |
