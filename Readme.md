@@ -241,6 +241,7 @@
 | 1035 | Uncrossed Lines | Medium | O(N^2) | O(N) | Array, Dynamic Programming | | |
 | 1060 | Missing Element in Sorted Array | Medium | O(logN) | O(1) | Binary Search, Premium | | 🔒 |
 | 1061 | Lexicographically Smallest Equivalent String | Medium | O(N) | O(N) | DFS, Union Find, Premium | | 🔒 |
+| 1091 | Shortest Path in Binary Matrix | Medium | O(N) | O(N) | BFS | | |
 | 1094 | Car Pooling | Medium | O(N) | O(1) | Car Pooling | | |
 | 1162 | As Far from Land as Possible | Medium | O(N\*M) | O(N\*M) | Graph, BFS | | |
 | 1217 | Minimum Cost to Move Chips to The Same Position | Easy | O(N) | O(1) | Math, Greedy, Array | | |
