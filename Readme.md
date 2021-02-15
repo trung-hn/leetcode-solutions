@@ -373,6 +373,7 @@
 | 1710 | Maximum Units on a Truck | Medium | O(NlogN) | O(N) | Greedy, Sort | | |
 | 1721 | Swapping Nodes in a Linked List | Medium | O(N) | O(1) | Linked List | | |
 | 1725 | Number Of Rectangles That Can Form The Largest Square | Easy | O(N) | O(1) | Greedy | | |
+| 1726 | Tuple with Same Product | Medium | O(N^2) | O(N) | Array, Hash Table | | |
 | | | | | | | | |
 
 For premium problems, question description are available as screenshots [here](./premium-questions)
