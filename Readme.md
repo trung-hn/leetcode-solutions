@@ -372,6 +372,7 @@
 | 1706 | Where Will the Ball Fall | Medium | O(N*M) | O(M) | Dynamic Programming | | |
 | 1710 | Maximum Units on a Truck | Medium | O(NlogN) | O(N) | Greedy, Sort | | |
 | 1721 | Swapping Nodes in a Linked List | Medium | O(N) | O(1) | Linked List | | |
+| 1725 | Number Of Rectangles That Can Form The Largest Square | Easy | O(N) | O(1) | Greedy | | |
 | | | | | | | | |
 
 For premium problems, question description are available as screenshots [here](./premium-questions)
