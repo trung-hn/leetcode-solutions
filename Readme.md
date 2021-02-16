@@ -174,6 +174,7 @@
 | 767 | Reorganize String | Medium | O(NlogN) | O(N) |  String, Heap, Greedy, Sort | | |
 | 768 | Max Chunks To Make Sorted II | Hard | O(N) | O(N) | Array | | |
 | 769 | Max Chunks To Make Sorted | Medium | O(N) | O(1) | Array | | |
+| 784 | Letter Case Permutation | Medium | O(2^N) | O(2^N) | Backtracking, Bit Manipulation | | |
 | 785 | Is Graph Bipartite? | Medium | O(E+V) | O(E+V) | BFS, DFS, Graph | | |
 | 787 | Cheapest Flights Within K Stops | Medium | Complex | Complex | Dijkstra's Algorithm, Graph | Quite hard | |
 | 791 | Custom Sort String | Medium | O(N) | O(N) | String | | |
