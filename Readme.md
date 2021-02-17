@@ -372,6 +372,7 @@
 | 1705 | Maximum Number of Eaten Apples | Medium | O(NlogN) | O(N) | Heap, Greedy | | |
 | 1706 | Where Will the Ball Fall | Medium | O(N*M) | O(M) | Dynamic Programming | | |
 | 1710 | Maximum Units on a Truck | Medium | O(NlogN) | O(N) | Greedy, Sort | | |
+| 1716 | Calculate Money in Leetcode Bank | Easy | O(N) | O(1) | Math, Greedy | | |
 | 1721 | Swapping Nodes in a Linked List | Medium | O(N) | O(1) | Linked List | | |
 | 1725 | Number Of Rectangles That Can Form The Largest Square | Easy | O(N) | O(1) | Greedy | | |
 | 1726 | Tuple with Same Product | Medium | O(N^2) | O(N) | Array, Hash Table | | |
