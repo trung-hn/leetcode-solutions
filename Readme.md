@@ -110,6 +110,7 @@
 | 402 | Remove K Digits | Medium | O(N) | O(N) | Greedy | | |
 | 404 | Sum of Left Leaves | Easy | O(N) | O(H) | Tree | | |
 | 406 | Queue Reconstruction by Height | Medium | O(N^2) | O(N) | Greedy | Clever solution | |
+| 413 | Arithmetic Slices | Medium | O(N) | O(1) | Math, Dynamic Programming | | |
 | 416 | Partition Equal Subset Sum | Medium | O(M*N) | O(M) | Dynamic Programming | | |
 | 419 | Battleships in a Board | Medium | O(N*N) | O(1) | Array, Depth First Search | | |
 | 425 | Word Squares | Hard | Complex | Complex | Back Tracking, Trie, Premium | | 🔒 |
