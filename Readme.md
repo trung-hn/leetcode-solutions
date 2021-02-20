@@ -5,6 +5,8 @@
 | 1 | Two Sum | Easy | O(N) | O(N) | | | |
 | 7 | Reverse Integer | Easy | O(log x) | O(1) | Tricky | | |
 | 11 | Container With Most Water | Medium | O(N) | O(1) | Array, Two Pointers | | |
+| 12 | Integer to Roman | Medium | O(N) | O(N) | Math, String | | |
+| 12 | Roman to Integer | Easy | O(N) | O(1) | Math, String | | |
 | 15 | 3Sum | Medium | O(N) | O(1) | | | |
 | 20 | Valid Parentheses | Easy | O(N) | O(N) | String, Stack | | |
 | 21 | Merge Two Sorted Lists | Easy | O(N) | O(1) | Linked List | | |
