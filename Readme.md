@@ -141,6 +141,7 @@
 | 498 | Diagonal Traverse | Medium | O(R\*C) | O(R\*C) | Array | | |
 | 510 | Inorder Successor in BST II | Medium | O(H) | O(1) | Tree, Premium | | 🔒 |
 | 520 | Detect Capital | Easy | O(N) | O(1) | | | |
+| 524 | Longest Word in Dictionary through Deleting | Medium | O(Complex) | O(Complex) | Two Pointers, Sort | | |
 | 525 | Contiguous Array | Medium | O(N) | O(N) | Hash Table | Very good problem | |
 | 528 | Random Pick with Weight | Medium | O(N), O(logN) | O(N), O(1) | Binary Search, Random | Pythonic | |
 | 532 | K-diff Pairs in an Array | Medium | O(N) | O(N) | Array, Two Pointers | | |
