@@ -224,6 +224,7 @@
 | 957 | Prison Cells After N Days | Medium | O(1) | O(1) | Has Table | | |
 | 958 | Check Completeness of a Binary Tree | Medium | O(N) | O(N) | Tree | | |
 | 962 | Maximum Width Ramp | Medium | O(NlogN) | O(N) | Array | | |
+| 966 | Vowel Spellchecker | Medium | O(N) | O(N) | Hash Table, String | | |
 | 967 | Numbers With Same Consecutive Differences | Medium | O(N*2^N) | O(2^N) | DFS | | |
 | 969 | Pancake Sorting | Medium | O(N^2) | O(N) | Array | | |
 | 973 | K Closest Points to Origin | Medium | O(N log(K)) | O(K) | Divide and Conquer, Heap, Sort | | |
