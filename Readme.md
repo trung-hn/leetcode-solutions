@@ -201,6 +201,7 @@
 | 859 | Buddy Strings | Easy | O(N) | O(1) | String | | |
 | 863 | All Nodes Distance K in Binary Tree | Medium | O(N) | O(N) | Tree, BFS, DFS | | |
 | 865 | Smallest Subtree with all the Deepest Nodes | Medium | O(N) | O(N) | Tree, BFS, DFS, Recursion | | |
+| 869 | Reordered Power of 2 | Medium | O(logN) | O(1) | Math | | |
 | 875 | Koko Eating Bananas | Medium | O(NlogN) | O(1) | Binary Search | | |
 | 880 | Decoded String at Index | Medium | O(N) | O(1) | Stack | Good problem | |
 | 881 | Boats to Save People | Medium | O(NlogN) | O(N) | Two Pointers, Greedy | | |
