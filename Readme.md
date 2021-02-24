@@ -242,6 +242,7 @@
 | 991 | Broken Calculator | Medium | O(logN) | O(1) | Math, Greedy | | |
 | 993 | Cousins in Binary Tree | Easy | O(N) | O(H) | Trees, Recursion | | |
 | 994 | Rotting Oranges | Medium | O(N^2) | O(N) | Trees, Recursion | | |
+| 1003 | Check If Word Is Valid After Substitutions | Medium | O(N) | O(N) | String, Stack | | |
 | 1004 | Max Consecutive Ones III | Medium | O(N) | O(1) | Sliding Window, Two Pointers | | |
 | 1007 | Minimum Domino Rotations For Equal Row | Medium | O(N) | O(1) | Array, Greedy | | |
 | 1010 | Pairs of Songs With Total Durations Divisible by 60 | Medium | O(N) | O(1) | Array, Math | | |
