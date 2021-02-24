@@ -246,6 +246,7 @@
 | 1004 | Max Consecutive Ones III | Medium | O(N) | O(1) | Sliding Window, Two Pointers | | |
 | 1007 | Minimum Domino Rotations For Equal Row | Medium | O(N) | O(1) | Array, Greedy | | |
 | 1010 | Pairs of Songs With Total Durations Divisible by 60 | Medium | O(N) | O(1) | Array, Math | | |
+| 1014 | Best Sightseeing Pair | Medium | O(N) | O(1) | Array | | |
 | 1015 | Smallest Integer Divisible by K | Medium | O(K) | O(K) | Math | | |
 | 1022 | Sum of Root To Leaf Binary Numbers | Easy | O(N) | O(H) | Tree | | |
 | 1026 | Maximum Difference Between Node and Ancestor | Medium | O(N) | O(H) | Tree, DFS | | |
