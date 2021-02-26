@@ -7,16 +7,16 @@
 # @lc code=start
 # TAGS: Stack
 class Solution:
-    # 68 ms, 85.45%. Time and Space: O(N)
+    # 64 ms, 94.09%. Time and Space: O(N)
     def validateStackSequences(self, pushed: List[int], popped: List[int]) -> bool:
-        i = j = 0
+        ptr = 0
         stack = []
-        while i < len(pushed):
-            stack.append(pushed[i])
-            while stack and j < len(popped) and stack[-1] == popped[j]:
+        for val in pushed:
+            stack.append(val)
+            while stack and stack[-1] == popped[ptr]:
+                ptr += 1
                 stack.pop()
-                j += 1
-            i += 1
-        return not stack
+        return stack == []
+            
 # @lc code=end
 
