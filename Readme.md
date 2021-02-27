@@ -187,6 +187,7 @@
 | 794 | Valid Tic-Tac-Toe State | Medium | O(1) | O(1) | Array, String | | |
 | 797 | All Paths From Source to Target | Medium | O(2^N * N) | O(2^N * N) | Backtracking, Depth First Search | | |
 | 799 | Champagne Tower | Medium | O(R^2) | O(R^2) | Dynamic Programming | | |
+| 802 | Find Eventual Safe States | Medium | O(V+E) | O(V+E) | DFS, Graph | | |
 | 820 | Short Encoding of Words | Medium | O(N\*M) | O(N\*M) | Trie | | |
 | 825 | Friends Of Appropriate Ages | Medium | O(N) | O(1) | Array | | |
 | 830 | Positions of Large Groups | Easy | O(N) | O(1) | | | |
