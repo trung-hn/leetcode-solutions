@@ -393,21 +393,25 @@
 | 1749 | Maximum Absolute Sum of Any Subarray | Medium | O(N) | O(1) | Greedy | | |
 | | | | | | | | |
 
-For premium problems, question description are available as screenshots [here](./premium-questions)
+## About:
+- This list was created for personal use
+- Headers and footers of source code are generated from extension `LeetCode` in VSCode
 
 ## My profile:
 https://leetcode.com/jummyegg/
 
-## Posts:
+## Useful Posts:
 - [Important and Useful links from all over the LeetCode](https://leetcode.com/discuss/general-discussion/665604/Important-and-Useful-links-from-all-over-the-LeetCode)
 - Graph: https://leetcode.com/discuss/general-discussion/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions 
 - Sliding Windows: https://leetcode.com/discuss/general-discussion/657507/Sliding-Window-for-Beginners-Problems-or-Template-or-Sample-Solutions
 - Trie: https://leetcode.com/discuss/general-discussion/680706/Article-on-Trie.-General-Template-and-List-of-problems. 
 - Graph: https://leetcode.com/discuss/general-discussion/969327/graph-algorithms-one-place-dijkstra-bellman-ford-floyd-warshall-prims-kruskals-dsu
+ 
 ### Dynamic Programming:
 - https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions
 - https://leetcode.com/discuss/interview-question/491522/dynamic-programming-questions-thread
 - https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns
 - https://leetcode.com/discuss/general-discussion/868902/dynamic-programming
+
 ### Others:
 - https://leetcode.com/discuss/general-discussion/705117/requesting-guidance-from-those-who-solved-1000-leets-so-far
