@@ -3,7 +3,7 @@
 | # | Title | Level | Time | Space | Tags | Note | Premium 🔒 |
 |---|---|---|---|---|---|---|---|
 | 1 | Two Sum | Easy | O(N) | O(N) | | | |
-| 7 | Reverse Integer | Easy | O(log x) | O(1) | Tricky | | |
+| 7 | Reverse Integer | Easy | O(log x) | O(1) | | Tricky | |
 | 11 | Container With Most Water | Medium | O(N) | O(1) | Array, Two Pointers | | |
 | 12 | Integer to Roman | Medium | O(N) | O(N) | Math, String | | |
 | 12 | Roman to Integer | Easy | O(N) | O(1) | Math, String | | |
@@ -396,6 +396,7 @@
 | 1748 | Sum of Unique Elements | Easy | O(N) | O(N) | Array, Hash Table | | |
 | 1749 | Maximum Absolute Sum of Any Subarray | Medium | O(N) | O(1) | Greedy | | |
 | 1750 | Minimum Length of String After Deleting Similar Ends | Medium | O(N) | O(1) | Two Pointers | | |
+| 1752 | Check if Array Is Sorted and Rotated | Easy | O(N) | O(1) | Array | | |
 | | | | | | | | |
 
 ## About:
