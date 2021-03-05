@@ -395,6 +395,7 @@
 | 1726 | Tuple with Same Product | Medium | O(N^2) | O(N) | Array, Hash Table | | |
 | 1748 | Sum of Unique Elements | Easy | O(N) | O(N) | Array, Hash Table | | |
 | 1749 | Maximum Absolute Sum of Any Subarray | Medium | O(N) | O(1) | Greedy | | |
+| 1750 | Minimum Length of String After Deleting Similar Ends | Medium | O(N) | O(1) | Two Pointers | | |
 | | | | | | | | |
 
 ## About:
