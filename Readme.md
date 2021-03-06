@@ -397,6 +397,7 @@
 | 1749 | Maximum Absolute Sum of Any Subarray | Medium | O(N) | O(1) | Greedy | | |
 | 1750 | Minimum Length of String After Deleting Similar Ends | Medium | O(N) | O(1) | Two Pointers | | |
 | 1752 | Check if Array Is Sorted and Rotated | Easy | O(N) | O(1) | Array | | |
+| 1753 | Maximum Score From Removing Stones | Medium | O(1) | O(1) | Math, Heap | | |
 | | | | | | | | |
 
 ## About:
