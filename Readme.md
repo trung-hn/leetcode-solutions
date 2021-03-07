@@ -399,6 +399,7 @@
 | 1752 | Check if Array Is Sorted and Rotated | Easy | O(N) | O(1) | Array | | |
 | 1753 | Maximum Score From Removing Stones | Medium | O(1) | O(1) | Math, Heap | | |
 | 1758 | Minimum Changes To Make Alternating Binary String | Easy | O(N) | O(1) | Array, Greedy | | |
+| 1759 | Count Number of Homogenous Substrings | Medium | O(N) | O(1) | String, Greedy | | |
 | | | | | | | | |
 
 ## About:
