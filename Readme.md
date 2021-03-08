@@ -274,6 +274,7 @@
 | 1291 | Sequential Digits | Medium | O(N) | O(N) | Backtracking | | |
 | 1305 | All Elements in Two Binary Search Trees | Medium | O(N) | O(N) | Sort, Tree | | |
 | 1306 | All Elements inJump Game III | Medium | O(N) | O(N) | BFS, DFS, Recursion | | |
+| 1332 | Remove Palindromic Subsequences | Easy | O(N) | O(1) | String | | |
 | 1337 | The K Weakest Rows in a Matrix | Easy | O(MlogKlogN) | O(K) | Heap, Array, Binary Search | | |
 | 1344 | Angle Between Hands of a Clock | Medium | O(1) | O(1) | Math | | |
 | 1345 | Jump Game IV | Hard | O(N) | O(N) | BFS | | |
