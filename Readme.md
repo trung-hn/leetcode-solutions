@@ -185,6 +185,7 @@
 | 784 | Letter Case Permutation | Medium | O(2^N) | O(2^N) | Backtracking, Bit Manipulation | | |
 | 785 | Is Graph Bipartite? | Medium | O(E+V) | O(E+V) | BFS, DFS, Graph | | |
 | 787 | Cheapest Flights Within K Stops | Medium | Complex | Complex | Dijkstra's Algorithm, Graph | Quite hard | |
+| 789 | Escape The Ghosts | Medium | O(N) | O(1) | Math | | |
 | 791 | Custom Sort String | Medium | O(N) | O(N) | String | | |
 | 794 | Valid Tic-Tac-Toe State | Medium | O(1) | O(1) | Array, String | | |
 | 797 | All Paths From Source to Target | Medium | O(2^N * N) | O(2^N * N) | Backtracking, Depth First Search | | |
