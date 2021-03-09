@@ -212,6 +212,7 @@
 | 880 | Decoded String at Index | Medium | O(N) | O(1) | Stack | Good problem | |
 | 881 | Boats to Save People | Medium | O(NlogN) | O(N) | Two Pointers, Greedy | | |
 | 886 | Possible Bipartition | Medium | O(N + E) | O(N + E) | Depth First Search | Good problem | |
+| 892 | Surface Area of 3D Shapes | Easy | O(N*N) | O(1) | Math, Geometry | | |
 | 895 | Maximum Frequency Stack | Medium | O(1) | O(N) | Hash Table, Stack | | |
 | 901 | Online Stock Span | Medium | O(1) | O(N) | Monotonic Stack | | |
 | 902 | Numbers At Most N Given Digit Set | Hard | O(LogN) | O(1) | Math, Dynamic Programming | | |
