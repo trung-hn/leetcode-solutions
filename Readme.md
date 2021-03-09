@@ -156,6 +156,7 @@
 | 593 | Valid Square | Medium | O(1) | O(1) | Math | | |
 | 605 | Can Place Flowers | Easy | O(N) | O(1) | Array, Greedy | | |
 | 622 | Design Circular Queue | Medium | O(1) | O(1) | Design, Queue | | |
+| 623 | Add One Row to Tree | Medium | O(N) | O(N) | Tree | | |
 | 624 | Maximum Distance in Arrays | Easy | O(N) | O(1) | Hash Table, Array, Premium | | 🔒 |
 | 646 | Maximum Length of Pair Chain | Medium | O(NlogN) | O(N) | Greedy, Dynamic Programming | | |
 | 655 | Print Binary Tree | Medium | O(N) | O(H) | Tree | | |
