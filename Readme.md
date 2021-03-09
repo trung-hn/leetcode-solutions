@@ -403,6 +403,7 @@
 | 1758 | Minimum Changes To Make Alternating Binary String | Easy | O(N) | O(1) | Array, Greedy | | |
 | 1759 | Count Number of Homogenous Substrings | Medium | O(N) | O(1) | String, Greedy | | |
 | 1763 | Longest Nice Substring | Easy | O(NlogN) | O(N) | String | | |
+| 1765 | Map of Highest Peak | Medium | O(N\*M) | O(N\*M) | BFS, Graph | | |
 | | | | | | | | |
 
 ## About:
