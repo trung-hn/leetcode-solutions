@@ -105,8 +105,9 @@
 | 367 | Valid Perfect Square | Easy | O(logN) | O(1) | Math, Binary Search | | |
 | 378 | Kth Smallest Element in a Sorted Matrix | Medium | O(N^2logK) | O(K) | Heap, Binary Search | | |
 | 380 | Insert Delete GetRandom | Medium | O(1) | O(N) | Array, Hash Table, Design | | |
-| 389 | Find the Difference | Medium | O(N) | O(1) | Hash Table, Bit Manipulation | | |
+| 384 | Shuffle an Array | Medium | O(N) | O(N) | | | |
 | 387 | First Unique Character in a String | Easy | O(N) | O(N) | | | |
+| 389 | Find the Difference | Medium | O(N) | O(1) | Hash Table, Bit Manipulation | | |
 | 394 | Decode String | Medium | O(maxK*N) | O(N) | Stack, DFS | | |
 | 395 | Longest Substring with At Least K Repeating Characters | Medium | O(NlogN) | O(N) | Divide and Conquer, Recursion, Sliding Window | | |
 | 399 | Evaluate Division | Medium | O(N*M) | O(N) | Union Find, Graph | | |
