@@ -279,6 +279,7 @@
 | 1288 | Remove Covered Intervals | Medium | O(N) | O(1) | Greedy, Sort, Line Sweep | | |
 | 1290 | Convert Binary Number in a Linked List to Integer | Easy | O(N) | O(1) | Linked List, Bit Manipulation | | |
 | 1291 | Sequential Digits | Medium | O(N) | O(N) | Backtracking | | |
+| 1298 | Maximum Candies You Can Get from Boxes | Medium | O(B+K) | O(B) | BFS | | |
 | 1305 | All Elements in Two Binary Search Trees | Medium | O(N) | O(N) | Sort, Tree | | |
 | 1306 | All Elements inJump Game III | Medium | O(N) | O(N) | BFS, DFS, Recursion | | |
 | 1332 | Remove Palindromic Subsequences | Easy | O(N) | O(1) | String | | |
