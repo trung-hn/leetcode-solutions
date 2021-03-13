@@ -196,9 +196,10 @@
 | 799 | Champagne Tower | Medium | O(R^2) | O(R^2) | Dynamic Programming | | |
 | 802 | Find Eventual Safe States | Medium | O(V+E) | O(V+E) | DFS, Graph | | |
 | 820 | Short Encoding of Words | Medium | O(N\*M) | O(N\*M) | Trie | | |
+| 823 | Binary Trees With Factors | Medium | O(N*N) | O(N) | Dynamic Programming | | |
 | 825 | Friends Of Appropriate Ages | Medium | O(N) | O(1) | Array | | |
 | 830 | Positions of Large Groups | Easy | O(N) | O(1) | | | |
-| 833 | Find And Replace in String | Medium | O(N) | O(N) | String | | |
+| 833 | Find And Replace in String | Medium | O(N) | O(N) | Dynamic Programming | | |
 | 835 | Image Overlap | Medium | O(N^2) | O(N) | | | |
 | 838 | Push Dominoes | Medium | O(N) | O(N) | | | |
 | 845 | Longest Mountain in Array | Medium | O(N) | O(1) | Two Pointers | | |
