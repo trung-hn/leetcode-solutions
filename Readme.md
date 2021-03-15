@@ -415,6 +415,7 @@
 | 1759 | Count Number of Homogenous Substrings | Medium | O(N) | O(1) | String, Greedy | | |
 | 1763 | Longest Nice Substring | Easy | O(NlogN) | O(N) | String | | |
 | 1765 | Map of Highest Peak | Medium | O(N\*M) | O(N\*M) | BFS, Graph | | |
+| 1774 | Closest Dessert Cost | Medium | O(N\*M\*V) | O(M\*V) | Greedy | | |
 | | | | | | | | |
 
 ## About:
