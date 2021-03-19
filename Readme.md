@@ -205,6 +205,7 @@
 | 833 | Find And Replace in String | Medium | O(N) | O(N) | Dynamic Programming | | |
 | 835 | Image Overlap | Medium | O(N^2) | O(N) | | | |
 | 838 | Push Dominoes | Medium | O(N) | O(N) | | | |
+| 841 | Keys and Rooms | Medium | O(N) | O(N) | DFS, Graph | | |
 | 845 | Longest Mountain in Array | Medium | O(N) | O(1) | Two Pointers | | |
 | 846 | Hand of Straights | Medium | O(MlogM+NW) | O(N) | Ordered Map | | |
 | 849 | Maximize Distance to Closest Person | Medium | O(N) | O(1) | Array | | |
