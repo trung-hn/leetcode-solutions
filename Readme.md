@@ -295,6 +295,7 @@
 | 1371 | Find the Longest Substring Containing Vowels in Even Counts | Medium | O(N) | O(N) | String | | |
 | 1375 | Bulb Switcher III | Medium | O(N) | O(1) | Array | | |
 | 1387 | Sort Integers by The Power Value | Medium | O(NlogK) | O(N) | Sort, Graph | | |
+| 1396 | Design Underground System | Medium | O(N) | O(N) | Design | | |
 | 1424 | Diagonal Traverse II | Medium | O(A) | O(A) | Array | | |
 | 1426 | Counting Elements | Easy | O(N) | O(N) | Array, Premium | | 🔒 |
 | 1427 | Perform String Shifts | Easy | O(N + S) | O(1) | Premium | | 🔒 |
