@@ -422,6 +422,7 @@
 | 1764 | Form Array by Concatenating Subarrays of Another Array | Medium | O(N+M) | O(M) | Array, Greedy | | |
 | 1765 | Map of Highest Peak | Medium | O(N\*M) | O(N\*M) | BFS, Graph | | |
 | 1768 | Merge Strings Alternately | Easy | O(N) | O(N) | String | | |
+| 1769 | Minimum Number of Operations to Move All Balls to Each Box | Medium | O(N) | O(N) | Array, Greedy | | |
 | 1773 | Count Items Matching a Rule | Easy | O(N) | O(1) | Array, String | | |
 | 1774 | Closest Dessert Cost | Medium | O(N\*M\*V) | O(M\*V) | Greedy | | |
 | | | | | | | | |
