@@ -1,4 +1,10 @@
-# Solutions list
+# About:
+- This list was created for personal use
+- Headers and footers of source code are generated from extension `LeetCode` in VSCode
+## My profile:
+https://leetcode.com/jummyegg/
+
+# Solutions list (400+ problems)
 
 | # | Title | Level | Time | Space | Tags | Note | Premium 🔒 |
 |---|---|---|---|---|---|---|---|
@@ -425,27 +431,19 @@
 | 1769 | Minimum Number of Operations to Move All Balls to Each Box | Medium | O(N) | O(N) | Array, Greedy | | |
 | 1773 | Count Items Matching a Rule | Easy | O(N) | O(1) | Array, String | | |
 | 1774 | Closest Dessert Cost | Medium | O(N\*M\*V) | O(M\*V) | Greedy | | |
-| | | | | | | | |
 
-## About:
-- This list was created for personal use
-- Headers and footers of source code are generated from extension `LeetCode` in VSCode
-
-## My profile:
-https://leetcode.com/jummyegg/
-
-## Useful Posts:
+# Useful Posts:
 - [Important and Useful links from all over the LeetCode](https://leetcode.com/discuss/general-discussion/665604/Important-and-Useful-links-from-all-over-the-LeetCode)
 - Graph: https://leetcode.com/discuss/general-discussion/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions 
 - Sliding Windows: https://leetcode.com/discuss/general-discussion/657507/Sliding-Window-for-Beginners-Problems-or-Template-or-Sample-Solutions
 - Trie: https://leetcode.com/discuss/general-discussion/680706/Article-on-Trie.-General-Template-and-List-of-problems. 
 - Graph: https://leetcode.com/discuss/general-discussion/969327/graph-algorithms-one-place-dijkstra-bellman-ford-floyd-warshall-prims-kruskals-dsu
  
-### Dynamic Programming:
+## Dynamic Programming:
 - https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions
 - https://leetcode.com/discuss/interview-question/491522/dynamic-programming-questions-thread
 - https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns
 - https://leetcode.com/discuss/general-discussion/868902/dynamic-programming
 
-### Others:
+## Others:
 - https://leetcode.com/discuss/general-discussion/705117/requesting-guidance-from-those-who-solved-1000-leets-so-far
