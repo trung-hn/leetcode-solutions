@@ -304,6 +304,7 @@ https://leetcode.com/jummyegg/
 | 1371 | Find the Longest Substring Containing Vowels in Even Counts | Medium | O(N) | O(N) | String | | |
 | 1375 | Bulb Switcher III | Medium | O(N) | O(1) | Array | | |
 | 1387 | Sort Integers by The Power Value | Medium | O(NlogK) | O(N) | Sort, Graph | | |
+| 1395 | Count Number of Teams | Medium | O(N^2) | O(1) | Array | | |
 | 1396 | Design Underground System | Medium | O(N) | O(N) | Design | | |
 | 1405 | Longest Happy String | Medium | O(N) | O(N) | Greedy, Dynamic Programming | | |
 | 1424 | Diagonal Traverse II | Medium | O(A) | O(A) | Array | | |
