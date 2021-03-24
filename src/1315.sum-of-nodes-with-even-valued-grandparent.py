@@ -15,7 +15,19 @@
 
 
 class Solution:
-    # 92 ms, 95.04%. Time: O(N). Space: O(N)
+    # BFS
+    def sumEvenGrandparent(self, root: TreeNode) -> int:
+        q = [(root, 0, 0)]
+        ans = 0
+        for node, parent, grand in q:
+            if node:
+                if grand:
+                    ans += node.val
+                q.append((node.left, node.val % 2 == 0, parent))
+                q.append((node.right, node.val % 2 == 0, parent))
+        return ans
+
+    # 92 ms, 95.04%. DFS. Time: O(N). Space: O(N)
     def sumEvenGrandparent(self, root: TreeNode) -> int:
         def dfs(node, is_even_gp=None, is_even_p=None):
             if not node:
