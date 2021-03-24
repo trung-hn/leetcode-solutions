@@ -296,6 +296,7 @@ https://leetcode.com/jummyegg/
 | 1298 | Maximum Candies You Can Get from Boxes | Medium | O(B+K) | O(B) | BFS | | |
 | 1305 | All Elements in Two Binary Search Trees | Medium | O(N) | O(N) | Sort, Tree | | |
 | 1306 | All Elements inJump Game III | Medium | O(N) | O(N) | BFS, DFS, Recursion | | |
+| 1315 | Sum of Nodes with Even-Valued Grandparent | Medium | O(N) | O(N) | Tree, DFS | | |
 | 1332 | Remove Palindromic Subsequences | Easy | O(N) | O(1) | String | | |
 | 1337 | The K Weakest Rows in a Matrix | Easy | O(MlogKlogN) | O(K) | Heap, Array, Binary Search | | |
 | 1344 | Angle Between Hands of a Clock | Medium | O(1) | O(1) | Math | | |
