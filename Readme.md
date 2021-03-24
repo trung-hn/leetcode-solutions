@@ -20,6 +20,7 @@ https://leetcode.com/jummyegg/
 | 24 | Swap Nodes in Pairs | Medium | O(N) | O(N) | Linked List | | |
 | 30 | Substring with Concatenation of All Words | Hard | O(NK) | O(K) | Array, Backtracking | | |
 | 39 | Combination Sum | Medium | O(N^2) | O(N) | Array, Backtracking | | |
+| 42 | Trapping Rain Water | Hard | O(N) | O(N) | Array, Two Pointers, Dynamic Programming, Stack | | |
 | 46 | Permutations | Medium | O(N!) | O(N!) | Backtracking | | |
 | 47 | Permutations II | Medium | O(N!) | O(N!) | Backtracking | | |
 | 53 | Maximum Subarray | Easy | O(N) | O(1) | | | |
