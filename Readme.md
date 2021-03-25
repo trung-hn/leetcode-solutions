@@ -126,6 +126,7 @@ https://leetcode.com/jummyegg/
 | 406 | Queue Reconstruction by Height | Medium | O(N^2) | O(N) | Greedy | Clever solution | |
 | 413 | Arithmetic Slices | Medium | O(N) | O(1) | Math, Dynamic Programming | | |
 | 416 | Partition Equal Subset Sum | Medium | O(M*N) | O(M) | Dynamic Programming | | |
+| 417 | Pacific Atlantic Water Flow | Medium | O(R\*C) | O(R\*C) | DFS, BFS | | |
 | 419 | Battleships in a Board | Medium | O(N*N) | O(1) | Array, Depth First Search | | |
 | 425 | Word Squares | Hard | Complex | Complex | Back Tracking, Trie, Premium | | 🔒 |
 | 428 | Serialize and Deserialize N-ary Tree | Hard | O(N) | O(H) | Tree, Premium | | 🔒 |
