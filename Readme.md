@@ -85,6 +85,7 @@ https://leetcode.com/jummyegg/
 | 253 | Meeting Rooms II | Medium | O(NlogN) | O(N) | Premium, Heap, Greedy, Sort | | 🔒 |
 | 264 | Ugly Number II | Medium | O(1) | O(1) | Heap, Dynamic Programming | | |
 | 270 | Closest Binary Search Tree Value | Easy | O(H) | O(1) | Premium, Binary Search, Tree | | 🔒 |
+| 273 | Integer to English Words | Medium | O(logN) | O(1) | Math, String |  | |
 | 274 | H-Index | Medium | O(NlogN) | O(N) | Hash Table, Sort | There is a better solution | |
 | 284 | Peeking Iterator | Medium | O(NlogN) | O(N) | Design | | |
 | 289 | Game of Life | Medium | O(M*N) | O(1) | Array | | |
