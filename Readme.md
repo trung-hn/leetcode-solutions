@@ -461,3 +461,6 @@ https://leetcode.com/jummyegg/
 
 ## Others:
 - https://leetcode.com/discuss/general-discussion/705117/requesting-guidance-from-those-who-solved-1000-leets-so-far
+
+## List:
+- [Amazon Questions](https://leetcode.com/list/5ecpr1th/)
