@@ -30,6 +30,7 @@ https://leetcode.com/jummyegg/
 | 71 | Simplify Path | Medium | O(N) | O(N) | String, Stack | | |
 | 72 | Edit Distance | Hard | O(N * M) | O(N) | String, Dynamic Programming | | |
 | 74 | Search a 2D Matrix | Medium | O(logN + logM) | O(1) | Binary Search | | |
+| 76 | Minimum Window Substring | Hard | O(S+T) | O(S+T) | Hash Table, Two Pointers, String, Sliding Window | | |
 | 78 | Subsets | Medium | O(N\*2^N) | O(N\*2^N) | Backtracking, Bit Manipulation | | |
 | 80 | Remove Duplicates from Sorted Array II | Medium | O(N) | O(1) | Array, Two Pointers | | |
 | 82 | Remove Duplicates from Sorted List II | Medium | O(N) | O(1) | Linked List | | |
@@ -449,6 +450,7 @@ https://leetcode.com/jummyegg/
 - Sliding Windows: https://leetcode.com/discuss/general-discussion/657507/Sliding-Window-for-Beginners-Problems-or-Template-or-Sample-Solutions
 - Trie: https://leetcode.com/discuss/general-discussion/680706/Article-on-Trie.-General-Template-and-List-of-problems. 
 - Graph: https://leetcode.com/discuss/general-discussion/969327/graph-algorithms-one-place-dijkstra-bellman-ford-floyd-warshall-prims-kruskals-dsu
+- [Template for Hard String Problems](https://leetcode.com/problems/minimum-window-substring/discuss/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems)
  
 ## Dynamic Programming:
 - https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions

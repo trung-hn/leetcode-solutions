@@ -1,0 +1,6 @@
+"ADOBECODEBANC"
+"ABC"
+"a"
+"a"
+"a"
+"aa"
