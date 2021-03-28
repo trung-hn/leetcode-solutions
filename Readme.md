@@ -131,6 +131,7 @@ https://leetcode.com/jummyegg/
 | 417 | Pacific Atlantic Water Flow | Medium | O(R\*C) | O(R\*C) | DFS, BFS | | |
 | 419 | Battleships in a Board | Medium | O(N*N) | O(1) | Array, Depth First Search | | |
 | 425 | Word Squares | Hard | Complex | Complex | Back Tracking, Trie, Premium | | 🔒 |
+| 423 | Reconstruct Original Digits from English | Medium | O(N) | O(N) | Math | | |
 | 428 | Serialize and Deserialize N-ary Tree | Hard | O(N) | O(H) | Tree, Premium | | 🔒 |
 | 431 | Encode N-ary Tree to Binary Tree | Hard | O(N) | O(H) | Tree, Premium | | 🔒 |
 | 435 | Non-overlapping Intervals | Medium | O(NlogN) | O(1) | Greedy | Tricky, Hard | |
