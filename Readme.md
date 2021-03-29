@@ -282,6 +282,7 @@ https://leetcode.com/jummyegg/
 | 1015 | Smallest Integer Divisible by K | Medium | O(K) | O(K) | Math | | |
 | 1022 | Sum of Root To Leaf Binary Numbers | Easy | O(N) | O(H) | Tree | | |
 | 1023 | Camelcase Matching | Medium | O(Q*N) | O(Q) | String, Trie | | |
+| 1024 | Video Stitching | Medium | O(NlogN) | O(1) | Dynamic Programming | | |
 | 1026 | Maximum Difference Between Node and Ancestor | Medium | O(N) | O(H) | Tree, DFS | | |
 | 1029 | Two City Scheduling | Easy | O(NlogN) | O(N) | Greedy | Good Problem | |
 | 1032 | Stream of Characters | Hard | O(M) | O(M) | Trie | | |
