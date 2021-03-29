@@ -288,6 +288,7 @@ https://leetcode.com/jummyegg/
 | 1029 | Two City Scheduling | Easy | O(NlogN) | O(N) | Greedy | Good Problem | |
 | 1032 | Stream of Characters | Hard | O(M) | O(M) | Trie | | |
 | 1035 | Uncrossed Lines | Medium | O(N^2) | O(N) | Array, Dynamic Programming | | |
+| 1054 | Distant Barcodes | Medium | O(NlogN) | O(N) | Sort, Heap | | |
 | 1060 | Missing Element in Sorted Array | Medium | O(logN) | O(1) | Binary Search, Premium | | 🔒 |
 | 1061 | Lexicographically Smallest Equivalent String | Medium | O(N) | O(N) | DFS, Union Find, Premium | | 🔒 |
 | 1080 | Insufficient Nodes in Root to Leaf Paths | Medium | O(N) | O(N) | DFS | | |
