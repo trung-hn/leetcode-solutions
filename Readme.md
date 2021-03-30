@@ -113,6 +113,7 @@ https://leetcode.com/jummyegg/
 | 347 | Top K Frequent Elements | Medium | O(N) | O(N) | Hash Table, Heap | | |
 | 348 | Design Tic-Tac-Toe | Medium | O(1) | O(N^2) | Premium, Design | | 🔒 |
 | 351 | Android Unlock Patterns | Medium | O(N!) | O(N) | Dynamic Programming, Backtracking, Premium | | 🔒 |
+| 354 | Russian Doll Envelopes | Hard | O(NlogN) | O(N) | Binary Search, Dynamic Programming | | |
 | 361 | Bomb Enemy | Medium | O(N\*M) | O(N\*M) | Premium, Dynamic Programming | | 🔒 |
 | 362 | Design Hit Counter | Medium | O(1) | O(N) | Design, Premium | | 🔒 |
 | 367 | Valid Perfect Square | Easy | O(logN) | O(1) | Math, Binary Search | | |
