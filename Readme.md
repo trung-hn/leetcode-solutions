@@ -40,6 +40,7 @@ https://leetcode.com/jummyegg/
 | 107 | Binary Tree Level Order Traversal II | Easy | O(N) | O(N) | Tree, Breath First Search | | |
 | 111 | Minimum Depth of Binary Tree | Easy | O(N) | O(H) | Tree, DFS, BFS | | |
 | 114 | Flatten Binary Tree to Linked List | Medium | O(N) | O(1) | Tree, Depth First Search | | |
+| 115 | Distinct Subsequences | Medium | O(N) | O(1) | String, Dynamic Programming | | |
 | 116 | Populating Next Right Pointers in Each Node | Medium | O(N) | O(N) | Tree, DFS, BFS | | |
 | 119 | Pascal's Triangle II | Easy | O(k^2) | O(k) | Array | | |
 | 121 | Best Time to Buy and Sell Stock | Easy | O(N) | O(1) | Dynamic Programming | | |
