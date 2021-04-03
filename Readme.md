@@ -458,6 +458,7 @@ https://leetcode.com/jummyegg/
 | 1773 | Count Items Matching a Rule | Easy | O(N) | O(1) | Array, String | | |
 | 1774 | Closest Dessert Cost | Medium | O(N\*M\*V) | O(M\*V) | Greedy | | |
 | 1779 | Find Nearest Point That Has the Same X or Y Coordinate | Easy | O(N) | O(1) | Array | | |
+| 1780 | Check if Number is a Sum of Powers of Three | Medium | O(logN) | O(1) | Math, Backtracking, Recursion | | |
 | 1792 | Maximum Average Pass Ratio | Medium | O(N+KlogN) | O(N) | Heap | | |
 
 # Useful Posts:
