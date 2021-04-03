@@ -19,6 +19,7 @@ https://leetcode.com/jummyegg/
 | 22 | Generate Parentheses | Medium | Complicated | Complicated | String, Backtracking | | |
 | 24 | Swap Nodes in Pairs | Medium | O(N) | O(N) | Linked List | | |
 | 30 | Substring with Concatenation of All Words | Hard | O(NK) | O(K) | Array, Backtracking | | |
+| 32 | Longest Valid Parentheses | Hard | O(N) | O(N) | String, Dynamic Programming | | |
 | 39 | Combination Sum | Medium | O(N^2) | O(N) | Array, Backtracking | | |
 | 42 | Trapping Rain Water | Hard | O(N) | O(N) | Array, Two Pointers, Dynamic Programming, Stack | | |
 | 46 | Permutations | Medium | O(N!) | O(N!) | Backtracking | | |
