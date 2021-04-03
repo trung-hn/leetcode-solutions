@@ -457,6 +457,7 @@ https://leetcode.com/jummyegg/
 | 1769 | Minimum Number of Operations to Move All Balls to Each Box | Medium | O(N) | O(N) | Array, Greedy | | |
 | 1773 | Count Items Matching a Rule | Easy | O(N) | O(1) | Array, String | | |
 | 1774 | Closest Dessert Cost | Medium | O(N\*M\*V) | O(M\*V) | Greedy | | |
+| 1779 | Find Nearest Point That Has the Same X or Y Coordinate | Easy | O(N) | O(1) | Array | | |
 | 1792 | Maximum Average Pass Ratio | Medium | O(N+KlogN) | O(N) | Heap | | |
 
 # Useful Posts:
