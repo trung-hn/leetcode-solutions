@@ -6,25 +6,25 @@
 
 # @lc code=start
 # TAGS: Stack, String
+
+
 class Solution:
-    # 120 ms, 65.25%. Time: O(N). Space: O(N)
+    # 80 ms, 96.30%. Time and Space: O(N)
     def minRemoveToMakeValid(self, s: str) -> str:
-        to_remove = set()
-        close_parens = []
-        op = 0
+        to_remove = []
+        stack = []
         for i, c in enumerate(s):
             if c == "(":
-                op += 1
-                close_parens.append(i)
+                stack.append(i)
             elif c == ")":
-                if op == 0:
-                    to_remove.add(i)
-                    continue
-                op -= 1
-        if op: to_remove |= set(close_parens[-op:])
+                if stack:
+                    stack.pop()
+                else:
+                    to_remove.append(i)
+        to_remove = set(to_remove + stack)
         return "".join(c for i, c in enumerate(s) if i not in to_remove)
 
-    # Same idea but slightly cleaner         
+    # 80 ms, 96.30%. Time and Space: O(N)
     def minRemoveToMakeValid(self, s: str) -> str:
         s = list(s)
         stack = []
@@ -32,10 +32,12 @@ class Solution:
             if c == "(":
                 stack.append(i)
             elif c == ")":
-                if stack: stack.pop()
-                else: s[i] = ""
-        for i in stack: s[i] = ""
+                if stack:
+                    stack.pop()
+                else:
+                    s[i] = ""
+        for i in stack:
+            s[i] = ""
         return "".join(s)
 
 # @lc code=end
-
