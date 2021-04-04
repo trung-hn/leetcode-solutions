@@ -6,7 +6,9 @@
 
 # @lc code=start
 # TAGS: Greedy, Two Pointers
-# REVIEWME: Greedy 
+# REVIEWME: Greedy
+
+
 class Solution:
     # 20 ms, 99%. Time and Space: O(N)
     def partitionLabels(self, S: str) -> List[int]:
@@ -40,7 +42,7 @@ class Solution:
             else:
                 alpha[c][-1] = i+1
         alpha = list(alpha.values())
-    
+
         rv = [alpha[0][1] - alpha[0][0]]
         for i in range(1, len(alpha)):
             if alpha[i][0] < alpha[i-1][1]:
@@ -49,11 +51,11 @@ class Solution:
                 rv.pop()
             rv.append(alpha[i][1] - alpha[i][0])
         return rv
-    
+
     # 36 ms, 75.51% Greedy. Time and space: O(N)
     def partitionLabels(self, S: str) -> List[int]:
         # read solution article for explanation
-        last = {c:i for i, c in enumerate(S)}
+        last = {c: i for i, c in enumerate(S)}
         end = start = 0
         ans = []
         for i, c in enumerate(S):
@@ -62,7 +64,6 @@ class Solution:
                 ans.append(end - start + 1)
                 start = i + 1
         return ans
-            
-            
-# @lc code=end
 
+
+# @lc code=end
