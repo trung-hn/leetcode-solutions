@@ -306,6 +306,7 @@ https://leetcode.com/jummyegg/
 | 1217 | Minimum Cost to Move Chips to The Same Position | Easy | O(N) | O(1) | Math, Greedy, Array | | |
 | 1219 | Minimum CostPath with Maximum Gold | Medium | O(R\*C+N\*2^N) | O(N) | Backtracking | | |
 | 1232 | Check If It Is a Straight Line | Easy | O(N) | O(1) | Math, Pythonic, Geometry | | |
+| 1239 | Maximum Length of a Concatenated String with Unique Characters | Medium | O(2^N) | O(N) | Backtracking, Bit Manipulation | | |
 | 1249 | Minimum Remove to Make Valid Parentheses | Medium | O(N) | O(N) | Stack, String | | |
 | 1277 | Count Square Submatrices with All Ones | Medium | O(N * M) | O(1) | Array, Dynamic Programming | | |
 | 1283 | Find the Smallest Divisor Given a Threshold | Medium | O(NlogNmax) | O(1) | Binary Search | | |
