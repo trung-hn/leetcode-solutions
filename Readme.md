@@ -461,6 +461,7 @@ https://leetcode.com/jummyegg/
 | 1779 | Find Nearest Point That Has the Same X or Y Coordinate | Easy | O(N) | O(1) | Array | | |
 | 1780 | Check if Number is a Sum of Powers of Three | Medium | O(logN) | O(1) | Math, Backtracking, Recursion | | |
 | 1783 | Sum of Beauty of All Substrings | Medium | O(N^2) | O(1) | Hash Table, String | | |
+| 1784 | Check if Binary String Has at Most One Segment of Ones | Easy | O(N) | O(1) | Greedy | | |
 | 1791 | Find Center of Star Graph | Medium | O(1) | O(1) | Graph | | |
 | 1792 | Maximum Average Pass Ratio | Medium | O(N+KlogN) | O(N) | Heap | | |
 
