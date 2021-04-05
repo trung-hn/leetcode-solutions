@@ -485,6 +485,11 @@ https://leetcode.com/jummyegg/
 - https://leetcode.com/discuss/general-discussion/868902/dynamic-programming
 - https://leetcode.com/discuss/general-discussion/1081421/powerful-dynamic-programming-explanation
 
+## System Design
+
+- [✅ Helpful list of LeetCode Posts on System Design at Facebook, Google, Amazon, Uber, Microsoft](https://leetcode.com/discuss/interview-question/1140451/helpful-list-of-leetcode-posts-on-system-design-at-facebook-google-amazon-uber-microsoft)
+
+
 ## Others
 
 - https://leetcode.com/discuss/general-discussion/705117/requesting-guidance-from-those-who-solved-1000-leets-so-far
