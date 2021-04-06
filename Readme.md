@@ -295,6 +295,7 @@ https://leetcode.com/jummyegg/
 | 1032 | Stream of Characters | Hard | O(M) | O(M) | Trie | | |
 | 1035 | Uncrossed Lines | Medium | O(N^2) | O(N) | Array, Dynamic Programming | | |
 | 1052 | Grumpy Bookstore Owner | Medium | O(N) | O(N) | Sliding Window, Array | | |
+| 1053 | Previous Permutation With One Swap | Medium | O(N) | O(N) | Array, Greedy | | |
 | 1054 | Distant Barcodes | Medium | O(NlogN) | O(N) | Sort, Heap | | |
 | 1060 | Missing Element in Sorted Array | Medium | O(logN) | O(1) | Binary Search, Premium | | 🔒 |
 | 1061 | Lexicographically Smallest Equivalent String | Medium | O(N) | O(N) | DFS, Union Find, Premium | | 🔒 |
