@@ -14,6 +14,7 @@ https://leetcode.com/jummyegg/
 | 12 | Integer to Roman | Medium | O(N) | O(N) | Math, String | | |
 | 12 | Roman to Integer | Easy | O(N) | O(1) | Math, String | | |
 | 15 | 3Sum | Medium | O(N^2) | O(N^2) | Array, Two Pointers | | |
+| 17 | Letter Combinations of a Phone Number | Medium | O(2^2) | O(2^N) | String, Backtracking, DFS, Recursion | | |
 | 20 | Valid Parentheses | Easy | O(N) | O(N) | String, Stack | | |
 | 21 | Merge Two Sorted Lists | Easy | O(N) | O(1) | Linked List | | |
 | 22 | Generate Parentheses | Medium | Complicated | Complicated | String, Backtracking | | |
