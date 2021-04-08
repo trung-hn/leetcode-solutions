@@ -201,6 +201,7 @@ https://leetcode.com/jummyegg/
 | 734 | Sentence Similarity | Easy | O(N) | O(N) | Premium, Hash Table | | 🔒 |
 | 735 | Asteroid Collision | Medium | O(N) | O(N) | Stack | | |
 | 737 | Sentence Similarity II | Medium | O(NlogP + P) or o(NP) | O(N) | Premium, DFS, Union Find | | 🔒 |
+| 739 | Daily Temperatures | Medium | O(N) | O(N) | Hash Table, Stack | | |
 | 743 | Network Delay Time | Medium | O(ElogE) | O(N + E) | Heap, BFS, DFS, Graph | | |
 | 754 | Reach a Number | Medium | O(logN) | O(1) | Math | | |
 | 763 | Partition Labels | Medium | O(N) | O(N) | Greedy, Two Pointers | | |
