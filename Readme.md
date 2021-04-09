@@ -184,6 +184,7 @@ https://leetcode.com/jummyegg/
 | 646 | Maximum Length of Pair Chain | Medium | O(NlogN) | O(N) | Greedy, Dynamic Programming | | |
 | 655 | Print Binary Tree | Medium | O(N) | O(H) | Tree | | |
 | 658 | Find K Closest Elements | Medium | O(logN+K) | O(K) | Tree | | |
+| 659 | Split Array into Consecutive Subsequences | Medium | O(N) | O(1) | Greedy | | |
 | 662 | Maximum Width of Binary Tree | Medium | O(N) | O(N) | Tree | | |
 | 669 | Trim a Binary Search Tree | Medium | O(N) | O(N) | Tree, Recursion | | |
 | 670 | Maximum Swap | Medium | O(N) | O(N) | Array, Math | | |
