@@ -186,6 +186,7 @@ https://leetcode.com/jummyegg/
 | 658 | Find K Closest Elements | Medium | O(logN+K) | O(K) | Tree | | |
 | 662 | Maximum Width of Binary Tree | Medium | O(N) | O(N) | Tree | | |
 | 669 | Trim a Binary Search Tree | Medium | O(N) | O(N) | Tree, Recursion | | |
+| 670 | Maximum Swap | Medium | O(N) | O(N) | Array, Math | | |
 | 673 | Number of Longest Increasing Subsequence | Medium | O(N^2) | O(N) | Dynamic Programming | | |
 | 677 | Map Sum Pairs | Medium | O(K) | O(K) | Trie | | |
 | 700 | Search in a Binary Search Tree | Easy | O(H) | O(1) | Tree | | |
