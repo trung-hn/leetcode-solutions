@@ -263,7 +263,8 @@ https://leetcode.com/jummyegg/
 | 941 | Valid Mountain Array | Easy | O(N) | O(1) | Array | | |
 | 946 | Validate Stack Sequences | Medium | O(N) | O(N) | Stack | | |
 | 948 | Bag of Tokens | Medium | O(NlogN) | O(N) | Greedy | | |
-| 957 | Prison Cells After N Days | Medium | O(1) | O(1) | Has Table | | |
+| 953 | Verifying an Alien Dictionary | Easy | O(A) | O(1) | Hash Table | | |
+| 957 | Prison Cells After N Days | Medium | O(1) | O(1) | Hash Table | | |
 | 958 | Check Completeness of a Binary Tree | Medium | O(N) | O(N) | Tree | | |
 | 962 | Maximum Width Ramp | Medium | O(NlogN) | O(N) | Array | | |
 | 966 | Vowel Spellchecker | Medium | O(N) | O(N) | Hash Table, String | | |
