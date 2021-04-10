@@ -107,6 +107,7 @@ https://leetcode.com/jummyegg/
 | 320 | Generalized Abbreviation | Medium | O(N*2^N) | O(N) | Premium, Backtracking | | 🔒 |
 | 322 | Coin Change | Medium | O(A*N) | O(A) | Dynamic Programming | | |
 | 328 | Odd Even Linked List | Medium | O(N) | O(1) | Linked List | | |
+| 329 | Longest Increasing Path in a Matrix | Hard | O(R\*C) | O(R\*C) | DFS, Topology Sort, Memoization | | |
 | 334 | Increasing Triplet Subsequence | Medium | O(N) | O(1) | Array | | |
 | 337 | House Robber III | Medium | O(N) | O(N) | Dynamic Programming, Tree, DFS | | |
 | 338 | Counting Bits | Medium | O(N) | O(N) | Dynamic Programming, Bit Manipulation | | |
