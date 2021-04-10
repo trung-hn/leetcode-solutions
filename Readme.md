@@ -171,6 +171,7 @@ https://leetcode.com/jummyegg/
 | 532 | K-diff Pairs in an Array | Medium | O(N) | O(N) | Array, Two Pointers | | |
 | 538 | Convert BST to Greater Tree | Medium | O(N) | O(H) | Tree, BFS, DFS, Recursion | | |
 | 540 | Single Element in a Sorted Array | Medium | O(logN) | O(1) | Binary Search | | |
+| 542 | 01 Matrix | Medium | O(R\*C) | O(R\*C) | BFS, DFS | | |
 | 563 | Binary Tree Tilt | Easy | O(N) | O(H) | Tree, DFS, Recursion | | |
 | 567 | Permutation in String | Medium | O(S1 + S2) | O(1) | String, Two Pointers, Sliding Window | | |
 | 573 | Squirrel Simulation | Medium | O(N) | O(1) | Premium, Math | | 🔒 |
