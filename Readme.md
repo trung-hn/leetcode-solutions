@@ -122,7 +122,7 @@ https://leetcode.com/jummyegg/
 | 362 | Design Hit Counter | Medium | O(1) | O(N) | Design, Premium | | 🔒 |
 | 367 | Valid Perfect Square | Easy | O(logN) | O(1) | Math, Binary Search | | |
 | 376 | Wiggle Subsequence | Medium | O(N) | O(1) | Greedy, Dynamic Programming | | |
-| 377 | Combination Sum IV | Medium | O(T) | O(T) | Dynamic Programming | | |
+| 377 | Combination Sum IV | Medium | O(T*N) | O(T) | Dynamic Programming | | |
 | 378 | Kth Smallest Element in a Sorted Matrix | Medium | O(N^2logK) | O(K) | Heap, Binary Search | | |
 | 380 | Insert Delete GetRandom | Medium | O(1) | O(N) | Array, Hash Table, Design | | |
 | 384 | Shuffle an Array | Medium | O(N) | O(N) | | | |
@@ -487,6 +487,7 @@ https://leetcode.com/jummyegg/
 - Graph: https://leetcode.com/discuss/general-discussion/969327/graph-algorithms-one-place-dijkstra-bellman-ford-floyd-warshall-prims-kruskals-dsu
 - [Template for Hard String Problems](https://leetcode.com/problems/minimum-window-substring/discuss/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems)
 - [Powerful studying program for Beginners and Intermediate levels. All common mistakes analyzed.](https://leetcode.com/discuss/general-discussion/1129503/powerful-studying-program-for-beginners-and-intermediate-levels-all-common-mistakes-analyzed)
+- [Bit Hacks](https://leetcode.com/discuss/general-discussion/1151183/bits-can-hack-the-world-beginners-guide-bit-hacks-with-proper-approach)
 
 ## Dynamic Programming
 
