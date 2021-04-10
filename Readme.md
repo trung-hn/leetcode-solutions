@@ -122,6 +122,7 @@ https://leetcode.com/jummyegg/
 | 362 | Design Hit Counter | Medium | O(1) | O(N) | Design, Premium | | 🔒 |
 | 367 | Valid Perfect Square | Easy | O(logN) | O(1) | Math, Binary Search | | |
 | 376 | Wiggle Subsequence | Medium | O(N) | O(1) | Greedy, Dynamic Programming | | |
+| 377 | Combination Sum IV | Medium | O(T) | O(T) | Dynamic Programming | | |
 | 378 | Kth Smallest Element in a Sorted Matrix | Medium | O(N^2logK) | O(K) | Heap, Binary Search | | |
 | 380 | Insert Delete GetRandom | Medium | O(1) | O(N) | Array, Hash Table, Design | | |
 | 384 | Shuffle an Array | Medium | O(N) | O(N) | | | |
@@ -464,7 +465,7 @@ https://leetcode.com/jummyegg/
 | 1758 | Minimum Changes To Make Alternating Binary String | Easy | O(N) | O(1) | Array, Greedy | | |
 | 1759 | Count Number of Homogenous Substrings | Medium | O(N) | O(1) | String, Greedy | | |
 | 1763 | Longest Nice Substring | Easy | O(NlogN) | O(N) | String | | |
-| 1764 | Form Array by Concatenating Subarrays of Another Array | Medium | O(N+M) | O(M) | Array, Greedy | | |
+| 1764 | Form Array by Concatenating Subarrays of Another Array | Medium | O(N+M) | O(M) | Array, Greedy | New Algorithm | |
 | 1765 | Map of Highest Peak | Medium | O(N\*M) | O(N\*M) | BFS, Graph | | |
 | 1768 | Merge Strings Alternately | Easy | O(N) | O(N) | String | | |
 | 1769 | Minimum Number of Operations to Move All Balls to Each Box | Medium | O(N) | O(N) | Array, Greedy | | |
