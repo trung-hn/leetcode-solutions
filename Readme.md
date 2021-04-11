@@ -260,6 +260,7 @@ https://leetcode.com/jummyegg/
 | 905 | Sort Array By Parity | Easy | O(N) | O(1) | Array | | |
 | 910 | Smallest Range II | Medium | O(NlogN) | O(N) | Math, Greedy | | |
 | 911 | Online Election | Medium | O(N + QlogN) | O(N) | Binary Search | | |
+| 915 | Partition Array into Disjoint Intervals | Medium | O(N) | O(N) | Array | | |
 | 916 | Word Subsets | Medium | O(A_t + B_t) | O(L) | String | | |
 | 918 | Maximum Sum Circular Subarray | Medium | O(N) | O(1) | Array, Dynamic Programming | | |
 | 919 | Complete Binary Tree Inserter | Medium | O(N) | O(1) | Tree | | |
