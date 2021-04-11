@@ -207,6 +207,7 @@ https://leetcode.com/jummyegg/
 | 734 | Sentence Similarity | Easy | O(N) | O(N) | Premium, Hash Table | | 🔒 |
 | 735 | Asteroid Collision | Medium | O(N) | O(N) | Stack | | |
 | 737 | Sentence Similarity II | Medium | O(NlogP + P) or o(NP) | O(N) | Premium, DFS, Union Find | | 🔒 |
+| 738 | Monotone Increasing Digits | Medium | O(logN) | O(logN) | Greedy | | |
 | 739 | Daily Temperatures | Medium | O(N) | O(N) | Hash Table, Stack | | |
 | 740 | Delete and Earn | Medium | O(N) | O(N) | Dynamic Programming | | |
 | 743 | Network Delay Time | Medium | O(ElogE) | O(N + E) | Heap, BFS, DFS, Graph | | |
@@ -502,6 +503,10 @@ https://leetcode.com/jummyegg/
 
 - [✅ Helpful list of LeetCode Posts on System Design at Facebook, Google, Amazon, Uber, Microsoft](https://leetcode.com/discuss/interview-question/1140451/helpful-list-of-leetcode-posts-on-system-design-at-facebook-google-amazon-uber-microsoft)
 
+## LP
+
+- [Amazon LPs Compiled
+](https://leetcode.com/discuss/interview-experience/1149636/amazon-lps-compiled)
 
 ## Others
 
