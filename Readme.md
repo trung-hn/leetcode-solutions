@@ -162,6 +162,7 @@ https://leetcode.com/jummyegg/
 | 474 | Ones and Zeroes | Medium | O(K\*M\*N) | O(K\*M\*N) | Dynamic Programming | | |
 | 476 | Number Complement | Easy | O(N) | O(1) | Bit Manipulation | | |
 | 478 | Generate Random Point in a Circle | Medium | O(1) | O(1) | Math, Random, Rejection Sampling | | |
+| 491 | Increasing Subsequences | Medium | O(Combination) | O(Combination) | DFS | | |
 | 494 | Target Sum | Medium | O(N\*T) | O(T) | Dynamic Programming, DFS | Template for DP | |
 | 495 | Teemo Attacking | Medium | O(N) | O(1) | Array | | |
 | 497 | Random Point in Non-overlapping Rectangles | Medium | O(logN) | O(N) | Design, Binary Search | | |
