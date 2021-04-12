@@ -191,6 +191,7 @@ https://leetcode.com/jummyegg/
 | 658 | Find K Closest Elements | Medium | O(logN+K) | O(K) | Tree | | |
 | 659 | Split Array into Consecutive Subsequences | Medium | O(N) | O(1) | Greedy | | |
 | 662 | Maximum Width of Binary Tree | Medium | O(N) | O(N) | Tree | | |
+| 667 | Beautiful Arrangement II | Medium | O(N) | O(N) | Array | | |
 | 669 | Trim a Binary Search Tree | Medium | O(N) | O(N) | Tree, Recursion | | |
 | 670 | Maximum Swap | Medium | O(N) | O(N) | Array, Math | | |
 | 673 | Number of Longest Increasing Subsequence | Medium | O(N^2) | O(N) | Dynamic Programming | | |
