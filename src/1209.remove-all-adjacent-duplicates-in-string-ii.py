@@ -9,7 +9,11 @@
 
 
 class Solution:
+    """
+    Approach: Think about groupby() in python
+    """
     # 40 ms, 96.60%. Time and Space: O(N)
+
     def removeDuplicates(self, s: str, k: int) -> str:
         char = ""
         cnt = 0
