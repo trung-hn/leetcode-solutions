@@ -321,6 +321,7 @@ https://leetcode.com/jummyegg/
 | 1162 | As Far from Land as Possible | Medium | O(N\*M) | O(N\*M) | Graph, BFS | | |
 | 1209 | Remove All Adjacent Duplicates in String II | Medium | O(N) | O(N) | Stack | | |
 | 1217 | Minimum Cost to Move Chips to The Same Position | Easy | O(N) | O(1) | Math, Greedy, Array | | |
+| 1218 | Longest Arithmetic Subsequence of Given Difference | Medium | O(N) | O(N) | Hash Table, Math, Dynamic Programming | | |
 | 1219 | Minimum CostPath with Maximum Gold | Medium | O(R\*C+N\*2^N) | O(N) | Backtracking | | |
 | 1232 | Check If It Is a Straight Line | Easy | O(N) | O(1) | Math, Pythonic, Geometry | | |
 | 1239 | Maximum Length of a Concatenated String with Unique Characters | Medium | O(2^N) | O(N) | Backtracking, Bit Manipulation | | |
