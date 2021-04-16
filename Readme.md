@@ -319,6 +319,7 @@ https://leetcode.com/jummyegg/
 | 1094 | Car Pooling | Medium | O(N) | O(1) | Car Pooling | | |
 | 1130 | Minimum Cost Tree From Leaf Values | Medium | O(N) | O(N) | Dynamic Programming, Tree, Stack | | |
 | 1162 | As Far from Land as Possible | Medium | O(N\*M) | O(N\*M) | Graph, BFS | | |
+| 1209 | Remove All Adjacent Duplicates in String II | Medium | O(N) | O(N) | Stack | | |
 | 1217 | Minimum Cost to Move Chips to The Same Position | Easy | O(N) | O(1) | Math, Greedy, Array | | |
 | 1219 | Minimum CostPath with Maximum Gold | Medium | O(R\*C+N\*2^N) | O(N) | Backtracking | | |
 | 1232 | Check If It Is a Straight Line | Easy | O(N) | O(1) | Math, Pythonic, Geometry | | |
@@ -494,6 +495,7 @@ https://leetcode.com/jummyegg/
 - [Template for Hard String Problems](https://leetcode.com/problems/minimum-window-substring/discuss/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems)
 - [Powerful studying program for Beginners and Intermediate levels. All common mistakes analyzed.](https://leetcode.com/discuss/general-discussion/1129503/powerful-studying-program-for-beginners-and-intermediate-levels-all-common-mistakes-analyzed)
 - [Bit Hacks](https://leetcode.com/discuss/general-discussion/1151183/bits-can-hack-the-world-beginners-guide-bit-hacks-with-proper-approach)
+- [More Bit Hacks](https://leetcode.com/discuss/study-guide/1151183/things-which-you-cant-ignore-in-coding)
 
 ## Dynamic Programming
 
