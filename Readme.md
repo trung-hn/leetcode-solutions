@@ -314,6 +314,7 @@ https://leetcode.com/jummyegg/
 | 1054 | Distant Barcodes | Medium | O(NlogN) | O(N) | Sort, Heap | | |
 | 1060 | Missing Element in Sorted Array | Medium | O(logN) | O(1) | Binary Search, Premium | | 🔒 |
 | 1061 | Lexicographically Smallest Equivalent String | Medium | O(N) | O(N) | DFS, Union Find, Premium | | 🔒 |
+| 1074 | Number of Submatrices That Sum to Target | Hard | O(R\*R\*C) | O(R\*C) | Array, Dynamic Programming, Sliding Window | | |
 | 1080 | Insufficient Nodes in Root to Leaf Paths | Medium | O(N) | O(N) | DFS | | |
 | 1091 | Shortest Path in Binary Matrix | Medium | O(N) | O(N) | BFS | | |
 | 1094 | Car Pooling | Medium | O(N) | O(1) | Car Pooling | | |
