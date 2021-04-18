@@ -489,6 +489,7 @@ https://leetcode.com/jummyegg/
 | 1792 | Maximum Average Pass Ratio | Medium | O(N+KlogN) | O(N) | Heap | | |
 | 1827 | Minimum Operations to Make the Array Increasing | Easy | O(N) | O(1) | Array, Greedy | | |
 | 1832 | Check if the Sentence Is Pangram | Easy | O(N) | O(1) | String | | |
+| 1833 | Maximum Ice Cream Bars | Medium | O(NlogN) | O(sort) | Array, Sort | | |
 
 # Useful Posts:
 
