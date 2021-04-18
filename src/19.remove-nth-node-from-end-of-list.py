@@ -33,5 +33,7 @@ class Solution:
             else:
                 node.next = node.next.next
                 return head
+
+        # In case n = len(head)
         return head.next
 # @lc code=end
