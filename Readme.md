@@ -182,6 +182,7 @@ https://leetcode.com/jummyegg/
 | 573 | Squirrel Simulation | Medium | O(N) | O(1) | Premium, Math | | 🔒 |
 | 581 | Shortest Unsorted Continuous Subarray | Medium | O(N) | O(1) | Array | | |
 | 583 | Delete Operation for Two Strings | Medium | O(N^2) | O(N) | Dynamic Programming, String | | |
+| 589 | N-ary Tree Preorder Traversal | Easy | O(N) | O(N) | Tree | | |
 | 593 | Valid Square | Medium | O(1) | O(1) | Math | | |
 | 605 | Can Place Flowers | Easy | O(N) | O(1) | Array, Greedy | | |
 | 622 | Design Circular Queue | Medium | O(1) | O(1) | Design, Queue | | |
