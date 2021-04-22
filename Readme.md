@@ -489,6 +489,7 @@ https://leetcode.com/jummyegg/
 | 1791 | Find Center of Star Graph | Medium | O(1) | O(1) | Graph | | |
 | 1792 | Maximum Average Pass Ratio | Medium | O(N+KlogN) | O(N) | Heap | | |
 | 1816 | Truncate Sentence | Easy | O(N) | O(1) | String | | |
+| 1818 | Minimum Absolute Sum Difference | Medium | O(NlogN) | O(sort) | Binary Search, Greedy | | |
 | 1827 | Minimum Operations to Make the Array Increasing | Easy | O(N) | O(1) | Array, Greedy | | |
 | 1828 | Queries on Number of Points Inside a Circle | Medium | O(N*M) | O(M) | Math | | |
 | 1832 | Check if the Sentence Is Pangram | Easy | O(N) | O(1) | String | | |
