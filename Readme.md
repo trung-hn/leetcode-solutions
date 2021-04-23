@@ -199,6 +199,7 @@ https://leetcode.com/jummyegg/
 | 670 | Maximum Swap | Medium | O(N) | O(N) | Array, Math | | |
 | 673 | Number of Longest Increasing Subsequence | Medium | O(N^2) | O(N) | Dynamic Programming | | |
 | 677 | Map Sum Pairs | Medium | O(K) | O(K) | Trie | | |
+| 696 | Count Binary Substrings | Medium | O(N) | O(1) | String | | |
 | 700 | Search in a Binary Search Tree | Easy | O(H) | O(1) | Tree | | |
 | 701 | Insert into a Binary Search Tree | Medium | O(H) | O(1) | Tree | | |
 | 702 | Search in a Sorted Array of Unknown Size | Medium | O(logN) | O(1) | Binary Search, Premium | | 🔒 |
