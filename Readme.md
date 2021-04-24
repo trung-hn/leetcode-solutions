@@ -325,6 +325,7 @@ https://leetcode.com/jummyegg/
 | 1094 | Car Pooling | Medium | O(N) | O(1) | Car Pooling | | |
 | 1130 | Minimum Cost Tree From Leaf Values | Medium | O(N) | O(N) | Dynamic Programming, Tree, Stack | | |
 | 1162 | As Far from Land as Possible | Medium | O(N\*M) | O(N\*M) | Graph, BFS | | |
+| 1192 | Critical Connections in a Network | Medium | O(V+E) | O(V+E) | DFS, Tarjan | New Algorithm | |
 | 1209 | Remove All Adjacent Duplicates in String II | Medium | O(N) | O(N) | Stack | | |
 | 1217 | Minimum Cost to Move Chips to The Same Position | Easy | O(N) | O(1) | Math, Greedy, Array | | |
 | 1218 | Longest Arithmetic Subsequence of Given Difference | Medium | O(N) | O(N) | Hash Table, Math, Dynamic Programming | | |
