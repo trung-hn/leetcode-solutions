@@ -26,6 +26,7 @@ https://leetcode.com/jummyegg/
 | 42 | Trapping Rain Water | Hard | O(N) | O(N) | Array, Two Pointers, Dynamic Programming, Stack | | |
 | 46 | Permutations | Medium | O(N!) | O(N!) | Backtracking | | |
 | 47 | Permutations II | Medium | O(N!) | O(N!) | Backtracking | | |
+| 48 | Rotate Image | Medium | O(N*M) | O(1) | Array | | |
 | 53 | Maximum Subarray | Easy | O(N) | O(1) | | | |
 | 57 | Insert Interval | Hard | O(N) | O(N) | Array, Sort, Greedy | | |
 | 59 | Spiral Matrix II | Medium | O(N^2) | O(N^2) | Array | | |
