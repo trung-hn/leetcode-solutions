@@ -523,6 +523,7 @@ https://leetcode.com/jummyegg/
 ## System Design
 
 - [✅ Helpful list of LeetCode Posts on System Design at Facebook, Google, Amazon, Uber, Microsoft](https://leetcode.com/discuss/interview-question/1140451/helpful-list-of-leetcode-posts-on-system-design-at-facebook-google-amazon-uber-microsoft)
+- https://leetcode.com/discuss/interview-question/object-oriented-design/1177601/flipkart-machine-coding-design-online-coding-platform-coding-blox-design-leetcode-lld
 
 ## LP
 
