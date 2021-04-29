@@ -13,6 +13,7 @@ class Solution:
     """
     Template for Binary Search:
     bisect_left:
+        lo, hi = 0, len(nums) - 1
         mid = (lo + hi) // 2
         if f(mid) > target:
             lo = mid + 1
@@ -21,6 +22,7 @@ class Solution:
     Explain: we move `hi` to a known satisfied `mid` value
 
     bisect_right:
+        lo, hi = 0, len(nums) - 1
         mid = hi - (hi - lo) // 2
         if f(mid) >= target:
             lo = mid
