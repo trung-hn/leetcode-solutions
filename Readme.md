@@ -289,6 +289,7 @@ https://leetcode.com/jummyegg/
 | 966 | Vowel Spellchecker | Medium | O(N) | O(N) | Hash Table, String | | |
 | 967 | Numbers With Same Consecutive Differences | Medium | O(N*2^N) | O(2^N) | DFS | | |
 | 969 | Pancake Sorting | Medium | O(N^2) | O(N) | Array | | |
+| 970 | Powerful Integers | Medium | O(logx*logy) | O(logx+logy) | Hash Table, Math | | |
 | 971 | Flip Binary Tree To Match Preorder Traversal | Medium | O(N) | O(N) | Tree, DFS | | |
 | 973 | K Closest Points to Origin | Medium | O(N log(K)) | O(K) | Divide and Conquer, Heap, Sort | | |
 | 974 | Subarray Sums Divisible by K | Medium | O(N) | O(K) | Array, Hash Table | | |
