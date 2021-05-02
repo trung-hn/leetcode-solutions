@@ -15,10 +15,11 @@ https://leetcode.com/jummyegg/
 - Leetcode has a "Taking Note" system where you can take notes of things you learn for each problem. Make good use of it.
 - Leetcode's category of difficulty (Easy, Medium, Hard) is not always correct. My rule of thumb is looking at the acceptance rate. `>55%` means Easy and `<35%` means Hard
 - What is correct is the amount of likes and dislikes in a problem. Problems with more dislikes than likes is usually not worth solving. Try a different one.
-- When you stuck, there are a few things you can do to give yourself a few hints:
+- When you stuck, there are a few things you can do to give yourself hints:
   - Look at the tag for the problem and see what kind of algorithm or data strucutre is needed to solve it
   - Look at the hint provided by Leetcode
-  - Estimate the Time Complexity of the problem ()
+  - Quickly look at the discussion to see what the expected complexity is or the name of the algorithm.
+  - Estimate the Time Complexity of the problem based on the input constraints (see next tip)
 - You can estimate the Time complexity based on the input constraints:
 
 | input size | estimated time complexity |
