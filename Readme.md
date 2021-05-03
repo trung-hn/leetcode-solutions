@@ -17,7 +17,7 @@ https://leetcode.com/jummyegg/
 - What is correct is the amount of likes and dislikes in a problem. Problems with more dislikes than likes is usually not worth solving. Try a different one.
 - When you stuck, there are a few things you can do to give yourself hints:
   - Look at the tag for the problem and see what kind of algorithm or data strucutre is needed to solve it
-  - Look at the hint provided by Leetcode
+  - Look at the hints provided by Leetcode
   - Quickly look at the discussion to see what the expected complexity is or the name of the algorithm.
   - Estimate the Time Complexity of the problem based on the input constraints (see next tip)
 - You can estimate the Time complexity based on the input constraints:
@@ -238,7 +238,7 @@ https://leetcode.com/jummyegg/
 | 708 | Insert into a Sorted Circular Linked List | Medium | O(N) | O(1) | Linked List, Premium | | 🔒 |
 | 713 | Subarray Product Less Than K | Medium | O(N) | O(1) | Array, Two Pointers | | |
 | 714 | Best Time to Buy and Sell Stock with Transaction Fee | Medium | O(N) | O(1) | Array, Dynamic Programming, Greedy | | |
-| 721 | Accounts Merge | Medium | O(Complex) | O(Complex) | Union-Find, DFS | | |
+| 721 | Accounts Merge | Medium | O(Complex) | O(Complex) | Union-Find, DFS | Template for Union-Find | |
 | 729 | My Calendar I | Medium | O(NlogN) | O(N) | Tree | | |
 | 733 | Flood Fill | Easy | O(N) | O(N) | Depth First Search | | |
 | 734 | Sentence Similarity | Easy | O(N) | O(N) | Premium, Hash Table | | 🔒 |
