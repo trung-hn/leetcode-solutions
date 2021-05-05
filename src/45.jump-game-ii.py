@@ -6,6 +6,7 @@
 
 # @lc code=start
 # TAGS: Array, Greedy
+# REVIEWME: Greedy
 
 
 class Solution:
@@ -28,4 +29,12 @@ class Solution:
                 dp[j] = min(dp[j], dp[i] + 1)
         return dp[-1]
 
+    # Greedy. 28 ms, 88.39%. Time: O(N). Space: O(1)
+    def jump(self, nums: List[int]) -> int:
+        step = left = right = 0
+        while right < len(nums) - 1:
+            step += 1
+            nxt = max(j + nums[j] for j in range(left, right + 1))
+            left, right = right, nxt
+        return step
 # @lc code=end
