@@ -10,7 +10,14 @@
 
 
 class Solution:
+    """
+    Approach:
+    Greedy: we have left and right pointers which are the limit at each step
+    left and right will change based on max(nums[left:right])
+    Keep doing it until right == len(nums) - 1
+    """
     # 32 ms. 68.42%. Time: O(N^2). Space: O(N). Backward DP
+
     def jump(self, nums: List[int]) -> int:
         dp = [float("inf")] * len(nums)
         dp[-1] = 0
