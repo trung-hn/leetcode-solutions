@@ -532,6 +532,7 @@ https://leetcode.com/jummyegg/
 | 1832 | Check if the Sentence Is Pangram | Easy | O(N) | O(1) | String | | |
 | 1833 | Maximum Ice Cream Bars | Medium | O(NlogN) | O(sort) | Array, Sort | | |
 | 1837 | Sum of Digits in Base K | Medium | O(logN) | O(1) | Math, Bit Manipulation | | |
+| 1839 | Longest Substring Of All Vowels in Order | Medium | O(N) | O(1) | Two Pointers, String | | |
 
 # Useful Posts:
 
