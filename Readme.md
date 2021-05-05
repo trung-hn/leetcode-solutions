@@ -531,6 +531,7 @@ https://leetcode.com/jummyegg/
 | 1828 | Queries on Number of Points Inside a Circle | Medium | O(N*M) | O(M) | Math | | |
 | 1832 | Check if the Sentence Is Pangram | Easy | O(N) | O(1) | String | | |
 | 1833 | Maximum Ice Cream Bars | Medium | O(NlogN) | O(sort) | Array, Sort | | |
+| 1837 | Sum of Digits in Base K | Medium | O(logN) | O(1) | Math, Bit Manipulation | | |
 
 # Useful Posts:
 
