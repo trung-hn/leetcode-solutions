@@ -52,6 +52,7 @@ https://leetcode.com/jummyegg/
 | 34 | Find First and Last Position of Element in Sorted Array | Medium | O(logN) | O(1) | Array, Binary Search | Template for Binary Search | |
 | 39 | Combination Sum | Medium | O(N^2) | O(N) | Array, Backtracking | | |
 | 42 | Trapping Rain Water | Hard | O(N) | O(N) | Array, Two Pointers, Dynamic Programming, Stack | | |
+| 45 | Jump Game II | Medium | O(N^2) | O(N) | Array, Greedy | | |
 | 46 | Permutations | Medium | O(N!) | O(N!) | Backtracking | | |
 | 47 | Permutations II | Medium | O(N!) | O(N!) | Backtracking | | |
 | 48 | Rotate Image | Medium | O(N*M) | O(1) | Array | | |
