@@ -8,7 +8,6 @@ https://leetcode.com/jummyegg/
 
 ## Tips and Tricks for Beginner:
 
-
 - Solve problem by Topic: when you first started, it is important to understand the topic quickly and solving 10-20 problems per topic is a good way to grasp it.
 - If you are using Python and are interested in writing Pythonic code, I created a repo for [Python tips and tricks](https://github.com/trung-hn/python-tips-and-tricks)
 - Always aim to get a better solution by reading the dicussion after you successfully solve it. Leetcode's community is amazing, you will learn of lot of tips and tricks to make your code cleaner and faster from the dicussion posts.
@@ -248,7 +247,7 @@ https://leetcode.com/jummyegg/
 | 737 | Sentence Similarity II | Medium | O(NlogP + P) or o(NP) | O(N) | Premium, DFS, Union Find | | 🔒 |
 | 738 | Monotone Increasing Digits | Medium | O(logN) | O(logN) | Greedy | | |
 | 739 | Daily Temperatures | Medium | O(N) | O(N) | Hash Table, Stack | | |
-| 740 | Delete and Earn | Medium | O(N) | O(N) | Dynamic Programming | | |
+| 740 | Delete and Earn | Medium | O(N+M) | O(N+M) | Dynamic Programming | | |
 | 743 | Network Delay Time | Medium | O(ElogE) | O(N + E) | Heap, BFS, DFS, Graph | | |
 | 754 | Reach a Number | Medium | O(logN) | O(1) | Math | | |
 | 763 | Partition Labels | Medium | O(N) | O(N) | Greedy, Two Pointers | | |
@@ -273,7 +272,7 @@ https://leetcode.com/jummyegg/
 | 833 | Find And Replace in String | Medium | O(N) | O(N) | Dynamic Programming | | |
 | 835 | Image Overlap | Medium | O(N^2) | O(N) | | | |
 | 838 | Push Dominoes | Medium | O(N) | O(N) | | | |
-| 841 | Keys and Rooms | Medium | O(N) | O(N) | DFS, Graph | | |
+| 841 | Keys and Rooms | Medium | O(N^2) | O(N) | DFS, Graph | | |
 | 845 | Longest Mountain in Array | Medium | O(N) | O(1) | Two Pointers | | |
 | 846 | Hand of Straights | Medium | O(MlogM+NW) | O(N) | Ordered Map | | |
 | 849 | Maximize Distance to Closest Person | Medium | O(N) | O(1) | Array | | |
@@ -513,7 +512,7 @@ https://leetcode.com/jummyegg/
 | 1758 | Minimum Changes To Make Alternating Binary String | Easy | O(N) | O(1) | Array, Greedy | | |
 | 1759 | Count Number of Homogenous Substrings | Medium | O(N) | O(1) | String, Greedy | | |
 | 1763 | Longest Nice Substring | Easy | O(NlogN) | O(N) | String | | |
-| 1764 | Form Array by Concatenating Subarrays of Another Array | Medium | O(N+M) | O(M) | Array, Greedy | New Algorithm | |
+| 1764 | Form Array by Concatenating Subarrays of Another Array | Medium | O(N+M) | O(M) | Array, Greedy | New Algorithm (KMP) | |
 | 1765 | Map of Highest Peak | Medium | O(N\*M) | O(N\*M) | BFS, Graph | | |
 | 1768 | Merge Strings Alternately | Easy | O(N) | O(N) | String | | |
 | 1769 | Minimum Number of Operations to Move All Balls to Each Box | Medium | O(N) | O(N) | Array, Greedy | | |

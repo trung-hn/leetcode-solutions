@@ -9,7 +9,7 @@
 
 
 class Solution:
-    # 60 ms, 94%. Time: O(N). Space O(N). Iteration. BFS
+    # 60 ms, 94%. Time: O(N^2). Space O(N). Iteration. BFS
     def canVisitAllRooms(self, rooms: List[List[int]]) -> bool:
         keys_acquired = set([0])
         q = [0]
@@ -20,7 +20,7 @@ class Solution:
                     q.append(key)
         return len(keys_acquired) == len(rooms)
 
-    # 60 ms, 94%. Time: O(N). Space: O(N). Recursively. DFS
+    # 60 ms, 94%. Time: O(N^2). Space: O(N). Recursively. DFS
     def canVisitAllRooms(self, rooms: List[List[int]]) -> bool:
         self.keys_acquired = set([0])
 

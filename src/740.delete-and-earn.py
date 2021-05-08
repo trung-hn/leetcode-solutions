@@ -9,7 +9,7 @@
 
 
 class Solution:
-    # 48 ms, 94.60%. Time and Space: O(N)
+    # 48 ms, 94.60%. Time and Space: O(N+M). M is max(nums)
     def deleteAndEarn(self, nums: List[int]) -> int:
         counter = [0] * (max(nums) + 1)
         for num, freq in collections.Counter(nums).items():
