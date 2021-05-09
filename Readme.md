@@ -379,6 +379,7 @@ https://leetcode.com/jummyegg/
 | 1337 | The K Weakest Rows in a Matrix | Easy | O(MlogKlogN) | O(K) | Heap, Array, Binary Search | | |
 | 1344 | Angle Between Hands of a Clock | Medium | O(1) | O(1) | Math | | |
 | 1345 | Jump Game IV | Hard | O(N) | O(N) | BFS | | |
+| 1354 | Construct Target Array With Multiple Sums | Hard | O(NlogN) | O(N) | Greedy, Heap | Very Hard | |
 | 1371 | Find the Longest Substring Containing Vowels in Even Counts | Medium | O(N) | O(N) | String | | |
 | 1375 | Bulb Switcher III | Medium | O(N) | O(1) | Array | | |
 | 1387 | Sort Integers by The Power Value | Medium | O(NlogK) | O(N) | Sort, Graph | | |
