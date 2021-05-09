@@ -295,6 +295,7 @@ https://leetcode.com/jummyegg/
 | 902 | Numbers At Most N Given Digit Set | Hard | O(LogN) | O(1) | Math, Dynamic Programming | | |
 | 904 | Fruit Into Baskets | Medium | O(N) | O(1) | Two Pointers | | |
 | 905 | Sort Array By Parity | Easy | O(N) | O(1) | Array | | |
+| 906 | Super Palindromes | Hard | Complex | Complex | Math | | |
 | 910 | Smallest Range II | Medium | O(NlogN) | O(N) | Math, Greedy | | |
 | 911 | Online Election | Medium | O(N + QlogN) | O(N) | Binary Search | | |
 | 915 | Partition Array into Disjoint Intervals | Medium | O(N) | O(N) | Array | | |
