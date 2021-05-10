@@ -70,9 +70,9 @@ https://leetcode.com/jummyegg/
 | 91 | Decode Ways | Medium | O(N) | O(N) | String, Dynamic Programming | | |
 | 99 | Recover Binary Search Tree | Hard | O(N) | O(N) | Tree, DFS | | |
 | 100 | Same Tree | Easy | O(N) | O(H) | Tree, Pythonic | | |
-| 107 | Binary Tree Level Order Traversal II | Easy | O(N) | O(N) | Tree, Breath First Search | | |
+| 107 | Binary Tree Level Order Traversal II | Easy | O(N) | O(N) | Tree, BFS | | |
 | 111 | Minimum Depth of Binary Tree | Easy | O(N) | O(H) | Tree, DFS, BFS | | |
-| 114 | Flatten Binary Tree to Linked List | Medium | O(N) | O(1) | Tree, Depth First Search | | |
+| 114 | Flatten Binary Tree to Linked List | Medium | O(N) | O(1) | Tree, DFS | | |
 | 115 | Distinct Subsequences | Medium | O(N) | O(1) | String, Dynamic Programming | | |
 | 116 | Populating Next Right Pointers in Each Node | Medium | O(N) | O(N) | Tree, DFS, BFS | | |
 | 119 | Pascal's Triangle II | Easy | O(k^2) | O(k) | Array | | |
@@ -99,7 +99,8 @@ https://leetcode.com/jummyegg/
 | 187 | Repeated DNA Sequences | Medium | O(N-L) | O(N-L) | Hash Table, Bit Manipulation | | |
 | 190 | Reverse Bits | Easy | O(1) | O(1) | Bit Manipulation | | |
 | 198 | House Robber | Easy | O(N) | O(1) | Dynamic Programming | | |
-| 207 | Course Schedule | Medium | O(N + E) | O(N + E) | Breath First Search, Depth First Search, Graph, Topological Sort | | |
+| 204 | Count Primes | Medium | O(loglogN) | O(N) | Hash Table, Math | | |
+| 207 | Course Schedule | Medium | O(N + E) | O(N + E) | BFS, DFS, Graph, Topological Sort | | |
 | 208 | Implement Trie (Prefix Tree) | Medium | Varying | Varying | Design, Trie | | |
 | 209 | Minimum Size Subarray Sum | Medium | O(N) | O(1) | Array, Two Pointers, Binary Search | | |
 | 211 | Add and Search Word - Data structure design | Medium | O(M) | O(1) | Trie, Design | | |
@@ -113,7 +114,7 @@ https://leetcode.com/jummyegg/
 | 227 | Basic Calculator II | Medium | O(N) | O(N) | String, Stack | |
 | 228 | Summary Ranges | Easy | O(N) | O(1) | Array | |
 | 229 | Majority Element II | Medium | O(N) | O(1) | Array | |
-| 230 | Kth Smallest Element in a BST | Medium | O(H + k) | O(H + k) | Tree, Depth First Search | Use general formula for tree traversal | |
+| 230 | Kth Smallest Element in a BST | Medium | O(H + k) | O(H + k) | Tree, DFS | Use general formula for tree traversal | |
 | 231 | Power of Two | Easy | O(1) | O(1) | Bit Manipulation | Important technique in bit manipulation | |
 | 234 | Palindrome Linked List | Easy | O(N) | O(1) | Linked List, Two Pointers | | |
 | 239 | Sliding Window Maximum | Hard | O(N) | O(N) | Monotonic Dequeue, Sliding Window, Heap | | |
@@ -170,7 +171,7 @@ https://leetcode.com/jummyegg/
 | 413 | Arithmetic Slices | Medium | O(N) | O(1) | Math, Dynamic Programming | | |
 | 416 | Partition Equal Subset Sum | Medium | O(M*N) | O(M) | Dynamic Programming | | |
 | 417 | Pacific Atlantic Water Flow | Medium | O(R\*C) | O(R\*C) | DFS, BFS | | |
-| 419 | Battleships in a Board | Medium | O(N*N) | O(1) | Array, Depth First Search | | |
+| 419 | Battleships in a Board | Medium | O(N*N) | O(1) | Array, DFS | | |
 | 425 | Word Squares | Hard | Complex | Complex | Back Tracking, Trie, Premium | | 🔒 |
 | 423 | Reconstruct Original Digits from English | Medium | O(N) | O(N) | Math | | |
 | 428 | Serialize and Deserialize N-ary Tree | Hard | O(N) | O(H) | Tree, Premium | | 🔒 |
@@ -242,7 +243,7 @@ https://leetcode.com/jummyegg/
 | 721 | Accounts Merge | Medium | O(Complex) | O(Complex) | Union-Find, DFS | Template for Union-Find | |
 | 725 | Split Linked List in Parts | Medium | O(N) | O(N) | Linked List | | |
 | 729 | My Calendar I | Medium | O(NlogN) | O(N) | Tree | | |
-| 733 | Flood Fill | Easy | O(N) | O(N) | Depth First Search | | |
+| 733 | Flood Fill | Easy | O(N) | O(N) | DFS | | |
 | 734 | Sentence Similarity | Easy | O(N) | O(N) | Premium, Hash Table | | 🔒 |
 | 735 | Asteroid Collision | Medium | O(N) | O(N) | Stack | | |
 | 737 | Sentence Similarity II | Medium | O(NlogP + P) or o(NP) | O(N) | Premium, DFS, Union Find | | 🔒 |
@@ -263,7 +264,7 @@ https://leetcode.com/jummyegg/
 | 791 | Custom Sort String | Medium | O(N) | O(N) | String | | |
 | 792 | Number of Matching Subsequences | Medium | O(N + M * L) | O(M) | Array | | |
 | 794 | Valid Tic-Tac-Toe State | Medium | O(1) | O(1) | Array, String | | |
-| 797 | All Paths From Source to Target | Medium | O(2^N * N) | O(2^N * N) | Backtracking, Depth First Search | | |
+| 797 | All Paths From Source to Target | Medium | O(2^N * N) | O(2^N * N) | Backtracking, DFS | | |
 | 799 | Champagne Tower | Medium | O(R^2) | O(R^2) | Dynamic Programming | | |
 | 802 | Find Eventual Safe States | Medium | O(V+E) | O(V+E) | DFS, Graph | | |
 | 820 | Short Encoding of Words | Medium | O(N\*M) | O(N\*M) | Trie | | |
@@ -289,7 +290,7 @@ https://leetcode.com/jummyegg/
 | 875 | Koko Eating Bananas | Medium | O(NlogN) | O(1) | Binary Search | | |
 | 880 | Decoded String at Index | Medium | O(N) | O(1) | Stack | Good problem | |
 | 881 | Boats to Save People | Medium | O(NlogN) | O(N) | Two Pointers, Greedy | | |
-| 886 | Possible Bipartition | Medium | O(N + E) | O(N + E) | Depth First Search | Good problem | |
+| 886 | Possible Bipartition | Medium | O(N + E) | O(N + E) | DFS | Good problem | |
 | 892 | Surface Area of 3D Shapes | Easy | O(N*N) | O(1) | Math, Geometry | | |
 | 895 | Maximum Frequency Stack | Medium | O(1) | O(N) | Hash Table, Stack | | |
 | 901 | Online Stock Span | Medium | O(1) | O(N) | Monotonic Stack | | |
@@ -395,22 +396,22 @@ https://leetcode.com/jummyegg/
 | 1437 | Check If All 1's Are at Least Length K Places Away | Easy | O(N) | O(1) | Array | | |
 | 1441 | Build an Array With Stack Operations | Easy | O(N) | O(N) | Pythonic | | |
 | 1442 | Count Triplets That Can Form Two Arrays of Equal XOR | Medium | O(N) | O(N) | Array, Math, Bit Manipulation | | |
-| 1443 | Minimum Time to Collect All Apples in a Tree | Medium | O(E) | O(E) | Tree, Depth First Search | | |
+| 1443 | Minimum Time to Collect All Apples in a Tree | Medium | O(E) | O(E) | Tree, DFS | | |
 | 1444 | Number of Ways of Cutting a Pizza | Hard | O(K\*R\*C\*(R+C)) | O(K\*R\*C) | Dynamic Programming | | |
 | 1446 | Consecutive Characters | Easy | O(N) | O(1) | String | | |
 | 1447 | Simplified Fractions | Medium | Varying | Varying | | | |
-| 1448 | Count Good Nodes in Binary Tree | Medium | O(N) | O(H) | Tree, Depth First Search | | |
+| 1448 | Count Good Nodes in Binary Tree | Medium | O(N) | O(H) | Tree, DFS | | |
 | 1450 | Number of Students Doing Homework at a Given Time | Easy | O(N) | O(1) | | | |
 | 1451 | Rearrange Words in a Sentence | Medium | O(N * logN) | O(1) | String, Sort | | |
 | 1452 | People Whose List of Favorite Companies Is Not a Subset of Another List | Medium | O(N^2) | O(N) | String, Sort | There is a better solution | |
 | 1455 | Check If a Word Occurs As a Prefix of Any Word in a Sentence | Medium | O(N) | O(1) | String, Pythonic | | |
 | 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium | O(N) | O(1) | String, Sliding Window | | |
-| 1457 | Pseudo-Palindromic Paths in a Binary Tree | Medium | O(N) | O(H) | Bit Manipulation, Tree, Depth First Search   | | |
+| 1457 | Pseudo-Palindromic Paths in a Binary Tree | Medium | O(N) | O(H) | Bit Manipulation, Tree, DFS   | | |
 | 1460 | Make Two Arrays Equal by Reversing Sub-arrays | Easy | O(N) | O(1) | Array | | |
 | 1461 | Check If a String Contains All Binary Codes of Size K | Medium | O(N) | O(2**K) | String, Bit Manipulation | | |
 | 1463 | Cherry Pickup II | hard | O(R\*C\*C) | O(R\*C\*C) | Dynamic Programming | | |
 | 1464 | Maximum Product of Two Elements in an Array | Easy | O(N) | O(1) | Array | | |
-| 1466 | Reorder Routes to Make All Paths Lead to the City Zero | Medium | O(\|V\|) | O(\|V\|) | Tree, Depth First Search | | |
+| 1466 | Reorder Routes to Make All Paths Lead to the City Zero | Medium | O(\|V\|) | O(\|V\|) | Tree, DFS | | |
 | 1470 | Shuffle the Array | Easy | O(N) | O(N) | Array | There is a better solution | |
 | 1471 | The k Strongest Values in an Array | Medium | O(NlogN) | O(N) | Array, Sort | There is a better solution | |
 | 1472 | Design Browser History | Medium | O(1) | O(1) | Design | | |
@@ -438,7 +439,7 @@ https://leetcode.com/jummyegg/
 | 1525 | Number of Good Ways to Split a String | Medium | O(N) | O(N) | String | | |
 | 1528 | Shuffle String | Easy | O(N) | O(N) | String | | |
 | 1529 | Bulb Switcher IV | Medium | O(N) | O(1) | String | | |
-| 1530 | Number of Good Leaf Nodes Pairs | Medium | O(N^2logN) | O(N) | Tree, Depth First Search | | |
+| 1530 | Number of Good Leaf Nodes Pairs | Medium | O(N^2logN) | O(N) | Tree, DFS | | |
 | 1533 | Find the Index of the Large Integer | Medium | O(logN) | O(1) | Premium, Binary Search | | 🔒 |
 | 1535 | Find the Winner of an Array Game | Medium | O(N) | O(1) | Array | | |
 | 1539 | Kth Missing Positive Number | Easy | O(logN) | O(1) | Binary Search | | |
