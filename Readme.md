@@ -356,6 +356,7 @@ https://leetcode.com/jummyegg/
 | 1080 | Insufficient Nodes in Root to Leaf Paths | Medium | O(N) | O(N) | DFS | | |
 | 1091 | Shortest Path in Binary Matrix | Medium | O(N) | O(N) | BFS | | |
 | 1094 | Car Pooling | Medium | O(N) | O(1) | Car Pooling | | |
+| 1109 | Corporate Flight Bookings | Medium | O(N) | O(N) | Array, Math | | |
 | 1130 | Minimum Cost Tree From Leaf Values | Medium | O(N) | O(N) | Dynamic Programming, Tree, Stack | | |
 | 1162 | As Far from Land as Possible | Medium | O(N\*M) | O(N\*M) | Graph, BFS | | |
 | 1192 | Critical Connections in a Network | Medium | O(V+E) | O(V+E) | DFS, Tarjan | New Algorithm | |
