@@ -240,6 +240,7 @@ https://leetcode.com/jummyegg/
 | 713 | Subarray Product Less Than K | Medium | O(N) | O(1) | Array, Two Pointers | | |
 | 714 | Best Time to Buy and Sell Stock with Transaction Fee | Medium | O(N) | O(1) | Array, Dynamic Programming, Greedy | | |
 | 721 | Accounts Merge | Medium | O(Complex) | O(Complex) | Union-Find, DFS | Template for Union-Find | |
+| 725 | Split Linked List in Parts | Medium | O(N) | O(N) | Linked List | | |
 | 729 | My Calendar I | Medium | O(NlogN) | O(N) | Tree | | |
 | 733 | Flood Fill | Easy | O(N) | O(N) | Depth First Search | | |
 | 734 | Sentence Similarity | Easy | O(N) | O(N) | Premium, Hash Table | | 🔒 |
