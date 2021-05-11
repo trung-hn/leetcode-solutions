@@ -94,6 +94,7 @@ https://leetcode.com/jummyegg/
 | 154 | Find Minimum in Rotated Sorted Array II | Hard | O(logN) | O(1) | Binary Search | | |
 | 159 | Longest Substring with At Most Two Distinct Characters | Medium | O(N) | O(1) | Premium, Hash Table, Two Pointers, String, Sliding Window | | |
 | 165 | Compare Version Numbers | Medium | O(N) | O(1) | String | | |
+| 168 | Excel Sheet Column Title | Medium | O(logN) | O(logN) | Math | Math Tricks | |
 | 171 | Excel Sheet Column Number | Easy | O(N) | O(1) | String | | |
 | 179 | Largest Number | Medium | O(NlogN) | O(1) | Sort | | |
 | 187 | Repeated DNA Sequences | Medium | O(N-L) | O(N-L) | Hash Table, Bit Manipulation | | |
