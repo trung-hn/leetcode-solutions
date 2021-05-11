@@ -391,6 +391,7 @@ https://leetcode.com/jummyegg/
 | 1395 | Count Number of Teams | Medium | O(N^2) | O(1) | Array | | |
 | 1396 | Design Underground System | Medium | O(N) | O(N) | Design | | |
 | 1405 | Longest Happy String | Medium | O(N) | O(N) | Greedy, Dynamic Programming | | |
+| 1419 | Minimum Number of Frogs Croaking | Medium | O(N) | O(1) | String | | |
 | 1423 | Maximum Points You Can Obtain from Cards | Medium | O(N) | O(1) | Array, Dynamic Programming, Sliding Window | | |
 | 1424 | Diagonal Traverse II | Medium | O(A) | O(A) | Array | | |
 | 1426 | Counting Elements | Easy | O(N) | O(N) | Array, Premium | | 🔒 |
