@@ -350,6 +350,7 @@ https://leetcode.com/jummyegg/
 | 1029 | Two City Scheduling | Easy | O(NlogN) | O(N) | Greedy | Good Problem | |
 | 1032 | Stream of Characters | Hard | O(M) | O(M) | Trie | | |
 | 1035 | Uncrossed Lines | Medium | O(N^2) | O(N) | Array, Dynamic Programming | | |
+| 1042 | Flower Planting With No Adjacent | Medium | O(|V|+|E|) | O(|V|+|E|) | Graph | | |
 | 1052 | Grumpy Bookstore Owner | Medium | O(N) | O(N) | Sliding Window, Array | | |
 | 1053 | Previous Permutation With One Swap | Medium | O(N) | O(N) | Array, Greedy | | |
 | 1054 | Distant Barcodes | Medium | O(NlogN) | O(N) | Sort, Heap | | |
