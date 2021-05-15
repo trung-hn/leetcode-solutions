@@ -552,8 +552,13 @@ https://leetcode.com/jummyegg/
 - Graph: https://leetcode.com/discuss/general-discussion/969327/graph-algorithms-one-place-dijkstra-bellman-ford-floyd-warshall-prims-kruskals-dsu
 - [Template for Hard String Problems](https://leetcode.com/problems/minimum-window-substring/discuss/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems)
 - [Powerful studying program for Beginners and Intermediate levels. All common mistakes analyzed.](https://leetcode.com/discuss/general-discussion/1129503/powerful-studying-program-for-beginners-and-intermediate-levels-all-common-mistakes-analyzed)
-- [Bit Hacks](https://leetcode.com/discuss/general-discussion/1151183/bits-can-hack-the-world-beginners-guide-bit-hacks-with-proper-approach)
-- [More Bit Hacks](https://leetcode.com/discuss/study-guide/1151183/things-which-you-cant-ignore-in-coding)
+- [Bit Hacks](https://leetcode.com/discuss/study-guide/1151183/TIPS-or-HACKS-WHICH-YOU-CAN'T-IGNORE-AS-A-CODER)
+- [Tips and Tricks](https://leetcode.com/discuss/study-guide/1177039/%22Practice-More-Learn-More%22-greater-Study-Guide-and-Interview-Preparation-Using-LEETCODE)
+
+## Syntax:
+
+- [C++](https://leetcode.com/discuss/study-guide/1154632/C%2B%2B-STL-powerful-guide-or-Compiled-list-of-popular-STL-operations)
+- [Java](https://leetcode.com/discuss/study-guide/1170715/Java-or-Data-Structure-Mostly-used-Syntax)
 
 ## Dynamic Programming
 
@@ -566,7 +571,7 @@ https://leetcode.com/jummyegg/
 ## System Design
 
 - [✅ Helpful list of LeetCode Posts on System Design at Facebook, Google, Amazon, Uber, Microsoft](https://leetcode.com/discuss/interview-question/1140451/helpful-list-of-leetcode-posts-on-system-design-at-facebook-google-amazon-uber-microsoft)
-- https://leetcode.com/discuss/interview-question/object-oriented-design/1177601/flipkart-machine-coding-design-online-coding-platform-coding-blox-design-leetcode-lld
+- https://leetcode.com/discuss/interview-question/1177601/Flipkart-or-Machine-Coding-or-Design-Online-Coding-Platform-CODING-BLOX-Leetcode-LLD
 
 ## LP
 
