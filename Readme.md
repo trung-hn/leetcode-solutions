@@ -126,6 +126,7 @@ https://leetcode.com/jummyegg/
 | 270 | Closest Binary Search Tree Value | Easy | O(H) | O(1) | Premium, Binary Search, Tree | | 🔒 |
 | 273 | Integer to English Words | Medium | O(logN) | O(1) | Math, String |  | |
 | 274 | H-Index | Medium | O(NlogN) | O(N) | Hash Table, Sort | There is a better solution | |
+| 283 | Move Zeroes | Easy | O(N) | O(1) | Array, Two Pointers | | |
 | 284 | Peeking Iterator | Medium | O(NlogN) | O(N) | Design | | |
 | 289 | Game of Life | Medium | O(M*N) | O(1) | Array | | |
 | 290 | Word Pattern | Easy | O(N) | O(N) | Hash Table | | |
