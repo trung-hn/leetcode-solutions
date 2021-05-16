@@ -322,6 +322,7 @@ https://leetcode.com/jummyegg/
 | 962 | Maximum Width Ramp | Medium | O(NlogN) | O(N) | Array | | |
 | 966 | Vowel Spellchecker | Medium | O(N) | O(N) | Hash Table, String | | |
 | 967 | Numbers With Same Consecutive Differences | Medium | O(N*2^N) | O(2^N) | DFS | | |
+| 968 | Binary Tree Cameras | Hard | O(N) | O(H) | Greedy, Tree, Dynamic Programming, DFS | New Technique | |
 | 969 | Pancake Sorting | Medium | O(N^2) | O(N) | Array | | |
 | 970 | Powerful Integers | Medium | O(logx*logy) | O(logx+logy) | Hash Table, Math | | |
 | 971 | Flip Binary Tree To Match Preorder Traversal | Medium | O(N) | O(N) | Tree, DFS | | |
