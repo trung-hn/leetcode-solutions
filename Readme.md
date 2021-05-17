@@ -239,7 +239,7 @@ https://leetcode.com/jummyegg/
 | 700 | Search in a Binary Search Tree | Easy | O(H) | O(1) | Tree | | |
 | 701 | Insert into a Binary Search Tree | Medium | O(H) | O(1) | Tree | | |
 | 702 | Search in a Sorted Array of Unknown Size | Medium | O(logN) | O(1) | Binary Search, Premium | | 🔒 |
-| 705 | Design HashSet | Easy | Varies | Varies | Design HashSet | | |
+| 705 | Design HashSet | Easy | Varying | Varying | Design HashSet | | |
 | 708 | Insert into a Sorted Circular Linked List | Medium | O(N) | O(1) | Linked List, Premium | | 🔒 |
 | 713 | Subarray Product Less Than K | Medium | O(N) | O(1) | Array, Two Pointers | | |
 | 714 | Best Time to Buy and Sell Stock with Transaction Fee | Medium | O(N) | O(1) | Array, Dynamic Programming, Greedy | | |
@@ -424,7 +424,7 @@ https://leetcode.com/jummyegg/
 | 1472 | Design Browser History | Medium | O(1) | O(1) | Design | | |
 | 1474 | Delete N Nodes After M Nodes of a Linked List | Easy | O(N) | O(1) | Linked List, Premium | | 🔒 |
 | 1475 | Final Prices With a Special Discount in a Shop | Easy | O(N) | O(1) | Monotonic Stack | | |
-| 1476 | Subrectangle Queries | Easy | Varies | Varies | Design | | |
+| 1476 | Subrectangle Queries | Easy | Varying | Varying | Design | | |
 | 1480 | Running Sum of 1d Array | Easy | O(N) | O(1) | | | |
 | 1481 | Least Number of Unique Integers after K Removals | Medium | O(NlogN) | O(N) | Array, Sort | | |
 | 1482 | Minimum Number of Days to Make m Bouquets | Medium | O(NlogN) | O(N) | Array, Binary Search | | |
