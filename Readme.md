@@ -544,6 +544,7 @@ https://leetcode.com/jummyegg/
 | 1837 | Sum of Digits in Base K | Medium | O(logN) | O(1) | Math, Bit Manipulation | | |
 | 1839 | Longest Substring Of All Vowels in Order | Medium | O(N) | O(1) | Two Pointers, String | | |
 | 1844 | Replace All Digits with Characters | Easy | O(N) | O(N) | String | | |
+| 1845 | Seat Reservation Manager | Medium | O(logN) | O(N) | Heap, Design | | |
 
 # Useful Posts:
 
