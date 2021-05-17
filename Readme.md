@@ -535,6 +535,7 @@ https://leetcode.com/jummyegg/
 | 1784 | Check if Binary String Has at Most One Segment of Ones | Easy | O(N) | O(1) | Greedy | | |
 | 1791 | Find Center of Star Graph | Medium | O(1) | O(1) | Graph | | |
 | 1792 | Maximum Average Pass Ratio | Medium | O(N+KlogN) | O(N) | Heap | | |
+| 1797 | Design Authentication Manager | Medium | O(Design) | O(N) | Hash Table, Design | | |
 | 1816 | Truncate Sentence | Easy | O(N) | O(1) | String | | |
 | 1818 | Minimum Absolute Sum Difference | Medium | O(NlogN) | O(sort) | Binary Search, Greedy | | |
 | 1827 | Minimum Operations to Make the Array Increasing | Easy | O(N) | O(1) | Array, Greedy | | |
