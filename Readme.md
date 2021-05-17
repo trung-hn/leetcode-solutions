@@ -44,7 +44,7 @@ https://leetcode.com/jummyegg/
 | 19 | Remove Nth Node From End of List | Medium | O(N) | O(1) | Linked List, Two Pointers | | |
 | 20 | Valid Parentheses | Easy | O(N) | O(N) | String, Stack | | |
 | 21 | Merge Two Sorted Lists | Easy | O(N) | O(1) | Linked List | | |
-| 22 | Generate Parentheses | Medium | Complicated | Complicated | String, Backtracking | | |
+| 22 | Generate Parentheses | Medium | Complex | Complex | String, Backtracking | | |
 | 24 | Swap Nodes in Pairs | Medium | O(N) | O(N) | Linked List | | |
 | 30 | Substring with Concatenation of All Words | Hard | O(NK) | O(K) | Array, Backtracking | | |
 | 32 | Longest Valid Parentheses | Hard | O(N) | O(N) | String, Dynamic Programming | | |
@@ -205,7 +205,7 @@ https://leetcode.com/jummyegg/
 | 498 | Diagonal Traverse | Medium | O(R\*C) | O(R\*C) | Array | | |
 | 510 | Inorder Successor in BST II | Medium | O(H) | O(1) | Tree, Premium | | 🔒 |
 | 520 | Detect Capital | Easy | O(N) | O(1) | | | |
-| 524 | Longest Word in Dictionary through Deleting | Medium | O(Complex) | O(Complex) | Two Pointers, Sort | | |
+| 524 | Longest Word in Dictionary through Deleting | Medium | Complex | Complex | Two Pointers, Sort | | |
 | 525 | Contiguous Array | Medium | O(N) | O(N) | Hash Table | Very good problem | |
 | 528 | Random Pick with Weight | Medium | O(N), O(logN) | O(N), O(1) | Binary Search, Random | Pythonic | |
 | 532 | K-diff Pairs in an Array | Medium | O(N) | O(N) | Array, Two Pointers | | |
@@ -243,7 +243,7 @@ https://leetcode.com/jummyegg/
 | 708 | Insert into a Sorted Circular Linked List | Medium | O(N) | O(1) | Linked List, Premium | | 🔒 |
 | 713 | Subarray Product Less Than K | Medium | O(N) | O(1) | Array, Two Pointers | | |
 | 714 | Best Time to Buy and Sell Stock with Transaction Fee | Medium | O(N) | O(1) | Array, Dynamic Programming, Greedy | | |
-| 721 | Accounts Merge | Medium | O(Complex) | O(Complex) | Union-Find, DFS | Template for Union-Find | |
+| 721 | Accounts Merge | Medium | Complex | Complex | Union-Find, DFS | Template for Union-Find | |
 | 725 | Split Linked List in Parts | Medium | O(N) | O(N) | Linked List | | |
 | 729 | My Calendar I | Medium | O(NlogN) | O(N) | Tree | | |
 | 733 | Flood Fill | Easy | O(N) | O(N) | DFS | | |
@@ -353,7 +353,7 @@ https://leetcode.com/jummyegg/
 | 1029 | Two City Scheduling | Easy | O(NlogN) | O(N) | Greedy | Good Problem | |
 | 1032 | Stream of Characters | Hard | O(M) | O(M) | Trie | | |
 | 1035 | Uncrossed Lines | Medium | O(N^2) | O(N) | Array, Dynamic Programming | | |
-| 1042 | Flower Planting With No Adjacent | Medium | O(|V|+|E|) | O(|V|+|E|) | Graph | | |
+| 1042 | Flower Planting With No Adjacent | Medium | O(V+E) | O(V+E) | Graph | | |
 | 1048 | Longest String Chain | Medium | `O(N*logN+N*C*C)` | `O(N)` | Hash Table, Dynamic Programming | | |
 | 1052 | Grumpy Bookstore Owner | Medium | O(N) | O(N) | Sliding Window, Array | | |
 | 1053 | Previous Permutation With One Swap | Medium | O(N) | O(N) | Array, Greedy | | |
