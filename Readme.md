@@ -69,98 +69,98 @@ https://leetcode.com/jummyegg/
 | 82 | [Remove Duplicates from Sorted List II](src/82.remove-duplicates-from-sorted-list-ii.py) | Medium | O(N) | O(1) | Linked List | | |
 | 91 | [Decode Ways](src/91.decode-ways.py) | Medium | O(N) | O(N) | String, Dynamic Programming | | |
 | 99 | [Recover Binary Search Tree](src/99.recover-binary-search-tree.py) | Hard | O(N) | O(N) | Tree, DFS | | |
-| 100 | Same Tree | Easy | O(N) | O(H) | Tree, Pythonic | | |
-| 107 | Binary Tree Level Order Traversal II | Easy | O(N) | O(N) | Tree, BFS | | |
-| 111 | Minimum Depth of Binary Tree | Easy | O(N) | O(H) | Tree, DFS, BFS | | |
-| 114 | Flatten Binary Tree to Linked List | Medium | O(N) | O(1) | Tree, DFS | | |
-| 115 | Distinct Subsequences | Medium | O(N) | O(1) | String, Dynamic Programming | | |
-| 116 | Populating Next Right Pointers in Each Node | Medium | O(N) | O(N) | Tree, DFS, BFS | | |
-| 119 | Pascal's Triangle II | Easy | O(k^2) | O(k) | Array | | |
-| 121 | Best Time to Buy and Sell Stock | Easy | O(N) | O(1) | Dynamic Programming | | |
-| 122 | Best Time to Buy and Sell Stock II | Easy | O(N) | O(1) | Array, Greedy | | |
-| 125 | Valid Palindrome | Easy | O(1) | O(1) | String | | |
-| 127 | Word Ladder | Hard | O(M^2\*N) | O(M^2\*N) | BFS | | |
-| 133 | Clone Graph | Medium | O(N+M) | O(N) | DFS, BFS, Graph | | |
-| 134 | Gas Station | Medium | O(N) | O(N) | Dynamic Programming, Greedy | | |
-| 138 | Copy List with Random Pointer | Medium | O(N) | O(N) | Hash Table, Linked List | | |
-| 139 | Word Break | Medium | O(N^2) | O(N) | Dynamic Programming | | |
-| 141 | Linked List Cycle | Easy | O(N) | O(1) | Linked List, Two Pointers | | |
-| 142 | Linked List Cycle II | Medium | O(N) | O(1) | Linked List, Two Pointers | | |
-| 143 | Reorder List | Medium | O(N) | O(1) | Linked List | | |
-| 147 | Sort, Linked List | Medium | O(N^2) | O(1) | Sort, Linked List | | |
-| 151 | Reverse Words in a String | Easy | O(N) | O(N) | String | | |
-| 152 | Maximum Product Subarray | Medium | O(N) | O(N) | Dynamic Programming, Array | | |
-| 153 | Find Minimum in Rotated Sorted Array | Medium | O(logN) | O(1) | Binary Search | | |
-| 154 | Find Minimum in Rotated Sorted Array II | Hard | O(logN) | O(1) | Binary Search | | |
-| 159 | Longest Substring with At Most Two Distinct Characters | Medium | O(N) | O(1) | Premium, Hash Table, Two Pointers, String, Sliding Window | | |
-| 165 | Compare Version Numbers | Medium | O(N) | O(1) | String | | |
-| 168 | Excel Sheet Column Title | Medium | O(logN) | O(logN) | Math | Math Tricks | |
-| 171 | Excel Sheet Column Number | Easy | O(N) | O(1) | String | | |
-| 179 | Largest Number | Medium | O(NlogN) | O(1) | Sort | | |
-| 187 | Repeated DNA Sequences | Medium | O(N-L) | O(N-L) | Hash Table, Bit Manipulation | | |
-| 190 | Reverse Bits | Easy | O(1) | O(1) | Bit Manipulation | | |
-| 198 | House Robber | Easy | O(N) | O(1) | Dynamic Programming | | |
-| 204 | Count Primes | Medium | O(loglogN) | O(N) | Hash Table, Math | | |
-| 207 | Course Schedule | Medium | O(N + E) | O(N + E) | BFS, DFS, Graph, Topological Sort | | |
-| 208 | Implement Trie (Prefix Tree) | Medium | Varying | Varying | Design, Trie | | |
-| 209 | Minimum Size Subarray Sum | Medium | O(N) | O(1) | Array, Two Pointers, Binary Search | | |
-| 211 | Add and Search Word - Data structure design | Medium | O(M) | O(1) | Trie, Design | | |
-| 213 | House Robber II | Medium | O(N) | O(1) | Dynamic Programming | | |
-| 215 | Kth Largest Element in an Array | Medium | O(NlogK) | O(K) | Heap | | |
-| 216 | Combination Sum III | Medium | O(N^2) | O(N^2) | Array, Backtracking | | |
-| 218 | The Skyline Problem | Hard | O(NlogN) | O(N) | Divide and Conquer, Heap, Binary Indexed Tree, Segment Tree, Line Sweep | | |
-| 220 | Contains Duplicate III | Medium | O(N) | O(N) | Sort, Ordered Map | | |
-| 221 | Maximal Square | Medium | O(N * M) | O(1) | Array, Dynamic Programming | | |
-| 222 | Count Complete Tree Nodes | Medium | O(logN * logN) | O(1) | Binary Search, Tree | | |
-| 227 | Basic Calculator II | Medium | O(N) | O(N) | String, Stack | |
-| 228 | Summary Ranges | Easy | O(N) | O(1) | Array | |
-| 229 | Majority Element II | Medium | O(N) | O(1) | Array | |
-| 230 | Kth Smallest Element in a BST | Medium | O(H + k) | O(H + k) | Tree, DFS | Use general formula for tree traversal | |
-| 231 | Power of Two | Easy | O(1) | O(1) | Bit Manipulation | Important technique in bit manipulation | |
-| 234 | Palindrome Linked List | Easy | O(N) | O(1) | Linked List, Two Pointers | | |
-| 239 | Sliding Window Maximum | Hard | O(N) | O(N) | Monotonic Dequeue, Sliding Window, Heap | | |
-| 252 | Meeting Rooms | Easy | O(NlogN) | O(1) | Premium, Sort | | 🔒 |
-| 253 | Meeting Rooms II | Medium | O(NlogN) | O(N) | Premium, Heap, Greedy, Sort | | 🔒 |
-| 264 | Ugly Number II | Medium | O(1) | O(1) | Heap, Dynamic Programming | | |
-| 268 | Missing Number | Easy | O(N) | O(1) | Array, Math, Bit Manipulation  | | |
-| 270 | Closest Binary Search Tree Value | Easy | O(H) | O(1) | Premium, Binary Search, Tree | | 🔒 |
-| 273 | Integer to English Words | Medium | O(logN) | O(1) | Math, String |  | |
-| 274 | H-Index | Medium | O(NlogN) | O(N) | Hash Table, Sort | There is a better solution | |
-| 283 | Move Zeroes | Easy | O(N) | O(1) | Array, Two Pointers | | |
-| 284 | Peeking Iterator | Medium | O(NlogN) | O(N) | Design | | |
-| 289 | Game of Life | Medium | O(M*N) | O(1) | Array | | |
-| 290 | Word Pattern | Easy | O(N) | O(N) | Hash Table | | |
-| 295 | Find Median from Data Stream | Hard | O(logN) | O(N) | Design, Hard, Heap | | |
-| 296 | Best Meeting Point | Hard | O(M*N) | O(M+N) | Premium, Math | | 🔒 |
-| 297 | Serialize and Deserialize Binary Tree | Hard | O(N) | O(N) | Tree, Design | | |
-| 299 | Bulls and Cows | Easy | O(N) | O(N) | Hash Table | | |
-| 300 | Longest Increasing Subsequence | Medium | O(NlogN) | O(N) | Binary Search, Dynamic Programming | | |
-| 304 | Range Sum Query 2D - Immutable | Medium | O(1) | O(R*C) | Dynamic Programming | Matrix Range Sum Trick | |
-| 310 | Minimum Height Trees | Medium | O(V) | O(V) | BFS, Graph | | |
-| 316 | Remove Duplicate Letters | Hard | O(N) | O(1) | Greedy, Tricky, Stack | | |
-| 317 | Shortest Distance from All Buildings | Hard | O(N\*M) | O(N\*M) | BFS, Premium | | 🔒 |
-| 319 | Bulb Switcher | Medium | O(1) | O(1) | Math, Tricky | | |
-| 320 | Generalized Abbreviation | Medium | O(N*2^N) | O(N) | Premium, Backtracking | | 🔒 |
-| 322 | Coin Change | Medium | O(A*N) | O(A) | Dynamic Programming | | |
-| 328 | Odd Even Linked List | Medium | O(N) | O(1) | Linked List | | |
-| 329 | Longest Increasing Path in a Matrix | Hard | O(R\*C) | O(R\*C) | DFS, Topology Sort, Memoization | | |
-| 334 | Increasing Triplet Subsequence | Medium | O(N) | O(1) | Array | | |
-| 337 | House Robber III | Medium | O(N) | O(N) | Dynamic Programming, Tree, DFS | | |
-| 338 | Counting Bits | Medium | O(N) | O(N) | Dynamic Programming, Bit Manipulation | | |
-| 342 | Power of Four | Easy | O(1) | O(1) | Math, Bit Manipulation | | |
-| 344 | Reverse String | Easy | O(N) | O(1) | Two Pointers, String | | |
-| 346 | Moving Average from Data Stream | Easy | O(1) | O(N) | Premium, Design | | 🔒 |
-| 347 | Top K Frequent Elements | Medium | O(N) | O(N) | Hash Table, Heap | | |
-| 348 | Design Tic-Tac-Toe | Medium | O(1) | O(N^2) | Premium, Design | | 🔒 |
-| 351 | Android Unlock Patterns | Medium | O(N!) | O(N) | Dynamic Programming, Backtracking, Premium | | 🔒 |
-| 354 | Russian Doll Envelopes | Hard | O(NlogN) | O(N) | Binary Search, Dynamic Programming | | |
-| 357 | Count Numbers with Unique Digits | Medium | O(1) | O(1) | Math, Dynamic Programming, Backtracking | | |
-| 361 | Bomb Enemy | Medium | O(N\*M) | O(N\*M) | Premium, Dynamic Programming | | 🔒 |
-| 362 | Design Hit Counter | Medium | O(1) | O(N) | Design, Premium | | 🔒 |
-| 367 | Valid Perfect Square | Easy | O(logN) | O(1) | Math, Binary Search | | |
-| 376 | Wiggle Subsequence | Medium | O(N) | O(1) | Greedy, Dynamic Programming | | |
-| 377 | Combination Sum IV | Medium | O(T*N) | O(T) | Dynamic Programming | | |
-| 378 | Kth Smallest Element in a Sorted Matrix | Medium | O(N^2logK) | O(K) | Heap, Binary Search | | |
+| 100 | [Same Tree](src/100.same-tree.py) | Easy | O(N) | O(H) | Tree, Pythonic | | |
+| 107 | [Binary Tree Level Order Traversal II](src/107.binary-tree-level-order-traversal-ii.py) | Easy | O(N) | O(N) | Tree, BFS | | |
+| 111 | [Minimum Depth of Binary Tree](src/111.minimum-depth-of-binary-tree.py) | Easy | O(N) | O(H) | Tree, DFS, BFS | | |
+| 114 | [Flatten Binary Tree to Linked List](src/114.flatten-binary-tree-to-linked-list.py) | Medium | O(N) | O(1) | Tree, DFS | | |
+| 115 | [Distinct Subsequences](src/115.distinct-subsequences.py) | Medium | O(N) | O(1) | String, Dynamic Programming | | |
+| 116 | [Populating Next Right Pointers in Each Node](src/116.populating-next-right-pointers-in-each-node.py) | Medium | O(N) | O(N) | Tree, DFS, BFS | | |
+| 119 | [Pascal's Triangle II](src/119.pascals-triangle-ii.py) | Easy | O(k^2) | O(k) | Array | | |
+| 121 | [Best Time to Buy and Sell Stock](src/121.best-time-to-buy-and-sell-stock.py) | Easy | O(N) | O(1) | Dynamic Programming | | |
+| 122 | [Best Time to Buy and Sell Stock II](src/122.best-time-to-buy-and-sell-stock-ii.py) | Easy | O(N) | O(1) | Array, Greedy | | |
+| 125 | [Valid Palindrome](src/125.valid-palindrome.py) | Easy | O(1) | O(1) | String | | |
+| 127 | [Word Ladder](src/127.word-ladder.py) | Hard | O(M^2\*N) | O(M^2\*N) | BFS | | |
+| 133 | [Clone Graph](src/133.clone-graph.py) | Medium | O(N+M) | O(N) | DFS, BFS, Graph | | |
+| 134 | [Gas Station](src/134.gas-station.py) | Medium | O(N) | O(N) | Dynamic Programming, Greedy | | |
+| 138 | [Copy List with Random Pointer](src/138.copy-list-with-random-pointer.py) | Medium | O(N) | O(N) | Hash Table, Linked List | | |
+| 139 | [Word Break](src/139.word-break.py) | Medium | O(N^2) | O(N) | Dynamic Programming | | |
+| 141 | [Linked List Cycle](src/141.linked-list-cycle.py) | Easy | O(N) | O(1) | Linked List, Two Pointers | | |
+| 142 | [Linked List Cycle II](src/142.linked-list-cycle-ii.py) | Medium | O(N) | O(1) | Linked List, Two Pointers | | |
+| 143 | [Reorder List](src/143.reorder-list.py) | Medium | O(N) | O(1) | Linked List | | |
+| 147 | [Insertion Sort List](src/147.insertion-sort-list.py) | Medium | O(N^2) | O(1) | Sort, Linked List | | |
+| 151 | [Reverse Words in a String](src/151.reverse-words-in-a-string.py) | Easy | O(N) | O(N) | String | | |
+| 152 | [Maximum Product Subarray](src/152.maximum-product-subarray.py) | Medium | O(N) | O(N) | Dynamic Programming, Array | | |
+| 153 | [Find Minimum in Rotated Sorted Array](src/153.find-minimum-in-rotated-sorted-array.py) | Medium | O(logN) | O(1) | Binary Search | | |
+| 154 | [Find Minimum in Rotated Sorted Array II](src/154.find-minimum-in-rotated-sorted-array-ii.py) | Hard | O(logN) | O(1) | Binary Search | | |
+| 159 | [Longest Substring with At Most Two Distinct Characters](src/159.py) | Medium | O(N) | O(1) | Premium, Hash Table, Two Pointers, String, Sliding Window | | |
+| 165 | [Compare Version Numbers](src/165.compare-version-numbers.py) | Medium | O(N) | O(1) | String | | |
+| 168 | [Excel Sheet Column Title](src/168.excel-sheet-column-title.py) | Medium | O(logN) | O(logN) | Math | Math Tricks | |
+| 171 | [Excel Sheet Column Number](src/171.excel-sheet-column-number.py) | Easy | O(N) | O(1) | String | | |
+| 179 | [Largest Number](src/179.largest-number.py) | Medium | O(NlogN) | O(1) | Sort | | |
+| 187 | [Repeated DNA Sequences](src/187.repeated-dna-sequences.py) | Medium | O(N-L) | O(N-L) | Hash Table, Bit Manipulation | | |
+| 190 | [Reverse Bits](src/190.reverse-bits.py) | Easy | O(1) | O(1) | Bit Manipulation | | |
+| 198 | [House Robber](src/198.house-robber.py) | Easy | O(N) | O(1) | Dynamic Programming | | |
+| 204 | [Count Primes](src/204.count-primes.py) | Medium | O(loglogN) | O(N) | Hash Table, Math | | |
+| 207 | [Course Schedule](src/207.course-schedule.py) | Medium | O(N + E) | O(N + E) | BFS, DFS, Graph, Topological Sort | | |
+| 208 | [Implement Trie (Prefix Tree)](src/208.implement-trie-prefix-tree.py) | Medium | Varying | Varying | Design, Trie | | |
+| 209 | [Minimum Size Subarray Sum](src/209.minimum-size-subarray-sum.py) | Medium | O(N) | O(1) | Array, Two Pointers, Binary Search | | |
+| 211 | [Add and Search Word - Data structure design](src/211.add-and-search-word-data-structure-design.py) | Medium | O(M) | O(1) | Trie, Design | | |
+| 213 | [House Robber II](src/213.house-robber-ii.py) | Medium | O(N) | O(1) | Dynamic Programming | | |
+| 215 | [Kth Largest Element in an Array](src/215.kth-largest-element-in-an-array.py) | Medium | O(NlogK) | O(K) | Heap | | |
+| 216 | [Combination Sum III](src/216.combination-sum-iii.py) | Medium | O(N^2) | O(N^2) | Array, Backtracking | | |
+| 218 | [The Skyline Problem](src/218.the-skyline-problem.py) | Hard | O(NlogN) | O(N) | Divide and Conquer, Heap, Binary Indexed Tree, Segment Tree, Line Sweep | | |
+| 220 | [Contains Duplicate III](src/220.contains-duplicate-iii.py) | Medium | O(N) | O(N) | Sort, Ordered Map | | |
+| 221 | [Maximal Square](src/221.maximal-square.py) | Medium | O(N * M) | O(1) | Array, Dynamic Programming | | |
+| 222 | [Count Complete Tree Nodes](src/222.count-complete-tree-nodes.py) | Medium | O(logN * logN) | O(1) | Binary Search, Tree | | |
+| 227 | [Basic Calculator II](src/227.basic-calculator-ii.py) | Medium | O(N) | O(N) | String, Stack | |
+| 228 | [Summary Ranges](src/228.summary-ranges.py) | Easy | O(N) | O(1) | Array | |
+| 229 | [Majority Element II](src/229.majority-element-ii.py) | Medium | O(N) | O(1) | Array | |
+| 230 | [Kth Smallest Element in a BST](src/230.kth-smallest-element-in-a-bst.py) | Medium | O(H + k) | O(H + k) | Tree, DFS | Use general formula for tree traversal | |
+| 231 | [Power of Two](src/231.power-of-two.py) | Easy | O(1) | O(1) | Bit Manipulation | Important technique in bit manipulation | |
+| 234 | [Palindrome Linked List](src/234.palindrome-linked-list.py) | Easy | O(N) | O(1) | Linked List, Two Pointers | | |
+| 239 | [Sliding Window Maximum](src/239.sliding-window-maximum.py) | Hard | O(N) | O(N) | Monotonic Dequeue, Sliding Window, Heap | | |
+| 252 | [Meeting Rooms](src/252.py) | Easy | O(NlogN) | O(1) | Premium, Sort | | 🔒 |
+| 253 | [Meeting Rooms II](src/253.py) | Medium | O(NlogN) | O(N) | Premium, Heap, Greedy, Sort | | 🔒 |
+| 264 | [Ugly Number II](src/264.ugly-number-ii.py) | Medium | O(1) | O(1) | Heap, Dynamic Programming | | |
+| 268 | [Missing Number](src/268.missing-number.py) | Easy | O(N) | O(1) | Array, Math, Bit Manipulation  | | |
+| 270 | [Closest Binary Search Tree Value](src/270.py) | Easy | O(H) | O(1) | Premium, Binary Search, Tree | | 🔒 |
+| 273 | [Integer to English Words](src/273.integer-to-english-words.py) | Medium | O(logN) | O(1) | Math, String |  | |
+| 274 | [H-Index](src/274.h-index.py) | Medium | O(NlogN) | O(N) | Hash Table, Sort | There is a better solution | |
+| 283 | [Move Zeroes](src/283.move-zeroes.py) | Easy | O(N) | O(1) | Array, Two Pointers | | |
+| 284 | [Peeking Iterator](src/284.peeking-iterator.py) | Medium | O(NlogN) | O(N) | Design | | |
+| 289 | [Game of Life](src/289.game-of-life.py) | Medium | O(M*N) | O(1) | Array | | |
+| 290 | [Word Pattern](src/290.word-pattern.py) | Easy | O(N) | O(N) | Hash Table | | |
+| 295 | [Find Median from Data Stream](src/295.find-median-from-data-stream.py) | Hard | O(logN) | O(N) | Design, Hard, Heap | | |
+| 296 | [Best Meeting Point](src/296.py) | Hard | O(M*N) | O(M+N) | Premium, Math | | 🔒 |
+| 297 | [Serialize and Deserialize Binary Tree](src/297.serialize-and-deserialize-binary-tree.py) | Hard | O(N) | O(N) | Tree, Design | | |
+| 299 | [Bulls and Cows](src/229.majority-element-ii.py) | Easy | O(N) | O(N) | Hash Table | | |
+| 300 | [Longest Increasing Subsequence](src/300.longest-increasing-subsequence.py) | Medium | O(NlogN) | O(N) | Binary Search, Dynamic Programming | | |
+| 304 | [Range Sum Query 2D - Immutable](src/304.range-sum-query-2-d-immutable.py) | Medium | O(1) | O(R*C) | Dynamic Programming | Matrix Range Sum Trick | |
+| 310 | [Minimum Height Trees](src/310.minimum-height-trees.py) | Medium | O(V) | O(V) | BFS, Graph | | |
+| 316 | [Remove Duplicate Letters](src/316.remove-duplicate-letters.py) | Hard | O(N) | O(1) | Greedy, Tricky, Stack | | |
+| 317 | [Shortest Distance from All Buildings](src/317.py) | Hard | O(N\*M) | O(N\*M) | BFS, Premium | | 🔒 |
+| 319 | [Bulb Switcher](src/319.bulb-switcher.py) | Medium | O(1) | O(1) | Math, Tricky | | |
+| 320 | [Generalized Abbreviation](src/320.py) | Medium | O(N*2^N) | O(N) | Premium, Backtracking | | 🔒 |
+| 322 | [Coin Change](src/322.coin-change.py) | Medium | O(A*N) | O(A) | Dynamic Programming | | |
+| 328 | [Odd Even Linked List](src/328.odd-even-linked-list.py) | Medium | O(N) | O(1) | Linked List | | |
+| 329 | [Longest Increasing Path in a Matrix](src/329.longest-increasing-path-in-a-matrix.py) | Hard | O(R\*C) | O(R\*C) | DFS, Topology Sort, Memoization | | |
+| 334 | [Increasing Triplet Subsequence](src/334.increasing-triplet-subsequence.py) | Medium | O(N) | O(1) | Array | | |
+| 337 | [House Robber III](src/337.house-robber-iii.py) | Medium | O(N) | O(N) | Dynamic Programming, Tree, DFS | | |
+| 338 | [Counting Bits](src/338.counting-bits.py) | Medium | O(N) | O(N) | Dynamic Programming, Bit Manipulation | | |
+| 342 | [Power of Four](src/342.power-of-four.py) | Easy | O(1) | O(1) | Math, Bit Manipulation | | |
+| 344 | [Reverse String](src/344.reverse-string.py) | Easy | O(N) | O(1) | Two Pointers, String | | |
+| 346 | [Moving Average from Data Stream](src/346.py) | Easy | O(1) | O(N) | Premium, Design | | 🔒 |
+| 347 | [Top K Frequent Elements](src/347.top-k-frequent-elements.py) | Medium | O(N) | O(N) | Hash Table, Heap | | |
+| 348 | [Design Tic-Tac-Toe](src/348.py) | Medium | O(1) | O(N^2) | Premium, Design | | 🔒 |
+| 351 | [Android Unlock Patterns](src/351.py) | Medium | O(N!) | O(N) | Dynamic Programming, Backtracking, Premium | | 🔒 |
+| 354 | [Russian Doll Envelopes](src/354.russian-doll-envelopes.py) | Hard | O(NlogN) | O(N) | Binary Search, Dynamic Programming | | |
+| 357 | [Count Numbers with Unique Digits](src/357.count-numbers-with-unique-digits.py) | Medium | O(1) | O(1) | Math, Dynamic Programming, Backtracking | | |
+| 361 | [Bomb Enemy](src/361.py) | Medium | O(N\*M) | O(N\*M) | Premium, Dynamic Programming | | 🔒 |
+| 362 | [Design Hit Counter](src/362.py) | Medium | O(1) | O(N) | Design, Premium | | 🔒 |
+| 367 | [Valid Perfect Square](src/367.valid-perfect-square.py) | Easy | O(logN) | O(1) | Math, Binary Search | | |
+| 376 | [Wiggle Subsequence](src/376.wiggle-subsequence.py) | Medium | O(N) | O(1) | Greedy, Dynamic Programming | | |
+| 377 | [Combination Sum IV](src/377.combination-sum-iv.py) | Medium | O(T*N) | O(T) | Dynamic Programming | | |
+| 378 | [Kth Smallest Element in a Sorted Matrix](src/378.kth-smallest-element-in-a-sorted-matrix.py) | Medium | O(N^2logK) | O(K) | Heap, Binary Search | | |
 | 380 | Insert Delete GetRandom | Medium | O(1) | O(N) | Array, Hash Table, Design | | |
 | 384 | Shuffle an Array | Medium | O(N) | O(N) | | | |
 | 387 | First Unique Character in a String | Easy | O(N) | O(N) | | | |
