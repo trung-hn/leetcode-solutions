@@ -6,7 +6,7 @@
 ## My profile:
 https://leetcode.com/jummyegg/
 
-## Tips and Tricks for Beginner:
+## Tips to Improve your Skills:
 
 - Solve problem by Topic: when you first started, it is important to understand the topic quickly and solving 10-20 problems per topic is a good way to grasp it.
 - If you are using Python and are interested in writing Pythonic code, I created a repo for [Python tips and tricks](https://github.com/trung-hn/python-tips-and-tricks)
