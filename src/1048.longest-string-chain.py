@@ -41,7 +41,7 @@ class Solution:
                         longest_chain[option], longest_chain[word] + 1)
         return max(longest_chain.values()) + 1
 
-    # 132 ms, 71.74%. Time: O(N*logN + N*C*C). Space: O(N)
+    # 124 ms, 90.31%. Time: O(N*logN + N*C*C). Space: O(N)
     def longestStrChain(self, words: List[str]) -> int:
         # Search Space
         available = set(words)
