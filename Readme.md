@@ -34,41 +34,41 @@ https://leetcode.com/jummyegg/
 
 | # | Title | Level | Time | Space | Tags | Note | Premium 🔒 |
 |---|---|---|---|---|---|---|---|
-| 1 | Two Sum | Easy | O(N) | O(N) | | | |
-| 7 | Reverse Integer | Easy | O(log x) | O(1) | | Tricky | |
-| 11 | Container With Most Water | Medium | O(N) | O(1) | Array, Two Pointers | | |
-| 12 | Integer to Roman | Medium | O(N) | O(N) | Math, String | | |
-| 12 | Roman to Integer | Easy | O(N) | O(1) | Math, String | | |
-| 15 | 3Sum | Medium | O(N^2) | O(N^2) | Array, Two Pointers | | |
-| 17 | Letter Combinations of a Phone Number | Medium | O(2^2) | O(2^N) | String, Backtracking, DFS, Recursion | | |
-| 19 | Remove Nth Node From End of List | Medium | O(N) | O(1) | Linked List, Two Pointers | | |
-| 20 | Valid Parentheses | Easy | O(N) | O(N) | String, Stack | | |
-| 21 | Merge Two Sorted Lists | Easy | O(N) | O(1) | Linked List | | |
-| 22 | Generate Parentheses | Medium | Complex | Complex | String, Backtracking | | |
-| 24 | Swap Nodes in Pairs | Medium | O(N) | O(N) | Linked List | | |
-| 30 | Substring with Concatenation of All Words | Hard | O(NK) | O(K) | Array, Backtracking | | |
-| 32 | Longest Valid Parentheses | Hard | O(N) | O(N) | String, Dynamic Programming | | |
-| 34 | Find First and Last Position of Element in Sorted Array | Medium | O(logN) | O(1) | Array, Binary Search | Template for Binary Search | |
-| 39 | Combination Sum | Medium | O(N^2) | O(N) | Array, Backtracking | | |
-| 42 | Trapping Rain Water | Hard | O(N) | O(N) | Array, Two Pointers, Dynamic Programming, Stack | | |
-| 45 | Jump Game II | Medium | O(N) | O(1) | Array, Greedy | | |
-| 46 | Permutations | Medium | O(N!) | O(N!) | Backtracking | | |
-| 47 | Permutations II | Medium | O(N!) | O(N!) | Backtracking | | |
-| 48 | Rotate Image | Medium | O(N*M) | O(1) | Array | | |
-| 53 | Maximum Subarray | Easy | O(N) | O(1) | | | |
-| 57 | Insert Interval | Hard | O(N) | O(N) | Array, Sort, Greedy | | |
-| 59 | Spiral Matrix II | Medium | O(N^2) | O(N^2) | Array | | |
-| 61 | Rotate List | Medium | O(N) | O(1) | Linked List, Two Pointers | | |
-| 63 | Unique Paths II | Medium | O(M*N) | O(M) | Array, Dynamic Programming | | |
-| 71 | Simplify Path | Medium | O(N) | O(N) | String, Stack | | |
-| 72 | Edit Distance | Hard | O(N * M) | O(N) | String, Dynamic Programming | | |
-| 74 | Search a 2D Matrix | Medium | O(logN + logM) | O(1) | Binary Search | | |
-| 76 | Minimum Window Substring | Hard | O(S+T) | O(S+T) | Hash Table, Two Pointers, String, Sliding Window | | |
-| 78 | Subsets | Medium | O(N\*2^N) | O(N\*2^N) | Backtracking, Bit Manipulation | | |
-| 80 | Remove Duplicates from Sorted Array II | Medium | O(N) | O(1) | Array, Two Pointers | | |
-| 82 | Remove Duplicates from Sorted List II | Medium | O(N) | O(1) | Linked List | | |
-| 91 | Decode Ways | Medium | O(N) | O(N) | String, Dynamic Programming | | |
-| 99 | Recover Binary Search Tree | Hard | O(N) | O(N) | Tree, DFS | | |
+| 1 | [Two Sum](src/1.two-sum.py) | Easy | O(N) | O(N) | | | |
+| 7 | [Reverse Integer](src/7.reverse-integer.py) | Easy | O(log x) | O(1) | | Tricky | |
+| 11 | [Container With Most Water](src/11.container-with-most-water.py) | Medium | O(N) | O(1) | Array, Two Pointers | | |
+| 12 | [Integer to Roman](src/12.integer-to-roman.py) | Medium | O(N) | O(N) | Math, String | | |
+| 13 | [Roman to Integer](src/13.roman-to-integer.py) | Easy | O(N) | O(1) | Math, String | | |
+| 15 | [3Sum](src/15.3-sum.py) | Medium | O(N^2) | O(N^2) | Array, Two Pointers | | |
+| 17 | [Letter Combinations of a Phone Number](src/17.letter-combinations-of-a-phone-number.py) | Medium | O(2^2) | O(2^N) | String, Backtracking, DFS, Recursion | | |
+| 19 | [Remove Nth Node From End of List](src/19.remove-nth-node-from-end-of-list.py) | Medium | O(N) | O(1) | Linked List, Two Pointers | | |
+| 20 | [Valid Parentheses](src/20.valid-parentheses.py) | Easy | O(N) | O(N) | String, Stack | | |
+| 21 | [Merge Two Sorted Lists](src/21.merge-two-sorted-lists.py) | Easy | O(N) | O(1) | Linked List | | |
+| 22 | [Generate Parentheses](src/22.generate-parentheses.py) | Medium | Complex | Complex | String, Backtracking | | |
+| 24 | [Swap Nodes in Pairs](src/24.swap-nodes-in-pairs.py) | Medium | O(N) | O(N) | Linked List | | |
+| 30 | [Substring with Concatenation of All Words](src/30.substring-with-concatenation-of-all-words.py) | Hard | O(NK) | O(K) | Array, Backtracking | | |
+| 32 | [Longest Valid Parentheses](src/32.longest-valid-parentheses.py) | Hard | O(N) | O(N) | String, Dynamic Programming | | |
+| 34 | [Find First and Last Position of Element in Sorted Array](src/34.find-first-and-last-position-of-element-in-sorted-array.py) | Medium | O(logN) | O(1) | Array, Binary Search | Template for Binary Search | |
+| 39 | [Combination Sum](src/39.combination-sum.py) | Medium | O(N^2) | O(N) | Array, Backtracking | | |
+| 42 | [Trapping Rain Water](src/42.trapping-rain-water.py) | Hard | O(N) | O(N) | Array, Two Pointers, Dynamic Programming, Stack | | |
+| 45 | [Jump Game II](src/45.jump-game-ii.py) | Medium | O(N) | O(1) | Array, Greedy | | |
+| 46 | [Permutations](src/46.permutations.py) | Medium | O(N!) | O(N!) | Backtracking | | |
+| 47 | [Permutations II](src/47.permutations-ii.py) | Medium | O(N!) | O(N!) | Backtracking | | |
+| 48 | [Rotate Image](src/48.rotate-image.py) | Medium | O(N*M) | O(1) | Array | | |
+| 53 | [Maximum Subarray](src/53.maximum-subarray.py) | Easy | O(N) | O(1) | | | |
+| 57 | [Insert Interval](src/57.insert-interval.py) | Hard | O(N) | O(N) | Array, Sort, Greedy | | |
+| 59 | [Spiral Matrix II](src/59.spiral-matrix-ii.py) | Medium | O(N^2) | O(N^2) | Array | | |
+| 61 | [Rotate List](src/61.rotate-list.py) | Medium | O(N) | O(1) | Linked List, Two Pointers | | |
+| 63 | [Unique Paths II](src/63.unique-paths-ii.py) | Medium | O(M*N) | O(M) | Array, Dynamic Programming | | |
+| 71 | [Simplify Path](src/71.simplify-path.py) | Medium | O(N) | O(N) | String, Stack | | |
+| 72 | [Edit Distance](src/72.edit-distance.py) | Hard | O(N * M) | O(N) | String, Dynamic Programming | | |
+| 74 | [Search a 2D Matrix](src/74.search-a-2-d-matrix.py) | Medium | O(logN + logM) | O(1) | Binary Search | | |
+| 76 | [Minimum Window Substring](src/76.minimum-window-substring.py) | Hard | O(S+T) | O(S+T) | Hash Table, Two Pointers, String, Sliding Window | | |
+| 78 | [Subsets](src/78.subsets.py) | Medium | O(N\*2^N) | O(N\*2^N) | Backtracking, Bit Manipulation | | |
+| 80 | [Remove Duplicates from Sorted Array II](src/80.remove-duplicates-from-sorted-array-ii.py) | Medium | O(N) | O(1) | Array, Two Pointers | | |
+| 82 | [Remove Duplicates from Sorted List II](src/82.remove-duplicates-from-sorted-list-ii.py) | Medium | O(N) | O(1) | Linked List | | |
+| 91 | [Decode Ways](src/91.decode-ways.py) | Medium | O(N) | O(N) | String, Dynamic Programming | | |
+| 99 | [Recover Binary Search Tree](src/99.recover-binary-search-tree.py) | Hard | O(N) | O(N) | Tree, DFS | | |
 | 100 | Same Tree | Easy | O(N) | O(H) | Tree, Pythonic | | |
 | 107 | Binary Tree Level Order Traversal II | Easy | O(N) | O(N) | Tree, BFS | | |
 | 111 | Minimum Depth of Binary Tree | Easy | O(N) | O(H) | Tree, DFS, BFS | | |
