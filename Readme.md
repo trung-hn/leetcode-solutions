@@ -448,105 +448,105 @@ https://leetcode.com/jummyegg/
 | 1529 | [Bulb Switcher IV](src/1529.bulb-switcher-iv.py) | Medium | O(N) | O(1) | String | | |
 | 1530 | [Number of Good Leaf Nodes Pairs](src/1530.number-of-good-leaf-nodes-pairs.py) | Medium | O(N^2logN) | O(N) | Tree, DFS | | |
 | 1533 | [Find the Index of the Large Integer](src/1533.py) | Medium | O(logN) | O(1) | Premium, Binary Search | | 🔒 |
-| 1535 | [Find the Winner of an Array Game]() | Medium | O(N) | O(1) | Array | | |
-| 1539 | [Kth Missing Positive Number]() | Easy | O(logN) | O(1) | Binary Search | | |
-| 1544 | [Make The String Great]() | Easy | O(N) | O(N) | String, Stack | | |
-| 1545 | [Find Kth Bit in Nth Binary String]() | Medium | O(N^2) | O(N^2) | String | Not Optimal | |
-| 1550 | [Three Consecutive Odds]() | Easy | O(N) | O(1) | Array | | |
-| 1551 | [Minimum Operations to Make Array Equal]() | Medium | O(1) | O(1) | Math | | |
-| 1552 | [Magnetic Force Between Two Balls]() | Medium | O(NlogN) | O(1) | Binary Search | Template for Binary Search | |
-| 1556 | [Thousand Separator]() | Easy | O(N) | O(N) | String | | |
-| 1557 | [Minimum Number of Vertices to Reach All Nodes]() | Medium | O(N) | O(N) | Graph | | |
-| 1558 | [Minimum Numbers of Function Calls to Make Target Array]() | Medium | O(NlogK) | O(N) | Greedy, Simulation | | |
-| 1560 | [Most Visited Sector in a Circular Track]() | Easy | O(N) | O(1) | Array | | |
-| 1561 | [Maximum Number of Coins You Can Get]() | Medium | O(N) | O(1) | Sort | | |
-| 1564 | [Put Boxes Into the Warehouse I]() | Medium | O(NlogN) | O(N) | Greedy | | 🔒 |
-| 1566 | [Detect Pattern of Length M Repeated K or More Times]() | Easy | O(N) | O(1) | Array | | |
-| 1572 | [Matrix Diagonal Sum]() | Easy | O(N) | O(1) | Array | | |
-| 1573 | [Number of Ways to Split a String]() | Medium | O(N) | O(N) | String | | |
-| 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters]() | Easy | O(N) | O(N) | String | | |
-| 1578 | [Minimum Deletion Cost to Avoid Repeating Letters]() | Medium | O(N) | O(1) | Greedy | | |
-| 1580 | [Put Boxes Into the Warehouse II]() | Medium | O(NlogN) | O(N) | Greedy | | 🔒 |
-| 1582 | [Special Positions in a Binary Matrix]() | Easy | O(N) | O(N) | Array | | |
-| 1583 | [Count Unhappy Friends]() | Medium | O(N^2) | O(N^2) | Array | | |
-| 1588 | [Sum of All Odd Length Subarrays]() | Easy | O(N) | O(1) | Array | | |
-| 1592 | [Rearrange Spaces Between Words]() | Easy | O(N) | O(N) | String | | |
-| 1598 | [Crawler Log Folder]() | Easy | O(N) | O(1) | Stack | | |
-| 1600 | [Throne Inheritance]() | Medium | O(N) | O(N) | Tree, Design | | |
-| 1602 | [Find Nearest Right Node in Binary Tree]() | Medium | O(N) | O(N) | Premium, Tree, BFS | | 🔒 |
-| 1604 | [Alert Using Same Key-Card Three or More Times in a One Hour Period]() | Medium | O(NlogN) | O(N) | String, Ordered Map | | |
-| 1605 | [Find Valid Matrix Given Row and Column Sums]() | Medium | O(NM) | O(NM) | Greedy | | |
-| 1608 | [Special Array With X Elements Greater Than or Equal X]() | Easy | O(NlogN) | O(N) | Binary Search, Array | | |
-| 1609 | [Even Odd Tree]() | Easy | O(N) | O(N) | Tree | | |
-| 1614 | [Maximum Nesting Depth of the Parentheses]() | Easy | O(N) | O(1) | String | | |
-| 1615 | [Maximal Network Rank]() | Medium | O(N) | O(1) | Graph | | |
-| 1618 | [Maximum Font to Fit a Sentence in a Screen]() | Medium | O(logN) | O(1) | Premium, String, Binary Search | | 🔒 |
-| 1624 | [Largest Substring Between Two Equal Characters]() | Easy | O(N) | O(1) | String | | |
-| 1625 | [Lexicographically Smallest String After Applying Operations]() | Medium | O(N*N) | O(N) | BFS, DFS | | |
-| 1629 | [Slowest Key]() | Easy | O(N) | O(1) | String | | |
-| 1631 | [Path With Minimum Effort]() | Medium | O(N\*M\*logH) | O(M\*N) | Binary Search, DFS, BFS, Union Find, Graph | | |
-| 1634 | [Add Two Polynomials Represented as Linked Lists]() | Medium | O(N) | O(1) | Premium, Linked List | | 🔒 |
-| 1639 | [Number of Ways to Form a Target String Given a Dictionary]() | Hard | O(N\*M) | O(N\*M) | Dynamic Programming | | |
-| 1640 | [Check Array Formation Through Concatenation]() | Medium | O(N) | O(N) | Array | | |
-| 1641 | [Count Sorted Vowel Strings]() | Medium | O(N) | O(1) | Dynamic Programming, Math, Backtracking | | |
-| 1642 | [Furthest Building You Can Reach]() | Medium | O(NlogN) | O(N) | Binary Search, Heap | | |
-| 1644 | [Lowest Common Ancestor of a Binary Tree II]() | Medium | O(N) | O(H) | Premium, Tree | | 🔒 |
-| 1646 | [Get Maximum in Generated Array]() | Easy | O(N) | O(N) | Array | | |
-| 1647 | [Minimum Deletions to Make Character Frequencies Unique]() | Medium | O(1) | O(1) | Greedy, Sort | | |
-| 1650 | [Lowest Common Ancestor of a Binary Tree III]() | Medium | O(H) | O(1) | Premium, Tree | | 🔒 |
-| 1652 | [Defuse the Bomb]() | Medium | O(N) | O(N) | Array | | |
-| 1653 | [Minimum Deletions to Make String Balanced]() | Medium | O(N) | O(N) | Greedy, String | | |
-| 1656 | [Design an Ordered Stream]() | Easy | O(N) | O(N) | Array, Design | | |
-| 1657 | [Determine if Two Strings Are Close]() | Medium | O(N) | O(1) | Greedy | | |
-| 1658 | [Minimum Operations to Reduce X to Zero]() | Medium | O(N) | O(N) | Greedy, Sliding Window | | |
-| 1663 | [Smallest String With A Given Numeric Value]() | Medium | O(N) | O(1) | Greedy | | |
-| 1664 | [Ways to Make a Fair Array]() | Medium | O(N) | O(1) | Dynamic Programming, Greedy | | |
-| 1673 | [Find the Most Competitive Subsequence]() | Medium | O(N) | O(K) | Stack, Heap, Greedy, Queue | | |
-| 1679 | [Max Number of K-Sum Pairs]() | Medium | O(N) | O(N) | Hash Table | | |
-| 1684 | [Count the Number of Consistent Strings]() | Easy | O(N) | O(1) | String | | |
-| 1685 | [Sum of Absolute Differences in a Sorted Array]() | Medium | O(N) | O(N) | Math, Greedy | | |
-| 1695 | [Maximum Erasure Value]() | Medium | O(N) | O(1) | Two Pointers | | |
-| 1700 | [Number of Students Unable to Eat Lunch]() | Medium | O(N) | O(1) | Array | | |
-| 1705 | [Maximum Number of Eaten Apples]() | Medium | O(NlogN) | O(N) | Heap, Greedy | | |
-| 1706 | [Where Will the Ball Fall]() | Medium | O(N*M) | O(M) | Dynamic Programming | | |
-| 1710 | [Maximum Units on a Truck]() | Medium | O(NlogN) | O(N) | Greedy, Sort | | |
-| 1716 | [Calculate Money in Leetcode Bank]() | Easy | O(N) | O(1) | Math, Greedy | | |
-| 1721 | [Swapping Nodes in a Linked List]() | Medium | O(N) | O(1) | Linked List | | |
-| 1725 | [Number Of Rectangles That Can Form The Largest Square]() | Easy | O(N) | O(1) | Greedy | | |
-| 1726 | [Tuple with Same Product]() | Medium | O(N^2) | O(N) | Array, Hash Table | | |
-| 1732 | [Find the Highest Altitude]() | Easy | O(N) | O(1) | Array | | |
-| 1736 | [Latest Time by Replacing Hidden Digits]() | Easy | O(1) | O(1) | String, Greedy | | |
-| 1748 | [Sum of Unique Elements]() | Easy | O(N) | O(N) | Array, Hash Table | | |
-| 1749 | [Maximum Absolute Sum of Any Subarray]() | Medium | O(N) | O(1) | Greedy | | |
-| 1750 | [Minimum Length of String After Deleting Similar Ends]() | Medium | O(N) | O(1) | Two Pointers | | |
-| 1752 | [Check if Array Is Sorted and Rotated]() | Easy | O(N) | O(1) | Array | | |
-| 1753 | [Maximum Score From Removing Stones]() | Medium | O(1) | O(1) | Math, Heap | | |
-| 1758 | [Minimum Changes To Make Alternating Binary String]() | Easy | O(N) | O(1) | Array, Greedy | | |
-| 1759 | [Count Number of Homogenous Substrings]() | Medium | O(N) | O(1) | String, Greedy | | |
-| 1763 | [Longest Nice Substring]() | Easy | O(NlogN) | O(N) | String | | |
-| 1764 | [Form Array by Concatenating Subarrays of Another Array]() | Medium | O(N+M) | O(M) | Array, Greedy | New Algorithm (KMP) | |
-| 1765 | [Map of Highest Peak]() | Medium | O(N\*M) | O(N\*M) | BFS, Graph | | |
-| 1768 | [Merge Strings Alternately]() | Easy | O(N) | O(N) | String | | |
-| 1769 | [Minimum Number of Operations to Move All Balls to Each Box]() | Medium | O(N) | O(N) | Array, Greedy | | |
-| 1773 | [Count Items Matching a Rule]() | Easy | O(N) | O(1) | Array, String | | |
-| 1774 | [Closest Dessert Cost]() | Medium | O(N\*M\*V) | O(M\*V) | Greedy | | |
-| 1779 | [Find Nearest Point That Has the Same X or Y Coordinate]() | Easy | O(N) | O(1) | Array | | |
-| 1780 | [Check if Number is a Sum of Powers of Three]() | Medium | O(logN) | O(1) | Math, Backtracking, Recursion | | |
-| 1783 | [Sum of Beauty of All Substrings]() | Medium | O(N^2) | O(1) | Hash Table, String | | |
-| 1784 | [Check if Binary String Has at Most One Segment of Ones]() | Easy | O(N) | O(1) | Greedy | | |
-| 1791 | [Find Center of Star Graph]() | Medium | O(1) | O(1) | Graph | | |
-| 1792 | [Maximum Average Pass Ratio]() | Medium | O(N+KlogN) | O(N) | Heap | | |
-| 1797 | [Design Authentication Manager]() | Medium | O(Design) | O(N) | Hash Table, Design | | |
-| 1816 | [Truncate Sentence]() | Easy | O(N) | O(1) | String | | |
-| 1818 | [Minimum Absolute Sum Difference]() | Medium | O(NlogN) | O(sort) | Binary Search, Greedy | | |
-| 1827 | [Minimum Operations to Make the Array Increasing]() | Easy | O(N) | O(1) | Array, Greedy | | |
-| 1828 | [Queries on Number of Points Inside a Circle]() | Medium | O(N*M) | O(M) | Math | | |
-| 1832 | [Check if the Sentence Is Pangram]() | Easy | O(N) | O(1) | String | | |
-| 1833 | [Maximum Ice Cream Bars]() | Medium | O(NlogN) | O(sort) | Array, Sort | | |
-| 1837 | [Sum of Digits in Base K]() | Medium | O(logN) | O(1) | Math, Bit Manipulation | | |
-| 1839 | [Longest Substring Of All Vowels in Order]() | Medium | O(N) | O(1) | Two Pointers, String | | |
-| 1844 | [Replace All Digits with Characters]() | Easy | O(N) | O(N) | String | | |
-| 1845 | [Seat Reservation Manager]() | Medium | O(logN) | O(N) | Heap, Design | | |
+| 1535 | [Find the Winner of an Array Game](src/1535.find-the-winner-of-an-array-game.py) | Medium | O(N) | O(1) | Array | | |
+| 1539 | [Kth Missing Positive Number](src/1539.kth-missing-positive-number.py) | Easy | O(logN) | O(1) | Binary Search | | |
+| 1544 | [Make The String Great](src/1544.make-the-string-great.py) | Easy | O(N) | O(N) | String, Stack | | |
+| 1545 | [Find Kth Bit in Nth Binary String](src/1545.find-kth-bit-in-nth-binary-string.py) | Medium | O(N^2) | O(N^2) | String | Not Optimal | |
+| 1550 | [Three Consecutive Odds](src/1550.three-consecutive-odds.py) | Easy | O(N) | O(1) | Array | | |
+| 1551 | [Minimum Operations to Make Array Equal](src/1551.minimum-operations-to-make-array-equal.py) | Medium | O(1) | O(1) | Math | | |
+| 1552 | [Magnetic Force Between Two Balls](src/1552.magnetic-force-between-two-balls.py) | Medium | O(NlogN) | O(1) | Binary Search | Template for Binary Search | |
+| 1556 | [Thousand Separator](src/1556.thousand-separator.py) | Easy | O(N) | O(N) | String | | |
+| 1557 | [Minimum Number of Vertices to Reach All Nodes](src/1557.minimum-number-of-vertices-to-reach-all-nodes.py) | Medium | O(N) | O(N) | Graph | | |
+| 1558 | [Minimum Numbers of Function Calls to Make Target Array](src/1558.minimum-numbers-of-function-calls-to-make-target-array.py) | Medium | O(NlogK) | O(N) | Greedy, Simulation | | |
+| 1560 | [Most Visited Sector in a Circular Track](src/1560.most-visited-sector-in-a-circular-track.py) | Easy | O(N) | O(1) | Array | | |
+| 1561 | [Maximum Number of Coins You Can Get](src/1561.maximum-number-of-coins-you-can-get.py) | Medium | O(N) | O(1) | Sort | | |
+| 1564 | [Put Boxes Into the Warehouse I](src/1564.py) | Medium | O(NlogN) | O(N) | Greedy | | 🔒 |
+| 1566 | [Detect Pattern of Length M Repeated K or More Times](src/1566.detect-pattern-of-length-m-repeated-k-or-more-times.py) | Easy | O(N) | O(1) | Array | | |
+| 1572 | [Matrix Diagonal Sum](src/1572.matrix-diagonal-sum.py) | Easy | O(N) | O(1) | Array | | |
+| 1573 | [Number of Ways to Split a String](src/1573.number-of-ways-to-split-a-string.py) | Medium | O(N) | O(N) | String | | |
+| 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](src/1576.replace-all-s-to-avoid-consecutive-repeating-characters.py) | Easy | O(N) | O(N) | String | | |
+| 1578 | [Minimum Deletion Cost to Avoid Repeating Letters](src/1578.minimum-deletion-cost-to-avoid-repeating-letters.py) | Medium | O(N) | O(1) | Greedy | | |
+| 1580 | [Put Boxes Into the Warehouse II](src/1580.py) | Medium | O(NlogN) | O(N) | Greedy | | 🔒 |
+| 1582 | [Special Positions in a Binary Matrix](src/1582.special-positions-in-a-binary-matrix.py) | Easy | O(N) | O(N) | Array | | |
+| 1583 | [Count Unhappy Friends](src/1583.count-unhappy-friends.py) | Medium | O(N^2) | O(N^2) | Array | | |
+| 1588 | [Sum of All Odd Length Subarrays](src/1588.sum-of-all-odd-length-subarrays.py) | Easy | O(N) | O(1) | Array | | |
+| 1592 | [Rearrange Spaces Between Words](src/1592.rearrange-spaces-between-words.py) | Easy | O(N) | O(N) | String | | |
+| 1598 | [Crawler Log Folder](src/1598.crawler-log-folder.py) | Easy | O(N) | O(1) | Stack | | |
+| 1600 | [Throne Inheritance](src/1600.throne-inheritance.py) | Medium | O(N) | O(N) | Tree, Design | | |
+| 1602 | [Find Nearest Right Node in Binary Tree](src/1602.py) | Medium | O(N) | O(N) | Premium, Tree, BFS | | 🔒 |
+| 1604 | [Alert Using Same Key-Card Three or More Times in a One Hour Period](src/1604.alert-using-same-key-card-three-or-more-times-in-a-one-hour-period.py) | Medium | O(NlogN) | O(N) | String, Ordered Map | | |
+| 1605 | [Find Valid Matrix Given Row and Column Sums](src/1605.find-valid-matrix-given-row-and-column-sums.py) | Medium | O(NM) | O(NM) | Greedy | | |
+| 1608 | [Special Array With X Elements Greater Than or Equal X](src/1608.special-array-with-x-elements-greater-than-or-equal-x.py) | Easy | O(NlogN) | O(N) | Binary Search, Array | | |
+| 1609 | [Even Odd Tree](src/1609.even-odd-tree.py) | Easy | O(N) | O(N) | Tree | | |
+| 1614 | [Maximum Nesting Depth of the Parentheses](src/1614.maximum-nesting-depth-of-the-parentheses.py) | Easy | O(N) | O(1) | String | | |
+| 1615 | [Maximal Network Rank](src/1615.maximal-network-rank.py) | Medium | O(N) | O(1) | Graph | | |
+| 1618 | [Maximum Font to Fit a Sentence in a Screen](src/1618.py) | Medium | O(logN) | O(1) | Premium, String, Binary Search | | 🔒 |
+| 1624 | [Largest Substring Between Two Equal Characters](src/1624.largest-substring-between-two-equal-characters.py) | Easy | O(N) | O(1) | String | | |
+| 1625 | [Lexicographically Smallest String After Applying Operations](src/1625.lexicographically-smallest-string-after-applying-operations.py) | Medium | O(N*N) | O(N) | BFS, DFS | | |
+| 1629 | [Slowest Key](src/1629.slowest-key.py) | Easy | O(N) | O(1) | String | | |
+| 1631 | [Path With Minimum Effort](src/1631.path-with-minimum-effort.py) | Medium | O(N\*M\*logH) | O(M\*N) | Binary Search, DFS, BFS, Union Find, Graph | | |
+| 1634 | [Add Two Polynomials Represented as Linked Lists](src/1634.py) | Medium | O(N) | O(1) | Premium, Linked List | | 🔒 |
+| 1639 | [Number of Ways to Form a Target String Given a Dictionary](src/1639.number-of-ways-to-form-a-target-string-given-a-dictionary.py) | Hard | O(N\*M) | O(N\*M) | Dynamic Programming | | |
+| 1640 | [Check Array Formation Through Concatenation](src/1640.check-array-formation-through-concatenation.py) | Medium | O(N) | O(N) | Array | | |
+| 1641 | [Count Sorted Vowel Strings](src/1641.count-sorted-vowel-strings.py) | Medium | O(N) | O(1) | Dynamic Programming, Math, Backtracking | | |
+| 1642 | [Furthest Building You Can Reach](src/1642.furthest-building-you-can-reach.py) | Medium | O(NlogN) | O(N) | Binary Search, Heap | | |
+| 1644 | [Lowest Common Ancestor of a Binary Tree II](src/1644.py) | Medium | O(N) | O(H) | Premium, Tree | | 🔒 |
+| 1646 | [Get Maximum in Generated Array](src/1646.get-maximum-in-generated-array.py) | Easy | O(N) | O(N) | Array | | |
+| 1647 | [Minimum Deletions to Make Character Frequencies Unique](src/1647.minimum-deletions-to-make-character-frequencies-unique.py) | Medium | O(1) | O(1) | Greedy, Sort | | |
+| 1650 | [Lowest Common Ancestor of a Binary Tree III](src/1650.py) | Medium | O(H) | O(1) | Premium, Tree | | 🔒 |
+| 1652 | [Defuse the Bomb](src/1652.defuse-the-bomb.py) | Medium | O(N) | O(N) | Array | | |
+| 1653 | [Minimum Deletions to Make String Balanced](src/1653.minimum-deletions-to-make-string-balanced.py) | Medium | O(N) | O(N) | Greedy, String | | |
+| 1656 | [Design an Ordered Stream](src/1656.design-an-ordered-stream.py) | Easy | O(N) | O(N) | Array, Design | | |
+| 1657 | [Determine if Two Strings Are Close](src/1657.determine-if-two-strings-are-close.py) | Medium | O(N) | O(1) | Greedy | | |
+| 1658 | [Minimum Operations to Reduce X to Zero](src/1658.minimum-operations-to-reduce-x-to-zero.py) | Medium | O(N) | O(N) | Greedy, Sliding Window | | |
+| 1663 | [Smallest String With A Given Numeric Value](src/1663.smallest-string-with-a-given-numeric-value.py) | Medium | O(N) | O(1) | Greedy | | |
+| 1664 | [Ways to Make a Fair Array](src/1664.ways-to-make-a-fair-array.py) | Medium | O(N) | O(1) | Dynamic Programming, Greedy | | |
+| 1673 | [Find the Most Competitive Subsequence](src/1673.find-the-most-competitive-subsequence.py) | Medium | O(N) | O(K) | Stack, Heap, Greedy, Queue | | |
+| 1679 | [Max Number of K-Sum Pairs](src/1679.max-number-of-k-sum-pairs.py) | Medium | O(N) | O(N) | Hash Table | | |
+| 1684 | [Count the Number of Consistent Strings](src/1684.count-the-number-of-consistent-strings.py) | Easy | O(N) | O(1) | String | | |
+| 1685 | [Sum of Absolute Differences in a Sorted Array](src/1685.sum-of-absolute-differences-in-a-sorted-array.py) | Medium | O(N) | O(N) | Math, Greedy | | |
+| 1695 | [Maximum Erasure Value](src/1695.maximum-erasure-value.py) | Medium | O(N) | O(1) | Two Pointers | | |
+| 1700 | [Number of Students Unable to Eat Lunch](src/1700.number-of-students-unable-to-eat-lunch.py) | Medium | O(N) | O(1) | Array | | |
+| 1705 | [Maximum Number of Eaten Apples](src/1705.maximum-number-of-eaten-apples.py) | Medium | O(NlogN) | O(N) | Heap, Greedy | | |
+| 1706 | [Where Will the Ball Fall](src/1706.where-will-the-ball-fall.py) | Medium | O(N*M) | O(M) | Dynamic Programming | | |
+| 1710 | [Maximum Units on a Truck](src/1710.maximum-units-on-a-truck.py) | Medium | O(NlogN) | O(N) | Greedy, Sort | | |
+| 1716 | [Calculate Money in Leetcode Bank](src/1716.calculate-money-in-leetcode-bank.py) | Easy | O(N) | O(1) | Math, Greedy | | |
+| 1721 | [Swapping Nodes in a Linked List](src/1721.swapping-nodes-in-a-linked-list.py) | Medium | O(N) | O(1) | Linked List | | |
+| 1725 | [Number Of Rectangles That Can Form The Largest Square](src/1725.number-of-rectangles-that-can-form-the-largest-square.py) | Easy | O(N) | O(1) | Greedy | | |
+| 1726 | [Tuple with Same Product](src/1726.tuple-with-same-product.py) | Medium | O(N^2) | O(N) | Array, Hash Table | | |
+| 1732 | [Find the Highest Altitude](src/1732.find-the-highest-altitude.py) | Easy | O(N) | O(1) | Array | | |
+| 1736 | [Latest Time by Replacing Hidden Digits](src/1736.latest-time-by-replacing-hidden-digits.py) | Easy | O(1) | O(1) | String, Greedy | | |
+| 1748 | [Sum of Unique Elements](src/1748.sum-of-unique-elements.py) | Easy | O(N) | O(N) | Array, Hash Table | | |
+| 1749 | [Maximum Absolute Sum of Any Subarray](src/1749.maximum-absolute-sum-of-any-subarray.py) | Medium | O(N) | O(1) | Greedy | | |
+| 1750 | [Minimum Length of String After Deleting Similar Ends](src/1750.minimum-length-of-string-after-deleting-similar-ends.py) | Medium | O(N) | O(1) | Two Pointers | | |
+| 1752 | [Check if Array Is Sorted and Rotated](src/1752.check-if-array-is-sorted-and-rotated.py) | Easy | O(N) | O(1) | Array | | |
+| 1753 | [Maximum Score From Removing Stones](src/1753.maximum-score-from-removing-stones.py) | Medium | O(1) | O(1) | Math, Heap | | |
+| 1758 | [Minimum Changes To Make Alternating Binary String](src/1758.minimum-changes-to-make-alternating-binary-string.py) | Easy | O(N) | O(1) | Array, Greedy | | |
+| 1759 | [Count Number of Homogenous Substrings](src/1759.count-number-of-homogenous-substrings.py) | Medium | O(N) | O(1) | String, Greedy | | |
+| 1763 | [Longest Nice Substring](src/1763.longest-nice-substring.py) | Easy | O(NlogN) | O(N) | String | | |
+| 1764 | [Form Array by Concatenating Subarrays of Another Array](src/1764.form-array-by-concatenating-subarrays-of-another-array.py) | Medium | O(N+M) | O(M) | Array, Greedy | New Algorithm (KMP) | |
+| 1765 | [Map of Highest Peak](src/1765.map-of-highest-peak.py) | Medium | O(N\*M) | O(N\*M) | BFS, Graph | | |
+| 1768 | [Merge Strings Alternately](src/1768.merge-strings-alternately.py) | Easy | O(N) | O(N) | String | | |
+| 1769 | [Minimum Number of Operations to Move All Balls to Each Box](src/1769.minimum-number-of-operations-to-move-all-balls-to-each-box.py) | Medium | O(N) | O(N) | Array, Greedy | | |
+| 1773 | [Count Items Matching a Rule](src/1773.count-items-matching-a-rule.py) | Easy | O(N) | O(1) | Array, String | | |
+| 1774 | [Closest Dessert Cost](src/1774.closest-dessert-cost.py) | Medium | O(N\*M\*V) | O(M\*V) | Greedy | | |
+| 1779 | [Find Nearest Point That Has the Same X or Y Coordinate](src/1779.find-nearest-point-that-has-the-same-x-or-y-coordinate.py) | Easy | O(N) | O(1) | Array | | |
+| 1780 | [Check if Number is a Sum of Powers of Three](src/1780.check-if-number-is-a-sum-of-powers-of-three.py) | Medium | O(logN) | O(1) | Math, Backtracking, Recursion | | |
+| 1781 | [Sum of Beauty of All Substrings](src/1781.sum-of-beauty-of-all-substrings.py) | Medium | O(N^2) | O(1) | Hash Table, String | | |
+| 1784 | [Check if Binary String Has at Most One Segment of Ones](src/1784.check-if-binary-string-has-at-most-one-segment-of-ones.py) | Easy | O(N) | O(1) | Greedy | | |
+| 1791 | [Find Center of Star Graph](src/1791.find-center-of-star-graph.py) | Medium | O(1) | O(1) | Graph | | |
+| 1792 | [Maximum Average Pass Ratio](src/1792.maximum-average-pass-ratio.py) | Medium | O(N+KlogN) | O(N) | Heap | | |
+| 1797 | [Design Authentication Manager](src/1797.design-authentication-manager.py) | Medium | O(Design) | O(N) | Hash Table, Design | | |
+| 1816 | [Truncate Sentence](src/1816.truncate-sentence.py) | Easy | O(N) | O(1) | String | | |
+| 1818 | [Minimum Absolute Sum Difference](src/1818.minimum-absolute-sum-difference.py) | Medium | O(NlogN) | O(sort) | Binary Search, Greedy | | |
+| 1827 | [Minimum Operations to Make the Array Increasing](src/1827.minimum-operations-to-make-the-array-increasing.py) | Easy | O(N) | O(1) | Array, Greedy | | |
+| 1828 | [Queries on Number of Points Inside a Circle](src/1828.queries-on-number-of-points-inside-a-circle.py) | Medium | O(N*M) | O(M) | Math | | |
+| 1832 | [Check if the Sentence Is Pangram](src/1832.check-if-the-sentence-is-pangram.py) | Easy | O(N) | O(1) | String | | |
+| 1833 | [Maximum Ice Cream Bars](src/1833.maximum-ice-cream-bars.py) | Medium | O(NlogN) | O(sort) | Array, Sort | | |
+| 1837 | [Sum of Digits in Base K](src/1837.sum-of-digits-in-base-k.py) | Medium | O(logN) | O(1) | Math, Bit Manipulation | | |
+| 1839 | [Longest Substring Of All Vowels in Order](src/1839.longest-substring-of-all-vowels-in-order.py) | Medium | O(N) | O(1) | Two Pointers, String | | |
+| 1844 | [Replace All Digits with Characters](src/1844.replace-all-digits-with-characters.py) | Easy | O(N) | O(N) | String | | |
+| 1845 | [Seat Reservation Manager](src/1845.seat-reservation-manager.py) | Medium | O(logN) | O(N) | Heap, Design | | |
 
 # Useful Posts:
 
