@@ -161,72 +161,72 @@ https://leetcode.com/jummyegg/
 | 376 | [Wiggle Subsequence](src/376.wiggle-subsequence.py) | Medium | O(N) | O(1) | Greedy, Dynamic Programming | | |
 | 377 | [Combination Sum IV](src/377.combination-sum-iv.py) | Medium | O(T*N) | O(T) | Dynamic Programming | | |
 | 378 | [Kth Smallest Element in a Sorted Matrix](src/378.kth-smallest-element-in-a-sorted-matrix.py) | Medium | O(N^2logK) | O(K) | Heap, Binary Search | | |
-| 380 | Insert Delete GetRandom | Medium | O(1) | O(N) | Array, Hash Table, Design | | |
-| 384 | Shuffle an Array | Medium | O(N) | O(N) | | | |
-| 387 | First Unique Character in a String | Easy | O(N) | O(N) | | | |
-| 389 | Find the Difference | Medium | O(N) | O(1) | Hash Table, Bit Manipulation | | |
-| 394 | Decode String | Medium | O(maxK*N) | O(N) | Stack, DFS | | |
-| 395 | Longest Substring with At Least K Repeating Characters | Medium | O(NlogN) | O(N) | Divide and Conquer, Recursion, Sliding Window | | |
-| 399 | Evaluate Division | Medium | O(N*M) | O(N) | Union Find, Graph | | |
-| 402 | Remove K Digits | Medium | O(N) | O(N) | Greedy | | |
-| 404 | Sum of Left Leaves | Easy | O(N) | O(H) | Tree | | |
-| 406 | Queue Reconstruction by Height | Medium | O(N^2) | O(N) | Greedy | Clever solution | |
-| 413 | Arithmetic Slices | Medium | O(N) | O(1) | Math, Dynamic Programming | | |
-| 416 | Partition Equal Subset Sum | Medium | O(M*N) | O(M) | Dynamic Programming | | |
-| 417 | Pacific Atlantic Water Flow | Medium | O(R\*C) | O(R\*C) | DFS, BFS | | |
-| 419 | Battleships in a Board | Medium | O(N*N) | O(1) | Array, DFS | | |
-| 425 | Word Squares | Hard | Complex | Complex | Back Tracking, Trie, Premium | | 🔒 |
-| 423 | Reconstruct Original Digits from English | Medium | O(N) | O(N) | Math | | |
-| 428 | Serialize and Deserialize N-ary Tree | Hard | O(N) | O(H) | Tree, Premium | | 🔒 |
-| 431 | Encode N-ary Tree to Binary Tree | Hard | O(N) | O(H) | Tree, Premium | | 🔒 |
-| 435 | Non-overlapping Intervals | Medium | O(NlogN) | O(1) | Greedy | Tricky, Hard | |
-| 436 | Find Right Interval | Medium | O(NlogN) | O(N) | Binary Search | Bad Description | |
-| 437 | Path Sum III | Medium | O(N) | O(N) | Tree | Tricky, Hard | |
-| 438 | Find All Anagrams in a String | Medium | O(N_s + N_p) | O(1) | Hash Table | | |
-| 442 | Find All Duplicates in an Array | Medium | O(N) | O(1) | Array | | |
-| 445 | Add Two Numbers II | Medium | O(N) | O(N) | Linked List | | |
-| 449 | Serialize and Deserialize BST | Medium | O(N) | O(N) | Tree | | |
-| 450 | Delete Node in a BST | Medium | O(H) | O(H) | Binary Search Tree | | |
-| 451 | Sort Characters By Frequency | Medium | O(N) | O(N) | Hash Table, Sorting, Pythonic | | |
-| 452 | Minimum Number of Arrows to Burst Balloons | Medium | O(NlogN) | O(1) | Sort, Greedy | | |
-| 454 | 4Sum II | Medium | O(N^2) | O(N^2) | Array | | |
-| 456 | 132 Pattern | Medium | O(N) | O(N) | Stack | | |
-| 458 | Poor Pigs | Hard | O(1) | O(1) | Math | | |
-| 462 | Minimum Moves to Equal Array Elements II | Median | O(NlogN) | O(N) | Math | | |
-| 463 | Island Perimeter | Easy | O(N*M) | O(1) | Greedy | | |
-| 470 | Implement Rand10() Using Rand7() | Medium | O(1) | O(1) | Math | | |
-| 474 | Ones and Zeroes | Medium | O(K\*M\*N) | O(K\*M\*N) | Dynamic Programming | | |
-| 476 | Number Complement | Easy | O(N) | O(1) | Bit Manipulation | | |
-| 478 | Generate Random Point in a Circle | Medium | O(1) | O(1) | Math, Random, Rejection Sampling | | |
-| 491 | Increasing Subsequences | Medium | O(Combination) | O(Combination) | DFS | | |
-| 494 | Target Sum | Medium | O(N\*T) | O(T) | Dynamic Programming, DFS | Template for DP | |
-| 495 | Teemo Attacking | Medium | O(N) | O(1) | Array | | |
-| 497 | Random Point in Non-overlapping Rectangles | Medium | O(logN) | O(N) | Design, Binary Search | | |
-| 498 | Diagonal Traverse | Medium | O(R\*C) | O(R\*C) | Array | | |
-| 510 | Inorder Successor in BST II | Medium | O(H) | O(1) | Tree, Premium | | 🔒 |
-| 520 | Detect Capital | Easy | O(N) | O(1) | | | |
-| 524 | Longest Word in Dictionary through Deleting | Medium | Complex | Complex | Two Pointers, Sort | | |
-| 525 | Contiguous Array | Medium | O(N) | O(N) | Hash Table | Very good problem | |
-| 528 | Random Pick with Weight | Medium | O(N), O(logN) | O(N), O(1) | Binary Search, Random | Pythonic | |
-| 532 | K-diff Pairs in an Array | Medium | O(N) | O(N) | Array, Two Pointers | | |
-| 538 | Convert BST to Greater Tree | Medium | O(N) | O(H) | Tree, BFS, DFS, Recursion | | |
-| 540 | Single Element in a Sorted Array | Medium | O(logN) | O(1) | Binary Search | | |
-| 542 | 01 Matrix | Medium | O(R\*C) | O(R\*C) | BFS, DFS | | |
-| 544 | Brick Wall | Medium | O(N) | O(N) | Hash Table | | |
-| 563 | Binary Tree Tilt | Easy | O(N) | O(H) | Tree, DFS, Recursion | | |
-| 567 | Permutation in String | Medium | O(S1 + S2) | O(1) | String, Two Pointers, Sliding Window | | |
-| 573 | Squirrel Simulation | Medium | O(N) | O(1) | Premium, Math | | 🔒 |
-| 581 | Shortest Unsorted Continuous Subarray | Medium | O(N) | O(1) | Array | | |
-| 583 | Delete Operation for Two Strings | Medium | O(N^2) | O(N) | Dynamic Programming, String | | |
-| 589 | N-ary Tree Preorder Traversal | Easy | O(N) | O(N) | Tree | | |
-| 593 | Valid Square | Medium | O(1) | O(1) | Math | | |
-| 605 | Can Place Flowers | Easy | O(N) | O(1) | Array, Greedy | | |
-| 622 | Design Circular Queue | Medium | O(1) | O(1) | Design, Queue | | |
-| 623 | Add One Row to Tree | Medium | O(N) | O(N) | Tree | | |
-| 624 | Maximum Distance in Arrays | Easy | O(N) | O(1) | Hash Table, Array, Premium | | 🔒 |
-| 646 | Maximum Length of Pair Chain | Medium | O(NlogN) | O(N) | Greedy, Dynamic Programming | | |
-| 655 | Print Binary Tree | Medium | O(N) | O(H) | Tree | | |
-| 658 | Find K Closest Elements | Medium | O(logN+K) | O(K) | Tree | | |
+| 380 | [Insert Delete GetRandom](src/380.insert-delete-get-random-o-1.py) | Medium | O(1) | O(N) | Array, Hash Table, Design | | |
+| 384 | [Shuffle an Array](src/384.shuffle-an-array.py) | Medium | O(N) | O(N) | | | |
+| 387 | [First Unique Character in a String](src/387.first-unique-character-in-a-string.py) | Easy | O(N) | O(N) | | | |
+| 389 | [Find the Difference](src/389.find-the-difference.py) | Medium | O(N) | O(1) | Hash Table, Bit Manipulation | | |
+| 394 | [Decode String](src/394.decode-string.py) | Medium | O(maxK*N) | O(N) | Stack, DFS | | |
+| 395 | [Longest Substring with At Least K Repeating Characters](src/395.longest-substring-with-at-least-k-repeating-characters.py) | Medium | O(NlogN) | O(N) | Divide and Conquer, Recursion, Sliding Window | | |
+| 399 | [Evaluate Division](src/399.evaluate-division.py) | Medium | O(N*M) | O(N) | Union Find, Graph | | |
+| 402 | [Remove K Digits](src/402.remove-k-digits.py) | Medium | O(N) | O(N) | Greedy | | |
+| 404 | [Sum of Left Leaves](src/404.sum-of-left-leaves.py) | Easy | O(N) | O(H) | Tree | | |
+| 406 | [Queue Reconstruction by Height](src/406.queue-reconstruction-by-height.py) | Medium | O(N^2) | O(N) | Greedy | Clever solution | |
+| 413 | [Arithmetic Slices](src/413.arithmetic-slices.py) | Medium | O(N) | O(1) | Math, Dynamic Programming | | |
+| 416 | [Partition Equal Subset Sum](src/416.partition-equal-subset-sum.py) | Medium | O(M*N) | O(M) | Dynamic Programming | | |
+| 417 | [Pacific Atlantic Water Flow](src/417.pacific-atlantic-water-flow.py) | Medium | O(R\*C) | O(R\*C) | DFS, BFS | | |
+| 419 | [Battleships in a Board](src/419.battleships-in-a-board.py) | Medium | O(N*N) | O(1) | Array, DFS | | |
+| 423 | [Reconstruct Original Digits from English](src/423.reconstruct-original-digits-from-english.py) | Medium | O(N) | O(N) | Math | | |
+| 425 | [Word Squares](src/425.py) | Hard | Complex | Complex | Back Tracking, Trie, Premium | | 🔒 |
+| 428 | [Serialize and Deserialize N-ary Tree](src/428.py) | Hard | O(N) | O(H) | Tree, Premium | | 🔒 |
+| 431 | [Encode N-ary Tree to Binary Tree](src/431.py) | Hard | O(N) | O(H) | Tree, Premium | | 🔒 |
+| 435 | [Non-overlapping Intervals](src/435.non-overlapping-intervals.py) | Medium | O(NlogN) | O(1) | Greedy | Tricky, Hard | |
+| 436 | [Find Right Interval](src/436.find-right-interval.py) | Medium | O(NlogN) | O(N) | Binary Search | Bad Description | |
+| 437 | [Path Sum III](src/437.path-sum-iii.py) | Medium | O(N) | O(N) | Tree | Tricky, Hard | |
+| 438 | [Find All Anagrams in a String](src/438.find-all-anagrams-in-a-string.py) | Medium | O(N_s + N_p) | O(1) | Hash Table | | |
+| 442 | [Find All Duplicates in an Array](src/442.find-all-duplicates-in-an-array.py) | Medium | O(N) | O(1) | Array | | |
+| 445 | [Add Two Numbers II](src/445.add-two-numbers-ii.py) | Medium | O(N) | O(N) | Linked List | | |
+| 449 | [Serialize and Deserialize BST](src/449.serialize-and-deserialize-bst.py) | Medium | O(N) | O(N) | Tree | | |
+| 450 | [Delete Node in a BST](src/450.delete-node-in-a-bst.py) | Medium | O(H) | O(H) | Binary Search Tree | | |
+| 451 | [Sort Characters By Frequency](src/451.sort-characters-by-frequency.py) | Medium | O(N) | O(N) | Hash Table, Sorting, Pythonic | | |
+| 452 | [Minimum Number of Arrows to Burst Balloons](src/452.minimum-number-of-arrows-to-burst-balloons.py) | Medium | O(NlogN) | O(1) | Sort, Greedy | | |
+| 454 | [4Sum II](src/454.4-sum-ii.py) | Medium | O(N^2) | O(N^2) | Array | | |
+| 456 | [132 Pattern](src/456.132-pattern.py) | Medium | O(N) | O(N) | Stack | | |
+| 458 | [Poor Pigs](src/458.poor-pigs.py) | Hard | O(1) | O(1) | Math | | |
+| 462 | [Minimum Moves to Equal Array Elements II](src/462.minimum-moves-to-equal-array-elements-ii.py) | Median | O(NlogN) | O(N) | Math | | |
+| 463 | [Island Perimeter](src/463.island-perimeter.py) | Easy | O(N*M) | O(1) | Greedy | | |
+| 470 | [Implement Rand10() Using Rand7()](src/470.implement-rand-10-using-rand-7.py) | Medium | O(1) | O(1) | Math | | |
+| 474 | [Ones and Zeroes](src/474.ones-and-zeroes.py) | Medium | O(K\*M\*N) | O(K\*M\*N) | Dynamic Programming | | |
+| 476 | [Number Complement](src/476.number-complement.py) | Easy | O(N) | O(1) | Bit Manipulation | | |
+| 478 | [Generate Random Point in a Circle](src/478.generate-random-point-in-a-circle.py) | Medium | O(1) | O(1) | Math, Random, Rejection Sampling | | |
+| 491 | [Increasing Subsequences](src/491.increasing-subsequences.py) | Medium | O(Combination) | O(Combination) | DFS | | |
+| 494 | [Target Sum](src/494.target-sum.py) | Medium | O(N\*T) | O(T) | Dynamic Programming, DFS | Template for DP | |
+| 495 | [Teemo Attacking](src/495.teemo-attacking.py) | Medium | O(N) | O(1) | Array | | |
+| 497 | [Random Point in Non-overlapping Rectangles](src/497.random-point-in-non-overlapping-rectangles.py) | Medium | O(logN) | O(N) | Design, Binary Search | | |
+| 498 | [Diagonal Traverse](src/498.diagonal-traverse.py) | Medium | O(R\*C) | O(R\*C) | Array | | |
+| 510 | [Inorder Successor in BST II](src/510.py) | Medium | O(H) | O(1) | Tree, Premium | | 🔒 |
+| 520 | [Detect Capital](src/520.detect-capital.py) | Easy | O(N) | O(1) | | | |
+| 524 | [Longest Word in Dictionary through Deleting](src/524.longest-word-in-dictionary-through-deleting.py) | Medium | Complex | Complex | Two Pointers, Sort | | |
+| 525 | [Contiguous Array](src/525.contiguous-array.py) | Medium | O(N) | O(N) | Hash Table | Very good problem | |
+| 528 | [Random Pick with Weight](src/528.random-pick-with-weight.py) | Medium | O(N), O(logN) | O(N), O(1) | Binary Search, Random | Pythonic | |
+| 532 | [K-diff Pairs in an Array](src/532.k-diff-pairs-in-an-array.py) | Medium | O(N) | O(N) | Array, Two Pointers | | |
+| 538 | [Convert BST to Greater Tree](src/538.convert-bst-to-greater-tree.py) | Medium | O(N) | O(H) | Tree, BFS, DFS, Recursion | | |
+| 540 | [Single Element in a Sorted Array](src/540.single-element-in-a-sorted-array.py) | Medium | O(logN) | O(1) | Binary Search | | |
+| 542 | [01 Matrix](src/542.01-matrix.py) | Medium | O(R\*C) | O(R\*C) | BFS, DFS | | |
+| 554 | [Brick Wall](src/554.brick-wall.py) | Medium | O(N) | O(N) | Hash Table | | |
+| 563 | [Binary Tree Tilt](src/563.binary-tree-tilt.py) | Easy | O(N) | O(H) | Tree, DFS, Recursion | | |
+| 567 | [Permutation in String](src/567.permutation-in-string.py) | Medium | O(S1 + S2) | O(1) | String, Two Pointers, Sliding Window | | |
+| 573 | [Squirrel Simulation](src/573.py) | Medium | O(N) | O(1) | Premium, Math | | 🔒 |
+| 581 | [Shortest Unsorted Continuous Subarray](src/581.shortest-unsorted-continuous-subarray.py) | Medium | O(N) | O(1) | Array | | |
+| 583 | [Delete Operation for Two Strings](src/583.delete-operation-for-two-strings.py) | Medium | O(N^2) | O(N) | Dynamic Programming, String | | |
+| 589 | [N-ary Tree Preorder Traversal](src/589.n-ary-tree-preorder-traversal.py) | Easy | O(N) | O(N) | Tree | | |
+| 593 | [Valid Square](src/593.valid-square.py) | Medium | O(1) | O(1) | Math | | |
+| 605 | [Can Place Flowers](src/605.can-place-flowers.py) | Easy | O(N) | O(1) | Array, Greedy | | |
+| 622 | [Design Circular Queue](src/622.design-circular-queue.py) | Medium | O(1) | O(1) | Design, Queue | | |
+| 623 | [Add One Row to Tree](src/623.add-one-row-to-tree.py) | Medium | O(N) | O(N) | Tree | | |
+| 624 | [Maximum Distance in Arrays](src/624.py) | Easy | O(N) | O(1) | Hash Table, Array, Premium | | 🔒 |
+| 646 | [Maximum Length of Pair Chain](src/646.maximum-length-of-pair-chain.py) | Medium | O(NlogN) | O(N) | Greedy, Dynamic Programming | | |
+| 655 | [Print Binary Tree](src/655.print-binary-tree.py) | Medium | O(N) | O(H) | Tree | | |
+| 658 | [Find K Closest Elements](src/658.find-k-closest-elements.py) | Medium | O(logN+K) | O(K) | Tree | | |
 | 659 | Split Array into Consecutive Subsequences | Medium | O(N) | O(1) | Greedy | | |
 | 662 | Maximum Width of Binary Tree | Medium | O(N) | O(N) | Tree | | |
 | 665 | Non-decreasing Array | Medium | O(N) | O(1) | Array | | |
