@@ -295,6 +295,7 @@ https://leetcode.com/jummyegg/
 | 880 | [Decoded String at Index](src/880.decoded-string-at-index.py) | Medium | O(N) | O(1) | Stack | Good problem | |
 | 881 | [Boats to Save People](src/881.boats-to-save-people.py) | Medium | O(NlogN) | O(N) | Two Pointers, Greedy | | |
 | 886 | [Possible Bipartition](src/886.possible-bipartition.py) | Medium | O(N + E) | O(N + E) | DFS | Good problem | |
+| 890 | [Find and Replace Pattern](src/890.find-and-replace-pattern.py) | Medium | O(N\*K) | O(N\*K) | String | | |
 | 892 | [Surface Area of 3D Shapes](src/892.surface-area-of-3-d-shapes.py) | Easy | O(N*N) | O(1) | Math, Geometry | | |
 | 895 | [Maximum Frequency Stack](src/895.maximum-frequency-stack.py) | Medium | O(1) | O(N) | Hash Table, Stack | | |
 | 901 | [Online Stock Span](src/901.online-stock-span.py) | Medium | O(1) | O(N) | Monotonic Stack | | |
