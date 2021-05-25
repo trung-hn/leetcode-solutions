@@ -90,6 +90,7 @@ https://leetcode.com/jummyegg/
 | 142 | [Linked List Cycle II](src/142.linked-list-cycle-ii.py) | Medium | O(N) | O(1) | Linked List, Two Pointers | | |
 | 143 | [Reorder List](src/143.reorder-list.py) | Medium | O(N) | O(1) | Linked List | | |
 | 147 | [Insertion Sort List](src/147.insertion-sort-list.py) | Medium | O(N^2) | O(1) | Sort, Linked List | | |
+| 151 | [Evaluate Reverse Polish Notation](src/150.evaluate-reverse-polish-notation.py) | Medium | O(N) | O(N) | Stack | | |
 | 151 | [Reverse Words in a String](src/151.reverse-words-in-a-string.py) | Easy | O(N) | O(N) | String | | |
 | 152 | [Maximum Product Subarray](src/152.maximum-product-subarray.py) | Medium | O(N) | O(N) | Dynamic Programming, Array | | |
 | 153 | [Find Minimum in Rotated Sorted Array](src/153.find-minimum-in-rotated-sorted-array.py) | Medium | O(logN) | O(1) | Binary Search | | |
