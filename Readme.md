@@ -30,7 +30,7 @@ https://leetcode.com/jummyegg/
 | `N <= 10^6` | `O(N)` or `O(NlogN)` |
 | `N > 10^6` | `O(1)` or `O(logN)` |
 
-# Solutions list (500+ problems)
+# Solutions list
 
 | # | Title | Level | Time | Space | Tags | Note | Premium 🔒 |
 |---|---|---|---|---|---|---|---|
