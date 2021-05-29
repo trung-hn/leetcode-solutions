@@ -12,15 +12,17 @@ class Solution:
     # 1216 ms, 91.76%. Time: O(N). Space: O(1)
     def maximumUniqueSubarray(self, nums: List[int]) -> int:
         visited = set()
-        total = ans = ptr = 0
+        curr = ans = ptr = 0
         for num in nums:
+            # If we see this before, move ptr
             while num in visited:
-                total -= nums[ptr]
+                curr -= nums[ptr]
                 visited.discard(nums[ptr])
                 ptr += 1
-            total += num
+            # Update curr and ans
+            curr += num
             visited.add(num)
-            ans = max(ans, total)
+            ans = max(ans, curr)
         return ans
 
     # Second sollution after a while.

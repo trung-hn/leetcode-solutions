@@ -56,6 +56,7 @@ https://leetcode.com/jummyegg/
 | 47 | [Permutations II](src/47.permutations-ii.py) | Medium | O(N!) | O(N!) | Backtracking | | |
 | 48 | [Rotate Image](src/48.rotate-image.py) | Medium | O(N*M) | O(1) | Array | | |
 | 51 | [N-Queens](src/51.n-queens.py) | Hard | O(N!) | O(N^2) | Backtracking | | |
+| 51 | [N-Queens II](src/52.n-queens-ii.py) | Hard | O(N!) | O(N^2) | Backtracking | | |
 | 53 | [Maximum Subarray](src/53.maximum-subarray.py) | Easy | O(N) | O(1) | | | |
 | 57 | [Insert Interval](src/57.insert-interval.py) | Hard | O(N) | O(N) | Array, Sort, Greedy | | |
 | 59 | [Spiral Matrix II](src/59.spiral-matrix-ii.py) | Medium | O(N^2) | O(N^2) | Array | | |
