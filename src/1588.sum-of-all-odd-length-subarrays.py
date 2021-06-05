@@ -6,13 +6,15 @@
 
 # @lc code=start
 # TAGS: Array
+
+
 class Solution:
     # 36 ms, 94.11%. Time: O(N^2). Space: O(N)
     def sumOddLengthSubarrays(self, arr: List[int]) -> int:
         prefix_sum = [0]
         for val in arr:
             prefix_sum.append(prefix_sum[-1] + val)
-        
+
         total = 0
         for i in range(len(prefix_sum)):
             for j in range(i + 1, len(prefix_sum), 2):
@@ -20,8 +22,10 @@ class Solution:
         return total
 
     # 28 ms, 99.2%. Time: O(N). Space: O(1).
-    # at index 0, there are N - 1 ways to make subarray
-    # at index 1, there are N - 2 ways to make subarray.
+    # at index 0, there is 1 way to start and N ways to end
+    # at index 1, there are 2 ways to start and N - 1 ways to end.
+    # at index i, there are (i + 1) ways to start and (N - i) ways to end
+    # => (i + 1) * (N - i) ways to make subarray (even and odd length)
     # => There are ((i + 1) * (N - i) + 1) // 2 odd len sub-array
     def sumOddLengthSubarrays(self, arr: List[int]) -> int:
         total = 0
@@ -29,6 +33,7 @@ class Solution:
         for i, num in enumerate(arr):
             total += ((i + 1) * (N - i) + 1) // 2 * num
         return total
+
 
 # @lc code=end
 """
@@ -49,4 +54,3 @@ class Solution:
 
 1 2 3 4 5 6 7
 """
-
