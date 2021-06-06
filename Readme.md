@@ -258,6 +258,7 @@ https://leetcode.com/jummyegg/
 | 739 | [Daily Temperatures](src/739.daily-temperatures.py) | Medium | O(N) | O(N) | Hash Table, Stack | | |
 | 740 | [Delete and Earn](src/740.delete-and-earn.py) | Medium | O(N+M) | O(N+M) | Dynamic Programming | | |
 | 743 | [Network Delay Time](src/743.network-delay-time.py) | Medium | O(ElogE) | O(N + E) | Heap, BFS, DFS, Graph | | |
+| 752 | [Open the Lock](src/752.open-the-lock.py) | Medium | O(N^2\*D^N) | O(N^2\*D^N) | BFS | | |
 | 754 | [Reach a Number](src/754.reach-a-number.py) | Medium | O(logN) | O(1) | Math | | |
 | 763 | [Partition Labels](src/763.partition-labels.py) | Medium | O(N) | O(N) | Greedy, Two Pointers | | |
 | 767 | [Reorganize String](src/767.reorganize-string.py) | Medium | O(NlogN) | O(N) |  String, Heap, Greedy, Sort | | |
