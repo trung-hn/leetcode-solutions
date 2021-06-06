@@ -83,6 +83,7 @@ https://leetcode.com/jummyegg/
 | 122 | [Best Time to Buy and Sell Stock II](src/122.best-time-to-buy-and-sell-stock-ii.py) | Easy | O(N) | O(1) | Array, Greedy | | |
 | 125 | [Valid Palindrome](src/125.valid-palindrome.py) | Easy | O(1) | O(1) | String | | |
 | 127 | [Word Ladder](src/127.word-ladder.py) | Hard | O(M^2\*N) | O(M^2\*N) | BFS | | |
+| 128 | [Longest Consecutive Sequence](src/128.longest-consecutive-sequence.py) | Medium | O(N) | O(N) | Array | | |
 | 133 | [Clone Graph](src/133.clone-graph.py) | Medium | O(N+M) | O(N) | DFS, BFS, Graph | | |
 | 134 | [Gas Station](src/134.gas-station.py) | Medium | O(N) | O(N) | Dynamic Programming, Greedy | | |
 | 138 | [Copy List with Random Pointer](src/138.copy-list-with-random-pointer.py) | Medium | O(N) | O(N) | Hash Table, Linked List | | |
