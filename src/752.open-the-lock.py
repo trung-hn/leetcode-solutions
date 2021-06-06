@@ -11,6 +11,9 @@
 
 class Solution:
     # Time and Space: O(N^2*D^N), N is number of digits (4). D is 0 to 9 (10)
+    # Complexity break down:
+    # D^N combinations
+    # For each combination, there are N ways to turn, for each way, string slicing takes O(N)
     # 704 ms, 43%. 1 directional bfs
     def openLock(self, deadends: List[str], target: str) -> int:
         visited = set(deadends)
