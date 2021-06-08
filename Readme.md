@@ -556,6 +556,7 @@ https://leetcode.com/jummyegg/
 | 1844 | [Replace All Digits with Characters](src/1844.replace-all-digits-with-characters.py) | Easy | O(N) | O(N) | String | | |
 | 1845 | [Seat Reservation Manager](src/1845.seat-reservation-manager.py) | Medium | O(logN) | O(N) | Heap, Design | | |
 | 1860 | [Incremental Memory Leak](src/1860.incremental-memory-leak.py) | Medium | O(logN) | O(1) | Math | | |
+| 1861 | [Rotating the Box](src/1861.rotating-the-box.py) | Medium | O(R\*C) | O(1) | Array, Two Pointers | | |
 
 # Useful Posts:
 
