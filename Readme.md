@@ -555,6 +555,7 @@ https://leetcode.com/jummyegg/
 | 1839 | [Longest Substring Of All Vowels in Order](src/1839.longest-substring-of-all-vowels-in-order.py) | Medium | O(N) | O(1) | Two Pointers, String | | |
 | 1844 | [Replace All Digits with Characters](src/1844.replace-all-digits-with-characters.py) | Easy | O(N) | O(N) | String | | |
 | 1845 | [Seat Reservation Manager](src/1845.seat-reservation-manager.py) | Medium | O(logN) | O(N) | Heap, Design | | |
+| 1860 | [Incremental Memory Leak](src/1860.incremental-memory-leak.py) | Medium | O(logN) | O(1) | Math | | |
 
 # Useful Posts:
 
