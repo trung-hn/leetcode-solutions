@@ -514,7 +514,9 @@ https://leetcode.com/jummyegg/
 | 1679 | [Max Number of K-Sum Pairs](src/1679.max-number-of-k-sum-pairs.py) | Medium | O(N) | O(N) | Hash Table | | |
 | 1684 | [Count the Number of Consistent Strings](src/1684.count-the-number-of-consistent-strings.py) | Easy | O(N) | O(1) | String | | |
 | 1685 | [Sum of Absolute Differences in a Sorted Array](src/1685.sum-of-absolute-differences-in-a-sorted-array.py) | Medium | O(N) | O(N) | Math, Greedy | | |
+| 1690 | [Stone Game VII](src/1690.stone-game-vii.py) | Medium | O(N^2) | O(N^2) | Dynamic Programming | | |
 | 1695 | [Maximum Erasure Value](src/1695.maximum-erasure-value.py) | Medium | O(N) | O(1) | Two Pointers | | |
+| 1696 | [Jump Game VI](src/1696.jump-game-vi.py) | Medium | O(N) | O(N) | Dequeue | Dequeue, Monotonic Dequeue | |
 | 1700 | [Number of Students Unable to Eat Lunch](src/1700.number-of-students-unable-to-eat-lunch.py) | Medium | O(N) | O(1) | Array | | |
 | 1705 | [Maximum Number of Eaten Apples](src/1705.maximum-number-of-eaten-apples.py) | Medium | O(NlogN) | O(N) | Heap, Greedy | | |
 | 1706 | [Where Will the Ball Fall](src/1706.where-will-the-ball-fall.py) | Medium | O(N*M) | O(M) | Dynamic Programming | | |
