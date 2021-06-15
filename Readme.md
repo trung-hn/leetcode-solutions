@@ -201,6 +201,7 @@ https://leetcode.com/jummyegg/
 | 462 | [Minimum Moves to Equal Array Elements II](src/462.minimum-moves-to-equal-array-elements-ii.py) | Median | O(NlogN) | O(N) | Math | | |
 | 463 | [Island Perimeter](src/463.island-perimeter.py) | Easy | O(N*M) | O(1) | Greedy | | |
 | 470 | [Implement Rand10() Using Rand7()](src/470.implement-rand-10-using-rand-7.py) | Medium | O(1) | O(1) | Math | | |
+| 473 | [Matchsticks to Square](src/473.matchsticks-to-square.py) | Medium | O(4^N) | O(4^N) | DFS, Dynamic Programming | | |
 | 474 | [Ones and Zeroes](src/474.ones-and-zeroes.py) | Medium | O(K\*M\*N) | O(K\*M\*N) | Dynamic Programming | | |
 | 476 | [Number Complement](src/476.number-complement.py) | Easy | O(N) | O(1) | Bit Manipulation | | |
 | 478 | [Generate Random Point in a Circle](src/478.generate-random-point-in-a-circle.py) | Medium | O(1) | O(1) | Math, Random, Rejection Sampling | | |
