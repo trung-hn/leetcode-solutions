@@ -275,6 +275,7 @@ https://leetcode.com/jummyegg/
 | 791 | [Custom Sort String](src/791.custom-sort-string.py) | Medium | O(N) | O(N) | String | | |
 | 792 | [Number of Matching Subsequences](src/792.number-of-matching-subsequences.py) | Medium | O(N + M * L) | O(M) | Array | | |
 | 794 | [Valid Tic-Tac-Toe State](src/794.valid-tic-tac-toe-state.py) | Medium | O(1) | O(1) | Array, String | | |
+| 795 | [Number of Subarrays with Bounded Maximum](src/795.number-of-subarrays-with-bounded-maximum.py) | Medium | O(N) | O(1) | Array | | |
 | 797 | [All Paths From Source to Target](src/797.all-paths-from-source-to-target.py) | Medium | O(2^N * N) | O(2^N * N) | Backtracking, DFS | | |
 | 799 | [Champagne Tower](src/799.champagne-tower.py) | Medium | O(R^2) | O(R^2) | Dynamic Programming | | |
 | 802 | [Find Eventual Safe States](src/802.find-eventual-safe-states.py) | Medium | O(V+E) | O(V+E) | DFS, Graph | | |
