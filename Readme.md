@@ -268,6 +268,7 @@ https://leetcode.com/jummyegg/
 | 768 | [Max Chunks To Make Sorted II](src/768.max-chunks-to-make-sorted-ii.py) | Hard | O(N) | O(N) | Array | | |
 | 769 | [Max Chunks To Make Sorted](src/769.max-chunks-to-make-sorted.py) | Medium | O(N) | O(1) | Array | | |
 | 775 | [Global and Local Inversions](src/775.global-and-local-inversions.py) | Medium | O(N) | O(1) | Array, Math | | |
+| 778 | [Swim in Rising Water](src/778.swim-in-rising-water.py) | Medium | O(R\*C\*logN) | O(R\*C) | Binary Search, Heap, DFS, Union Find | | |
 | 784 | [Letter Case Permutation](src/784.letter-case-permutation.py) | Medium | O(2^N) | O(2^N) | Backtracking, Bit Manipulation | | |
 | 785 | [Is Graph Bipartite?](src/785.is-graph-bipartite.py) | Medium | O(E+V) | O(E+V) | BFS, DFS, Graph | | |
 | 787 | [Cheapest Flights Within K Stops](src/787.cheapest-flights-within-k-stops.py) | Medium | Complex | Complex | Dijkstra's Algorithm, Graph | Quite hard | |
