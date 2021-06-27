@@ -88,6 +88,7 @@ https://leetcode.com/jummyegg/
 | 128 | [Longest Consecutive Sequence](src/128.longest-consecutive-sequence.py) | Medium | O(N) | O(N) | Array | | |
 | 133 | [Clone Graph](src/133.clone-graph.py) | Medium | O(N+M) | O(N) | DFS, BFS, Graph | | |
 | 134 | [Gas Station](src/134.gas-station.py) | Medium | O(N) | O(N) | Dynamic Programming, Greedy | | |
+| 135 | [Candy](src/135.candy.py) | Hard | O(N) | O(N) | Greedy | | |
 | 138 | [Copy List with Random Pointer](src/138.copy-list-with-random-pointer.py) | Medium | O(N) | O(N) | Hash Table, Linked List | | |
 | 139 | [Word Break](src/139.word-break.py) | Medium | O(N^2) | O(N) | Dynamic Programming | | |
 | 141 | [Linked List Cycle](src/141.linked-list-cycle.py) | Easy | O(N) | O(1) | Linked List, Two Pointers | | |
