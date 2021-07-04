@@ -385,7 +385,8 @@ https://leetcode.com/jummyegg/
 | 1209 | [Remove All Adjacent Duplicates in String II](src/1209.remove-all-adjacent-duplicates-in-string-ii.py) | Medium | O(N) | O(N) | Stack | | |
 | 1217 | [Minimum Cost to Move Chips to The Same Position](src/1217.minimum-cost-to-move-chips-to-the-same-position.py) | Easy | O(N) | O(1) | Math, Greedy, Array | | |
 | 1218 | [Longest Arithmetic Subsequence of Given Difference](src/1218.longest-arithmetic-subsequence-of-given-difference.py) | Medium | O(N) | O(N) | Hash Table, Math, Dynamic Programming | | |
-| 1219 | [Minimum CostPath with Maximum Gold](src/1219.path-with-maximum-gold.py) | Medium | O(R\*C+N\*2^N) | O(N) | Backtracking | | |
+| 1219 | [Minimum CostPath with Maximum Gold](src/1219.path-with-maximum-gold.py) | Medium | O(R\*C+N\*2^N) |  O(N) | Backtracking | | |
+| 1220 | [Count Vowels Permutation](src/1220.count-vowels-permutation.py) | Hard | O(N) |  O(N) | Dynamic Programming | | |
 | 1232 | [Check If It Is a Straight Line](src/1232.check-if-it-is-a-straight-line.py) | Easy | O(N) | O(1) | Math, Pythonic, Geometry | | |
 | 1239 | [Maximum Length of a Concatenated String with Unique Characters](src/1239.maximum-length-of-a-concatenated-string-with-unique-characters.py) | Medium | O(2^N) | O(N) | Backtracking, Bit Manipulation | | |
 | 1249 | [Minimum Remove to Make Valid Parentheses](src/1249.minimum-remove-to-make-valid-parentheses.py) | Medium | O(N) | O(N) | Stack, String | | |
