@@ -165,6 +165,7 @@ https://leetcode.com/jummyegg/
 | 357 | [Count Numbers with Unique Digits](src/357.count-numbers-with-unique-digits.py) | Medium | O(1) | O(1) | Math, Dynamic Programming, Backtracking | | |
 | 361 | [Bomb Enemy](src/361.py) | Medium | O(N\*M) | O(N\*M) | Premium, Dynamic Programming | | 🔒 |
 | 362 | [Design Hit Counter](src/362.py) | Medium | O(1) | O(N) | Design, Premium | | 🔒 |
+| 363 | [Max Sum of Rectangle No Larger Than K](src/363.max-sum-of-rectangle-no-larger-than-k.py) | Hard | O(R\*R\*C\*logC) | O(R\*C) | Array, Binary Search, Dynamic Programming, Matrix, Ordered Set | | |
 | 367 | [Valid Perfect Square](src/367.valid-perfect-square.py) | Easy | O(logN) | O(1) | Math, Binary Search | | |
 | 376 | [Wiggle Subsequence](src/376.wiggle-subsequence.py) | Medium | O(N) | O(1) | Greedy, Dynamic Programming | | |
 | 377 | [Combination Sum IV](src/377.combination-sum-iv.py) | Medium | O(T*N) | O(T) | Dynamic Programming | | |
