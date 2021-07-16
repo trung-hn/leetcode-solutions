@@ -231,6 +231,7 @@ https://leetcode.com/jummyegg/
 | 589 | [N-ary Tree Preorder Traversal](src/589.n-ary-tree-preorder-traversal.py) | Easy | O(N) | O(N) | Tree | | |
 | 593 | [Valid Square](src/593.valid-square.py) | Medium | O(1) | O(1) | Math | | |
 | 605 | [Can Place Flowers](src/605.can-place-flowers.py) | Easy | O(N) | O(1) | Array, Greedy | | |
+| 611 | [Valid Triangle Number](src/611.valid-triangle-number.py) | Medium | O(N^2) | O(1) | Array, Two Pointers, Binary Search, Greedy, Sorting | | |
 | 622 | [Design Circular Queue](src/622.design-circular-queue.py) | Medium | O(1) | O(1) | Design, Queue | | |
 | 623 | [Add One Row to Tree](src/623.add-one-row-to-tree.py) | Medium | O(N) | O(N) | Tree | | |
 | 624 | [Maximum Distance in Arrays](src/624.py) | Easy | O(N) | O(1) | Hash Table, Array, Premium | | 🔒 |
