@@ -8,6 +8,8 @@
 # TAGS: String
 import string
 import collections
+
+
 class Solution:
     # 28 ms, 80.98%. Time and Space: O(N). N = len(T)
     def customSortString(self, S: str, T: str) -> str:
@@ -15,10 +17,9 @@ class Solution:
         ans = []
         for c in S:
             ans.append(c * counter[c])
-        
+
         for c in set(string.ascii_lowercase) - set(S):
             ans.append(c * counter[c])
-        
+
         return ''.join(ans)
 # @lc code=end
-

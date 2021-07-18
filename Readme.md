@@ -46,6 +46,7 @@ https://leetcode.com/jummyegg/
 | 21 | [Merge Two Sorted Lists](src/21.merge-two-sorted-lists.py) | Easy | O(N) | O(1) | Linked List | | |
 | 22 | [Generate Parentheses](src/22.generate-parentheses.py) | Medium | Complex | Complex | String, Backtracking | | |
 | 24 | [Swap Nodes in Pairs](src/24.swap-nodes-in-pairs.py) | Medium | O(N) | O(N) | Linked List | | |
+| 25 | [Reverse Nodes in k-Group](src/25.reverse-nodes-in-k-group.py) | Hard | O(N) | O(1) | Linked List, Recursion | | |
 | 30 | [Substring with Concatenation of All Words](src/30.substring-with-concatenation-of-all-words.py) | Hard | O(NK) | O(K) | Array, Backtracking | | |
 | 32 | [Longest Valid Parentheses](src/32.longest-valid-parentheses.py) | Hard | O(N) | O(N) | String, Dynamic Programming | | |
 | 34 | [Find First and Last Position of Element in Sorted Array](src/34.find-first-and-last-position-of-element-in-sorted-array.py) | Medium | O(logN) | O(1) | Array, Binary Search | Template for Binary Search | |
