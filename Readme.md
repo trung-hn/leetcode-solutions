@@ -572,6 +572,7 @@ https://leetcode.com/jummyegg/
 | 1854 | [Maximum Population Year](src/1854.maximum-population-year.py) | Easy | O(NlogN) | O(N) | Array, Counting | | |
 | 1860 | [Incremental Memory Leak](src/1860.incremental-memory-leak.py) | Medium | O(logN) | O(1) | Math | | |
 | 1861 | [Rotating the Box](src/1861.rotating-the-box.py) | Medium | O(R\*C) | O(1) | Array, Two Pointers | | |
+| 1877 | [Minimize Maximum Pair Sum in Array](src/1877.minimize-maximum-pair-sum-in-array.py) | Medium | O(NlogN) | O(Sort) | Array, Two Pointers, Greedy, Sorting | | |
 | 1899 | [Merge Triplets to Form Target Triplet](src/1899.merge-triplets-to-form-target-triplet.py) | Medium | O(N) | O(1) | Greedy, Array | | |
 
 # Useful Posts:
