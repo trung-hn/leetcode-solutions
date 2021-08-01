@@ -36,7 +36,7 @@ https://leetcode.com/jummyegg/
 |---|---|---|---|---|---|---|---|
 | 1 | [Two Sum](src/1.two-sum.py) | Easy | O(N) | O(N) | | | |
 | 7 | [Reverse Integer](src/7.reverse-integer.py) | Easy | O(log x) | O(1) | | Tricky | |
-| 11 | [Container With Most Water](src/11.container-with-most-water.py) | Medium | O(N) | O(1) | Array, Two Pointers | | |
+| 11 | [Container With Most Water](src/11.container-with-most-water.py) | Medium | O(N) | O(1) | Array, Two Pointers, Greedy | | |
 | 12 | [Integer to Roman](src/12.integer-to-roman.py) | Medium | O(N) | O(N) | Math, String | | |
 | 13 | [Roman to Integer](src/13.roman-to-integer.py) | Easy | O(N) | O(1) | Math, String | | |
 | 15 | [3Sum](src/15.3-sum.py) | Medium | O(N^2) | O(N^2) | Array, Two Pointers | | |
