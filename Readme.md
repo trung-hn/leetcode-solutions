@@ -289,6 +289,7 @@ https://leetcode.com/jummyegg/
 | 820 | [Short Encoding of Words](src/820.short-encoding-of-words.py) | Medium | O(N\*M) | O(N\*M) | Trie | | |
 | 823 | [Binary Trees With Factors](src/823.binary-trees-with-factors.py) | Medium | O(N*N) | O(N) | Dynamic Programming | | |
 | 825 | [Friends Of Appropriate Ages](src/825.friends-of-appropriate-ages.py) | Medium | O(N) | O(1) | Array | | |
+| 827 | [Making A Large Island](src/827.making-a-large-island.py) | Hard | O(N^2) | O(N^2) | Array, DFS, BFS, Union-Find, Matrix | | |
 | 830 | [Positions of Large Groups](src/830.positions-of-large-groups.py) | Easy | O(N) | O(1) | | | |
 | 833 | [Find And Replace in String](src/833.find-and-replace-in-string.py) | Medium | O(N) | O(N) | Dynamic Programming | | |
 | 835 | [Image Overlap](src/835.image-overlap.py) | Medium | O(N^2) | O(N) | | | |
