@@ -571,6 +571,7 @@ https://leetcode.com/jummyegg/
 | 1845 | [Seat Reservation Manager](src/1845.seat-reservation-manager.py) | Medium | O(logN) | O(N) | Heap, Design | | |
 | 1848 | [Minimum Distance to the Target Element](src/1848.minimum-distance-to-the-target-element.py) | Easy | O(N) | O(1) | Array | | |
 | 1854 | [Maximum Population Year](src/1854.maximum-population-year.py) | Easy | O(NlogN) | O(N) | Array, Counting | | |
+| 1859 | [Sorting the Sentence](src/1859.sorting-the-sentence.py) | Easy | O(N) | O(N) | String, Sorting | | |
 | 1860 | [Incremental Memory Leak](src/1860.incremental-memory-leak.py) | Medium | O(logN) | O(1) | Math | | |
 | 1861 | [Rotating the Box](src/1861.rotating-the-box.py) | Medium | O(R\*C) | O(1) | Array, Two Pointers | | |
 | 1877 | [Minimize Maximum Pair Sum in Array](src/1877.minimize-maximum-pair-sum-in-array.py) | Medium | O(NlogN) | O(Sort) | Array, Two Pointers, Greedy, Sorting | | |
