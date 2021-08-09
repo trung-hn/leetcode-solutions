@@ -506,6 +506,7 @@ https://leetcode.com/jummyegg/
 | 1625 | [Lexicographically Smallest String After Applying Operations](src/1625.lexicographically-smallest-string-after-applying-operations.py) | Medium | O(N*N) | O(N) | BFS, DFS | | |
 | 1629 | [Slowest Key](src/1629.slowest-key.py) | Easy | O(N) | O(1) | String | | |
 | 1631 | [Path With Minimum Effort](src/1631.path-with-minimum-effort.py) | Medium | O(N\*M\*logH) | O(M\*N) | Binary Search, DFS, BFS, Union Find, Graph | | |
+| 1632 | [Rank Transform of a Matrix](src/1632.rank-transform-of-a-matrix.py) | Hard | O(NlogN) | O(N) | Array, Greedy, Union Find, Graph, Topological Sort, Matrix | | |
 | 1634 | [Add Two Polynomials Represented as Linked Lists](src/1634.py) | Medium | O(N) | O(1) | Premium, Linked List | | 🔒 |
 | 1639 | [Number of Ways to Form a Target String Given a Dictionary](src/1639.number-of-ways-to-form-a-target-string-given-a-dictionary.py) | Hard | O(N\*M) | O(N\*M) | Dynamic Programming | | |
 | 1640 | [Check Array Formation Through Concatenation](src/1640.check-array-formation-through-concatenation.py) | Medium | O(N) | O(N) | Array | | |
