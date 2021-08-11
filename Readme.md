@@ -336,6 +336,7 @@ https://leetcode.com/jummyegg/
 | 946 | [Validate Stack Sequences](src/946.validate-stack-sequences.py) | Medium | O(N) | O(N) | Stack | | |
 | 948 | [Bag of Tokens](src/948.bag-of-tokens.py) | Medium | O(NlogN) | O(N) | Greedy | | |
 | 953 | [Verifying an Alien Dictionary](src/953.verifying-an-alien-dictionary.py) | Easy | O(A) | O(1) | Hash Table | | |
+| 954 | [Array of Doubled Pairs](src/954.array-of-doubled-pairs.py) | Medium | O(NlogN) | O(N) | Array, Hash Table, Greedy, Sorting | | |
 | 957 | [Prison Cells After N Days](src/957.prison-cells-after-n-days.py) | Medium | O(1) | O(1) | Hash Table | | |
 | 958 | [Check Completeness of a Binary Tree](src/958.check-completeness-of-a-binary-tree.py) | Medium | O(N) | O(N) | Tree | | |
 | 962 | [Maximum Width Ramp](src/962.maximum-width-ramp.py) | Medium | O(NlogN) | O(N) | Array | | |
