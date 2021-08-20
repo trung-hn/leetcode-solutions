@@ -108,7 +108,7 @@ https://leetcode.com/jummyegg/
 | 179 | [Largest Number](src/179.largest-number.py) | Medium | O(NlogN) | O(1) | Sort | | |
 | 187 | [Repeated DNA Sequences](src/187.repeated-dna-sequences.py) | Medium | O(N-L) | O(N-L) | Hash Table, Bit Manipulation | | |
 | 190 | [Reverse Bits](src/190.reverse-bits.py) | Easy | O(1) | O(1) | Bit Manipulation | | |
-| 198 | [House Robber](src/198.house-robber.py) | Easy | O(N) | O(1) | Dynamic Programming | | |
+| 198 | [House Robber](src/198.house-robber.py) | Medium | O(N) | O(1) | Dynamic Programming | | |
 | 200 | [Number of Islands](src/200.number-of-islands.py) | Medium | O(R\*C) | O(R\*C) | Array, BFS, DFS, Union Find, Matrix | | |
 | 204 | [Count Primes](src/204.count-primes.py) | Medium | O(loglogN) | O(N) | Hash Table, Math | | |
 | 207 | [Course Schedule](src/207.course-schedule.py) | Medium | O(N + E) | O(N + E) | BFS, DFS, Graph, Topological Sort | | |
@@ -407,6 +407,7 @@ https://leetcode.com/jummyegg/
 | 1315 | [Sum of Nodes with Even-Valued Grandparent](src/1315.sum-of-nodes-with-even-valued-grandparent.py) | Medium | O(N) | O(N) | Tree, DFS | | |
 | 1332 | [Remove Palindromic Subsequences](src/1332.remove-palindromic-subsequences.py) | Easy | O(N) | O(1) | String | | |
 | 1337 | [The K Weakest Rows in a Matrix](src/1337.the-k-weakest-rows-in-a-matrix.py) | Easy | O(MlogKlogN) | O(K) | Heap, Array, Binary Search | | |
+| 1339 | [Maximum Product of Splitted Binary Tree](src/1339.maximum-product-of-splitted-binary-tree.py) | Medium | O(N) | O(N) | Tree, DFS, Binary Tree | | |
 | 1344 | [Angle Between Hands of a Clock](src/1344.angle-between-hands-of-a-clock.py) | Medium | O(1) | O(1) | Math | | |
 | 1345 | [Jump Game IV](src/1345.jump-game-iv.py) | Hard | O(N) | O(N) | BFS | | |
 | 1354 | [Construct Target Array With Multiple Sums](src/1354.construct-target-array-with-multiple-sums.py) | Hard | O(NlogN) | O(N) | Greedy, Heap | Very Hard | |
