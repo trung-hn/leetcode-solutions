@@ -154,6 +154,7 @@ https://leetcode.com/jummyegg/
 | 322 | [Coin Change](src/322.coin-change.py) | Medium | O(A*N) | O(A) | Dynamic Programming | | |
 | 328 | [Odd Even Linked List](src/328.odd-even-linked-list.py) | Medium | O(N) | O(1) | Linked List | | |
 | 329 | [Longest Increasing Path in a Matrix](src/329.longest-increasing-path-in-a-matrix.py) | Hard | O(R\*C) | O(R\*C) | DFS, Topology Sort, Memoization | | |
+| 331 | [Verify Preorder Serialization of a Binary Tree](src/331.verify-preorder-serialization-of-a-binary-tree.py) | Medium | O(N) | O(N) | String, Stack, Tree, Binary Tree | | |
 | 334 | [Increasing Triplet Subsequence](src/334.increasing-triplet-subsequence.py) | Medium | O(N) | O(1) | Array | | |
 | 337 | [House Robber III](src/337.house-robber-iii.py) | Medium | O(N) | O(N) | Dynamic Programming, Tree, DFS | | |
 | 338 | [Counting Bits](src/338.counting-bits.py) | Medium | O(N) | O(N) | Dynamic Programming, Bit Manipulation | | |
