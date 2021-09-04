@@ -295,6 +295,7 @@ https://leetcode.com/jummyegg/
 | 827 | [Making A Large Island](src/827.making-a-large-island.py) | Hard | O(N^2) | O(N^2) | Array, DFS, BFS, Union-Find, Matrix | | |
 | 830 | [Positions of Large Groups](src/830.positions-of-large-groups.py) | Easy | O(N) | O(1) | | | |
 | 833 | [Find And Replace in String](src/833.find-and-replace-in-string.py) | Medium | O(N) | O(N) | Dynamic Programming | | |
+| 834 | [Sum of Distances in Tree](src/834.sum-of-distances-in-tree.py) | Hard | O(N) | O(N) | Dynamic Programming, Tree, DFS, Graph | | |
 | 835 | [Image Overlap](src/835.image-overlap.py) | Medium | O(N^2) | O(N) | | | |
 | 838 | [Push Dominoes](src/838.push-dominoes.py) | Medium | O(N) | O(N) | | | |
 | 841 | [Keys and Rooms](src/841.keys-and-rooms.py) | Medium | O(N^2) | O(N) | DFS, Graph | | |
