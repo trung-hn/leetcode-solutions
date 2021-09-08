@@ -301,6 +301,7 @@ https://leetcode.com/jummyegg/
 | 841 | [Keys and Rooms](src/841.keys-and-rooms.py) | Medium | O(N^2) | O(N) | DFS, Graph | | |
 | 845 | [Longest Mountain in Array](src/845.longest-mountain-in-array.py) | Medium | O(N) | O(1) | Two Pointers | | |
 | 846 | [Hand of Straights](src/846.hand-of-straights.py) | Medium | O(MlogM+NW) | O(N) | Ordered Map | | |
+| 848 | [Shifting Letters](src/848.shifting-letters.py) | Medium | O(N) | O(N) | Array, String | | |
 | 849 | [Maximize Distance to Closest Person](src/849.maximize-distance-to-closest-person.py) | Medium | O(N) | O(1) | Array | | |
 | 851 | [Loud and Rich](src/851.loud-and-rich.py) | Medium | O(N^2) | O(N^2) | DFS | | |
 | 853 | [Car Fleet](src/853.car-fleet.py) | Medium | O(NlogN) | O(N) | Sort | | |
