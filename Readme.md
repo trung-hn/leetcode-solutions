@@ -273,6 +273,7 @@ https://leetcode.com/jummyegg/
 | 752 | [Open the Lock](src/752.open-the-lock.py) | Medium | O(N^2\*D^N) | O(N^2\*D^N) | BFS | | |
 | 754 | [Reach a Number](src/754.reach-a-number.py) | Medium | O(logN) | O(1) | Math | | |
 | 763 | [Partition Labels](src/763.partition-labels.py) | Medium | O(N) | O(N) | Greedy, Two Pointers | | |
+| 764 | [Largest Plus Sign](src/764.largest-plus-sign.py) | Medium | O(N^2) | O(N^2) | Array, Dynamic Programming | | |
 | 767 | [Reorganize String](src/767.reorganize-string.py) | Medium | O(NlogN) | O(N) |  String, Heap, Greedy, Sort | | |
 | 768 | [Max Chunks To Make Sorted II](src/768.max-chunks-to-make-sorted-ii.py) | Hard | O(N) | O(N) | Array | | |
 | 769 | [Max Chunks To Make Sorted](src/769.max-chunks-to-make-sorted.py) | Medium | O(N) | O(1) | Array | | |
