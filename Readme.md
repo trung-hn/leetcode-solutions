@@ -72,6 +72,7 @@ https://leetcode.com/jummyegg/
 | 82 | [Remove Duplicates from Sorted List II](src/82.remove-duplicates-from-sorted-list-ii.py) | Medium | O(N) | O(1) | Linked List | | |
 | 91 | [Decode Ways](src/91.decode-ways.py) | Medium | O(N) | O(N) | String, Dynamic Programming | | |
 | 92 | [Reverse Linked List II](src/92.reverse-linked-list-ii.py) | Medium | O(N) | O(1) | Linked List | | |
+| 94 | [Binary Tree Inorder Traversal](src/94.binary-tree-inorder-traversal.py) | Easy | O(N) | O(N) | Stack, Tree, DFS, Binary Tree | | |
 | 99 | [Recover Binary Search Tree](src/99.recover-binary-search-tree.py) | Hard | O(N) | O(N) | Tree, DFS | | |
 | 100 | [Same Tree](src/100.same-tree.py) | Easy | O(N) | O(H) | Tree, Pythonic | | |
 | 102 | [Binary Tree Level Order Traversal](src/102.binary-tree-level-order-traversal.py) | Medium | O(N) | O(N) | Tree, BFS | | |
