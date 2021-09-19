@@ -97,6 +97,7 @@ https://leetcode.com/jummyegg/
 | 142 | [Linked List Cycle II](src/142.linked-list-cycle-ii.py) | Medium | O(N) | O(1) | Linked List, Two Pointers | | |
 | 143 | [Reorder List](src/143.reorder-list.py) | Medium | O(N) | O(1) | Linked List | | |
 | 144 | [Binary Tree Preorder Traversal](src/144.binary-tree-preorder-traversal.py) | Easy | O(N) | O(N) | Stack, Tree, DFS, Binary Tree | | |
+| 145 | [Binary Tree Postorder Traversal](src/145.binary-tree-postorder-traversal.py) | Easy | O(N) | O(N) | Stack, Tree, DFS, Binary Tree | | |
 | 147 | [Insertion Sort List](src/147.insertion-sort-list.py) | Medium | O(N^2) | O(1) | Sort, Linked List | | |
 | 151 | [Evaluate Reverse Polish Notation](src/150.evaluate-reverse-polish-notation.py) | Medium | O(N) | O(N) | Stack | | |
 | 151 | [Reverse Words in a String](src/151.reverse-words-in-a-string.py) | Easy | O(N) | O(N) | String | | |
