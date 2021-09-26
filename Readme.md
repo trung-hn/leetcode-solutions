@@ -409,6 +409,7 @@ https://leetcode.com/jummyegg/
 | 1288 | [Remove Covered Intervals](src/1288.remove-covered-intervals.py) | Medium | O(N) | O(1) | Greedy, Sort, Line Sweep | | |
 | 1290 | [Convert Binary Number in a Linked List to Integer](src/1290.convert-binary-number-in-a-linked-list-to-integer.py) | Easy | O(N) | O(1) | Linked List, Bit Manipulation | | |
 | 1291 | [Sequential Digits](src/1291.sequential-digits.py) | Medium | O(N) | O(N) | Backtracking | | |
+| 1293 | [Shortest Path in a Grid with Obstacles Elimination](src/1293.shortest-path-in-a-grid-with-obstacles-elimination.py) | Hard | O(R\*C) | O(R\*C) | Array, BFS, Matrix | | |
 | 1298 | [Maximum Candies You Can Get from Boxes](src/1298.maximum-candies-you-can-get-from-boxes.py) | Medium | O(B+K) | O(B) | BFS | | |
 | 1305 | [All Elements in Two Binary Search Trees](src/1305.all-elements-in-two-binary-search-trees.py) | Medium | O(N) | O(N) | Sort, Tree | | |
 | 1306 | [All Elements inJump Game III](src/1306.jump-game-iii.py) | Medium | O(N) | O(N) | BFS, DFS, Recursion | | |
