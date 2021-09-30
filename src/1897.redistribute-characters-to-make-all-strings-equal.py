@@ -15,8 +15,5 @@ class Solution:
         for word in words:
             counter += collections.Counter(word)
 
-        for f in counter.values():
-            if f % len(words):
-                return False
-        return True
+        return all(f % len(words) == 0 for f in counter.values())
 # @lc code=end
