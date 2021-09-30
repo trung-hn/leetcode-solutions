@@ -9,6 +9,7 @@
 
 
 class Solution:
+    # 52 ms, 61.71%. Time: O(N). Space: O(1)
     def largestOddNumber(self, num: str) -> str:
         for i in reversed(range(len(num))):
             if int(num[i]) % 2:
