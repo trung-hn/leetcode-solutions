@@ -592,6 +592,7 @@ https://leetcode.com/jummyegg/
 | 1899 | [Merge Triplets to Form Target Triplet](src/1899.merge-triplets-to-form-target-triplet.py) | Medium | O(N) | O(1) | Greedy, Array | | |
 | 1903 | [Largest Odd Number in String](src/1903.largest-odd-number-in-string.py) | Easy | O(N) | O(1) | Math, String, Greedy | | |
 | 1911 | [Maximum Alternating Subsequence Sum](src/1911.maximum-alternating-subsequence-sum.py) | Medium | O(N) | O(1) | Array, Dynamic Programming, Greedy | | |
+| 1971 | [Find if Path Exists in Graph](src/1971.find-if-path-exists-in-graph.py) | Easy | O(N) | O(N) | BFS, DFS, Graph | | |
 
 # Useful Posts:
 
