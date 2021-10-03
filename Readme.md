@@ -593,6 +593,7 @@ https://leetcode.com/jummyegg/
 | 1903 | [Largest Odd Number in String](src/1903.largest-odd-number-in-string.py) | Easy | O(N) | O(1) | Math, String, Greedy | | |
 | 1911 | [Maximum Alternating Subsequence Sum](src/1911.maximum-alternating-subsequence-sum.py) | Medium | O(N) | O(1) | Array, Dynamic Programming, Greedy | | |
 | 1971 | [Find if Path Exists in Graph](src/1971.find-if-path-exists-in-graph.py) | Easy | O(N) | O(N) | BFS, DFS, Graph | | |
+| 1974 | [Minimum Time to Type Word Using Special Typewriter](src/1974.minimum-time-to-type-word-using-special-typewriter.py) | Easy | O(N) | O(1) | String, Greedy | | |
 
 # Useful Posts:
 
