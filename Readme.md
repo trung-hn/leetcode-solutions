@@ -582,6 +582,7 @@ https://leetcode.com/jummyegg/
 | 1839 | [Longest Substring Of All Vowels in Order](src/1839.longest-substring-of-all-vowels-in-order.py) | Medium | O(N) | O(1) | Two Pointers, String | | |
 | 1844 | [Replace All Digits with Characters](src/1844.replace-all-digits-with-characters.py) | Easy | O(N) | O(N) | String | | |
 | 1845 | [Seat Reservation Manager](src/1845.seat-reservation-manager.py) | Medium | O(logN) | O(N) | Heap, Design | | |
+| 1846 | [Maximum Element After Decreasing and Rearranging](src/1846.maximum-element-after-decreasing-and-rearranging.py) | Medium | O(N) | O(N) | Array, Greedy, Sorting | | |
 | 1848 | [Minimum Distance to the Target Element](src/1848.minimum-distance-to-the-target-element.py) | Easy | O(N) | O(1) | Array | | |
 | 1854 | [Maximum Population Year](src/1854.maximum-population-year.py) | Easy | O(NlogN) | O(N) | Array, Counting | | |
 | 1859 | [Sorting the Sentence](src/1859.sorting-the-sentence.py) | Easy | O(N) | O(N) | String, Sorting | | |
