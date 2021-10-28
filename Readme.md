@@ -579,7 +579,7 @@ https://leetcode.com/jummyegg/
 | 1832 | [Check if the Sentence Is Pangram](src/1832.check-if-the-sentence-is-pangram.py) | Easy | O(N) | O(1) | String | | |
 | 1833 | [Maximum Ice Cream Bars](src/1833.maximum-ice-cream-bars.py) | Medium | O(NlogN) | O(sort) | Array, Sort | | |
 | 1837 | [Sum of Digits in Base K](src/1837.sum-of-digits-in-base-k.py) | Medium | O(logN) | O(1) | Math, Bit Manipulation | | |
-| 1839 | [Longest Substring Of All Vowels in Order](src/1839.longest-substring-of-all-vowels-in-order.py) | Medium | O(N) | O(1) | Two Pointers, String | | |
+| 1839 | [ Longest Substring Of All Vowels in Order](src/1839.longest-substring-of-all-vowels-in-order.py) | Medium | O(N) | O(1) | Two Pointers, String | | |
 | 1844 | [Replace All Digits with Characters](src/1844.replace-all-digits-with-characters.py) | Easy | O(N) | O(N) | String | | |
 | 1845 | [Seat Reservation Manager](src/1845.seat-reservation-manager.py) | Medium | O(logN) | O(N) | Heap, Design | | |
 | 1846 | [Maximum Element After Decreasing and Rearranging](src/1846.maximum-element-after-decreasing-and-rearranging.py) | Medium | O(N) | O(N) | Array, Greedy, Sorting | | |
@@ -608,6 +608,7 @@ https://leetcode.com/jummyegg/
 - [Powerful studying program for Beginners and Intermediate levels. All common mistakes analyzed.](https://leetcode.com/discuss/general-discussion/1129503/powerful-studying-program-for-beginners-and-intermediate-levels-all-common-mistakes-analyzed)
 - [Bit Hacks](https://leetcode.com/discuss/study-guide/1151183/TIPS-or-HACKS-WHICH-YOU-CAN'T-IGNORE-AS-A-CODER)
 - [Tips and Tricks](https://leetcode.com/discuss/study-guide/1177039/%22Practice-More-Learn-More%22-greater-Study-Guide-and-Interview-Preparation-Using-LEETCODE)
+- [Problem 65 - State Machine Solution](https://leetcode.com/problems/valid-number/discuss/360781/Python-with-state-machine-36ms)
 
 ## Syntax:
 
