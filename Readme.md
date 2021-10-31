@@ -109,6 +109,7 @@ https://leetcode.com/jummyegg/
 | 168 | [Excel Sheet Column Title](src/168.excel-sheet-column-title.py) | Medium | O(logN) | O(logN) | Math | Math Tricks | |
 | 171 | [Excel Sheet Column Number](src/171.excel-sheet-column-number.py) | Easy | O(N) | O(1) | String | | |
 | 179 | [Largest Number](src/179.largest-number.py) | Medium | O(NlogN) | O(1) | Sort | | |
+| 182 | [Duplicate Emails](src/182.sql) | Easy |N/A | N/A | Database | | |
 | 187 | [Repeated DNA Sequences](src/187.repeated-dna-sequences.py) | Medium | O(N-L) | O(N-L) | Hash Table, Bit Manipulation | | |
 | 190 | [Reverse Bits](src/190.reverse-bits.py) | Easy | O(1) | O(1) | Bit Manipulation | | |
 | 198 | [House Robber](src/198.house-robber.py) | Medium | O(N) | O(1) | Dynamic Programming | | |
