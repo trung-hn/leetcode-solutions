@@ -39,6 +39,7 @@
 
 -- Write your MySQL query statement below
 
+-- TAGS: Database
 
 --  329 ms, 56.92%. 
 SELECT email from
