@@ -595,7 +595,8 @@ https://leetcode.com/jummyegg/
 | 1899 | [Merge Triplets to Form Target Triplet](src/1899.merge-triplets-to-form-target-triplet.py) | Medium | O(N) | O(1) | Greedy, Array | | |
 | 1903 | [Largest Odd Number in String](src/1903.largest-odd-number-in-string.py) | Easy | O(N) | O(1) | Math, String, Greedy | | |
 | 1911 | [Maximum Alternating Subsequence Sum](src/1911.maximum-alternating-subsequence-sum.py) | Medium | O(N) | O(1) | Array, Dynamic Programming, Greedy | | |
-| 1920 | [Build Array from Permutation](src/1920.build-array-from-permutation.py) | Easy | O(N) | O(N) | Array, Simulation | | |
+| 1920 | [Build Array from Permutation](src/1920.build-array-from-permutation.py) | Easy | O(N) | O(1) | Array, Simulation | | |
+| 1929 | [Concatenation of Array](src/1929.concatenation-of-array.py) | Easy | O(N) | O(1) | Array | | |
 | 1962 | [Remove Stones to Minimize the Total](src/1962.remove-stones-to-minimize-the-total.py) | Medium | O(KlogN) | O(N) | Array, Heap | | |
 | 1971 | [Find if Path Exists in Graph](src/1971.find-if-path-exists-in-graph.py) | Easy | O(N) | O(N) | BFS, DFS, Graph | | |
 | 1974 | [Minimum Time to Type Word Using Special Typewriter](src/1974.minimum-time-to-type-word-using-special-typewriter.py) | Easy | O(N) | O(1) | String, Greedy | | |
