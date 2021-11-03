@@ -602,6 +602,7 @@ https://leetcode.com/jummyegg/
 | 1962 | [Remove Stones to Minimize the Total](src/1962.remove-stones-to-minimize-the-total.py) | Medium | O(KlogN) | O(N) | Array, Heap | | |
 | 1971 | [Find if Path Exists in Graph](src/1971.find-if-path-exists-in-graph.py) | Easy | O(N) | O(N) | BFS, DFS, Graph | | |
 | 1974 | [Minimum Time to Type Word Using Special Typewriter](src/1974.minimum-time-to-type-word-using-special-typewriter.py) | Easy | O(N) | O(1) | String, Greedy | | |
+| 2042 | [Check if Numbers Are Ascending in a Sentence](src/2042.check-if-numbers-are-ascending-in-a-sentence.py) | Easy | O(N) | O(1) | String | | |
 
 # Useful Posts:
 
