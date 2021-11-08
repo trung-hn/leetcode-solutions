@@ -55,16 +55,16 @@ https://leetcode.com/jummyegg/
 | 45 | [Jump Game II](src/45.jump-game-ii.py) | Medium | O(N) | O(1) | Array, Greedy | | |
 | 46 | [Permutations](src/46.permutations.py) | Medium | O(N!) | O(N!) | Backtracking | | |
 | 47 | [Permutations II](src/47.permutations-ii.py) | Medium | O(N!) | O(N!) | Backtracking | | |
-| 48 | [Rotate Image](src/48.rotate-image.py) | Medium | O(N*M) | O(1) | Array | | |
+| 48 | [Rotate Image](src/48.rotate-image.py) | Medium | O(N\*M) | O(1) | Array | | |
 | 51 | [N-Queens](src/51.n-queens.py) | Hard | O(N!) | O(N^2) | Backtracking | | |
 | 51 | [N-Queens II](src/52.n-queens-ii.py) | Hard | O(N!) | O(N^2) | Backtracking | | |
 | 53 | [Maximum Subarray](src/53.maximum-subarray.py) | Easy | O(N) | O(1) | | | |
 | 57 | [Insert Interval](src/57.insert-interval.py) | Hard | O(N) | O(N) | Array, Sort, Greedy | | |
 | 59 | [Spiral Matrix II](src/59.spiral-matrix-ii.py) | Medium | O(N^2) | O(N^2) | Array | | |
 | 61 | [Rotate List](src/61.rotate-list.py) | Medium | O(N) | O(1) | Linked List, Two Pointers | | |
-| 63 | [Unique Paths II](src/63.unique-paths-ii.py) | Medium | O(M*N) | O(M) | Array, Dynamic Programming | | |
+| 63 | [Unique Paths II](src/63.unique-paths-ii.py) | Medium | O(M\*N) | O(M) | Array, Dynamic Programming | | |
 | 71 | [Simplify Path](src/71.simplify-path.py) | Medium | O(N) | O(N) | String, Stack | | |
-| 72 | [Edit Distance](src/72.edit-distance.py) | Hard | O(N * M) | O(N) | String, Dynamic Programming | | |
+| 72 | [Edit Distance](src/72.edit-distance.py) | Hard | O(N\*M) | O(N) | String, Dynamic Programming | | |
 | 74 | [Search a 2D Matrix](src/74.search-a-2-d-matrix.py) | Medium | O(logN + logM) | O(1) | Binary Search | | |
 | 76 | [Minimum Window Substring](src/76.minimum-window-substring.py) | Hard | O(S+T) | O(S+T) | Hash Table, Two Pointers, String, Sliding Window | | |
 | 78 | [Subsets](src/78.subsets.py) | Medium | O(N\*2^N) | O(N\*2^N) | Backtracking, Bit Manipulation | | |
@@ -145,20 +145,20 @@ https://leetcode.com/jummyegg/
 | 274 | [H-Index](src/274.h-index.py) | Medium | O(NlogN) | O(N) | Hash Table, Sort | There is a better solution | |
 | 283 | [Move Zeroes](src/283.move-zeroes.py) | Easy | O(N) | O(1) | Array, Two Pointers | | |
 | 284 | [Peeking Iterator](src/284.peeking-iterator.py) | Medium | O(NlogN) | O(N) | Design | | |
-| 289 | [Game of Life](src/289.game-of-life.py) | Medium | O(M*N) | O(1) | Array | | |
+| 289 | [Game of Life](src/289.game-of-life.py) | Medium | O(M\*N) | O(1) | Array | | |
 | 290 | [Word Pattern](src/290.word-pattern.py) | Easy | O(N) | O(N) | Hash Table | | |
 | 295 | [Find Median from Data Stream](src/295.find-median-from-data-stream.py) | Hard | O(logN) | O(N) | Design, Hard, Heap | | |
-| 296 | [Best Meeting Point](src/296.py) | Hard | O(M*N) | O(M+N) | Premium, Math | | 🔒 |
+| 296 | [Best Meeting Point](src/296.py) | Hard | O(M\*N) | O(M+N) | Premium, Math | | 🔒 |
 | 297 | [Serialize and Deserialize Binary Tree](src/297.serialize-and-deserialize-binary-tree.py) | Hard | O(N) | O(N) | Tree, Design | | |
 | 299 | [Bulls and Cows](src/299.bulls-and-cows.py) | Easy | O(N) | O(N) | Hash Table | | |
 | 300 | [Longest Increasing Subsequence](src/300.longest-increasing-subsequence.py) | Medium | O(NlogN) | O(N) | Binary Search, Dynamic Programming | | |
-| 304 | [Range Sum Query 2D - Immutable](src/304.range-sum-query-2-d-immutable.py) | Medium | O(1) | O(R*C) | Dynamic Programming | Matrix Range Sum Trick | |
+| 304 | [Range Sum Query 2D - Immutable](src/304.range-sum-query-2-d-immutable.py) | Medium | O(1) | O(R\*C) | Dynamic Programming | Matrix Range Sum Trick | |
 | 310 | [Minimum Height Trees](src/310.minimum-height-trees.py) | Medium | O(V) | O(V) | BFS, Graph | | |
 | 316 | [Remove Duplicate Letters](src/316.remove-duplicate-letters.py) | Hard | O(N) | O(1) | Greedy, Tricky, Stack | | |
 | 317 | [Shortest Distance from All Buildings](src/317.py) | Hard | O(N\*M) | O(N\*M) | BFS, Premium | | 🔒 |
 | 319 | [Bulb Switcher](src/319.bulb-switcher.py) | Medium | O(1) | O(1) | Math, Tricky | | |
-| 320 | [Generalized Abbreviation](src/320.py) | Medium | O(N*2^N) | O(N) | Premium, Backtracking | | 🔒 |
-| 322 | [Coin Change](src/322.coin-change.py) | Medium | O(A*N) | O(A) | Dynamic Programming | | |
+| 320 | [Generalized Abbreviation](src/320.py) | Medium | O(N\*2^N) | O(N) | Premium, Backtracking | | 🔒 |
+| 322 | [Coin Change](src/322.coin-change.py) | Medium | O(A\*N) | O(A) | Dynamic Programming | | |
 | 328 | [Odd Even Linked List](src/328.odd-even-linked-list.py) | Medium | O(N) | O(1) | Linked List | | |
 | 329 | [Longest Increasing Path in a Matrix](src/329.longest-increasing-path-in-a-matrix.py) | Hard | O(R\*C) | O(R\*C) | DFS, Topology Sort, Memoization | | |
 | 331 | [Verify Preorder Serialization of a Binary Tree](src/331.verify-preorder-serialization-of-a-binary-tree.py) | Medium | O(N) | O(N) | String, Stack, Tree, Binary Tree | | |
@@ -178,22 +178,22 @@ https://leetcode.com/jummyegg/
 | 363 | [Max Sum of Rectangle No Larger Than K](src/363.max-sum-of-rectangle-no-larger-than-k.py) | Hard | O(R\*R\*C\*logC) | O(R\*C) | Array, Binary Search, Dynamic Programming, Matrix, Ordered Set | | |
 | 367 | [Valid Perfect Square](src/367.valid-perfect-square.py) | Easy | O(logN) | O(1) | Math, Binary Search | | |
 | 376 | [Wiggle Subsequence](src/376.wiggle-subsequence.py) | Medium | O(N) | O(1) | Greedy, Dynamic Programming | | |
-| 377 | [Combination Sum IV](src/377.combination-sum-iv.py) | Medium | O(T*N) | O(T) | Dynamic Programming | | |
+| 377 | [Combination Sum IV](src/377.combination-sum-iv.py) | Medium | O(T\*N) | O(T) | Dynamic Programming | | |
 | 378 | [Kth Smallest Element in a Sorted Matrix](src/378.kth-smallest-element-in-a-sorted-matrix.py) | Medium | O(N^2logK) | O(K) | Heap, Binary Search | | |
 | 380 | [Insert Delete GetRandom](src/380.insert-delete-get-random-o-1.py) | Medium | O(1) | O(N) | Array, Hash Table, Design | | |
 | 384 | [Shuffle an Array](src/384.shuffle-an-array.py) | Medium | O(N) | O(N) | | | |
 | 387 | [First Unique Character in a String](src/387.first-unique-character-in-a-string.py) | Easy | O(N) | O(N) | | | |
 | 389 | [Find the Difference](src/389.find-the-difference.py) | Medium | O(N) | O(1) | Hash Table, Bit Manipulation | | |
-| 394 | [Decode String](src/394.decode-string.py) | Medium | O(maxK*N) | O(N) | Stack, DFS | | |
+| 394 | [Decode String](src/394.decode-string.py) | Medium | O(maxK\*N) | O(N) | Stack, DFS | | |
 | 395 | [Longest Substring with At Least K Repeating Characters](src/395.longest-substring-with-at-least-k-repeating-characters.py) | Medium | O(NlogN) | O(N) | Divide and Conquer, Recursion, Sliding Window | | |
-| 399 | [Evaluate Division](src/399.evaluate-division.py) | Medium | O(N*M) | O(N) | Union Find, Graph | | |
+| 399 | [Evaluate Division](src/399.evaluate-division.py) | Medium | O(N\*M) | O(N) | Union Find, Graph | | |
 | 402 | [Remove K Digits](src/402.remove-k-digits.py) | Medium | O(N) | O(N) | Greedy | | |
 | 404 | [Sum of Left Leaves](src/404.sum-of-left-leaves.py) | Easy | O(N) | O(H) | Tree | | |
 | 406 | [Queue Reconstruction by Height](src/406.queue-reconstruction-by-height.py) | Medium | O(N^2) | O(N) | Greedy | Clever solution | |
 | 413 | [Arithmetic Slices](src/413.arithmetic-slices.py) | Medium | O(N) | O(1) | Math, Dynamic Programming | | |
-| 416 | [Partition Equal Subset Sum](src/416.partition-equal-subset-sum.py) | Medium | O(M*N) | O(M) | Dynamic Programming | | |
+| 416 | [Partition Equal Subset Sum](src/416.partition-equal-subset-sum.py) | Medium | O(M\*N) | O(M) | Dynamic Programming | | |
 | 417 | [Pacific Atlantic Water Flow](src/417.pacific-atlantic-water-flow.py) | Medium | O(R\*C) | O(R\*C) | DFS, BFS | | |
-| 419 | [Battleships in a Board](src/419.battleships-in-a-board.py) | Medium | O(N*N) | O(1) | Array, DFS | | |
+| 419 | [Battleships in a Board](src/419.battleships-in-a-board.py) | Medium | O(N\*N) | O(1) | Array, DFS | | |
 | 423 | [Reconstruct Original Digits from English](src/423.reconstruct-original-digits-from-english.py) | Medium | O(N) | O(N) | Math | | |
 | 425 | [Word Squares](src/425.py) | Hard | Complex | Complex | Back Tracking, Trie, Premium | | 🔒 |
 | 428 | [Serialize and Deserialize N-ary Tree](src/428.py) | Hard | O(N) | O(H) | Tree, Premium | | 🔒 |
@@ -213,7 +213,7 @@ https://leetcode.com/jummyegg/
 | 456 | [132 Pattern](src/456.132-pattern.py) | Medium | O(N) | O(N) | Stack | | |
 | 458 | [Poor Pigs](src/458.poor-pigs.py) | Hard | O(1) | O(1) | Math | | |
 | 462 | [Minimum Moves to Equal Array Elements II](src/462.minimum-moves-to-equal-array-elements-ii.py) | Median | O(NlogN) | O(N) | Math | | |
-| 463 | [Island Perimeter](src/463.island-perimeter.py) | Easy | O(N*M) | O(1) | Greedy | | |
+| 463 | [Island Perimeter](src/463.island-perimeter.py) | Easy | O(N\*M) | O(1) | Greedy | | |
 | 470 | [Implement Rand10() Using Rand7()](src/470.implement-rand-10-using-rand-7.py) | Medium | O(1) | O(1) | Math | | |
 | 473 | [Matchsticks to Square](src/473.matchsticks-to-square.py) | Medium | O(4^N) | O(4^N) | DFS, Dynamic Programming | | |
 | 474 | [Ones and Zeroes](src/474.ones-and-zeroes.py) | Medium | O(K\*M\*N) | O(K\*M\*N) | Dynamic Programming | | |
@@ -299,7 +299,7 @@ https://leetcode.com/jummyegg/
 | 799 | [Champagne Tower](src/799.champagne-tower.py) | Medium | O(R^2) | O(R^2) | Dynamic Programming | | |
 | 802 | [Find Eventual Safe States](src/802.find-eventual-safe-states.py) | Medium | O(V+E) | O(V+E) | DFS, Graph | | |
 | 820 | [Short Encoding of Words](src/820.short-encoding-of-words.py) | Medium | O(N\*M) | O(N\*M) | Trie | | |
-| 823 | [Binary Trees With Factors](src/823.binary-trees-with-factors.py) | Medium | O(N*N) | O(N) | Dynamic Programming | | |
+| 823 | [Binary Trees With Factors](src/823.binary-trees-with-factors.py) | Medium | O(N\*N) | O(N) | Dynamic Programming | | |
 | 825 | [Friends Of Appropriate Ages](src/825.friends-of-appropriate-ages.py) | Medium | O(N) | O(1) | Array | | |
 | 827 | [Making A Large Island](src/827.making-a-large-island.py) | Hard | O(N^2) | O(N^2) | Array, DFS, BFS, Union-Find, Matrix | | |
 | 830 | [Positions of Large Groups](src/830.positions-of-large-groups.py) | Easy | O(N) | O(1) | | | |
@@ -326,7 +326,7 @@ https://leetcode.com/jummyegg/
 | 881 | [Boats to Save People](src/881.boats-to-save-people.py) | Medium | O(NlogN) | O(N) | Two Pointers, Greedy | | |
 | 886 | [Possible Bipartition](src/886.possible-bipartition.py) | Medium | O(N + E) | O(N + E) | DFS | Good problem | |
 | 890 | [Find and Replace Pattern](src/890.find-and-replace-pattern.py) | Medium | O(N\*K) | O(N\*K) | String | | |
-| 892 | [Surface Area of 3D Shapes](src/892.surface-area-of-3-d-shapes.py) | Easy | O(N*N) | O(1) | Math, Geometry | | |
+| 892 | [Surface Area of 3D Shapes](src/892.surface-area-of-3-d-shapes.py) | Easy | O(N\*N) | O(1) | Math, Geometry | | |
 | 895 | [Maximum Frequency Stack](src/895.maximum-frequency-stack.py) | Medium | O(1) | O(N) | Hash Table, Stack | | |
 | 901 | [Online Stock Span](src/901.online-stock-span.py) | Medium | O(1) | O(N) | Monotonic Stack | | |
 | 902 | [Numbers At Most N Given Digit Set](src/902.numbers-at-most-n-given-digit-set.py) | Hard | O(LogN) | O(1) | Math, Dynamic Programming | | |
@@ -354,10 +354,10 @@ https://leetcode.com/jummyegg/
 | 958 | [Check Completeness of a Binary Tree](src/958.check-completeness-of-a-binary-tree.py) | Medium | O(N) | O(N) | Tree | | |
 | 962 | [Maximum Width Ramp](src/962.maximum-width-ramp.py) | Medium | O(NlogN) | O(N) | Array | | |
 | 966 | [Vowel Spellchecker](src/966.vowel-spellchecker.py) | Medium | O(N) | O(N) | Hash Table, String | | |
-| 967 | [Numbers With Same Consecutive Differences](src/967.numbers-with-same-consecutive-differences.py) | Medium | O(N*2^N) | O(2^N) | DFS | | |
+| 967 | [Numbers With Same Consecutive Differences](src/967.numbers-with-same-consecutive-differences.py) | Medium | O(N\*2^N) | O(2^N) | DFS | | |
 | 968 | [Binary Tree Cameras](src/968.binary-tree-cameras.py) | Hard | O(N) | O(H) | Greedy, Tree, Dynamic Programming, DFS | New Technique | |
 | 969 | [Pancake Sorting](src/969.pancake-sorting.py) | Medium | O(N^2) | O(N) | Array | | |
-| 970 | [Powerful Integers](src/970.powerful-integers.py) | Medium | O(logx*logy) | O(logx+logy) | Hash Table, Math | | |
+| 970 | [Powerful Integers](src/970.powerful-integers.py) | Medium | O(logx\*logy) | O(logx+logy) | Hash Table, Math | | |
 | 971 | [Flip Binary Tree To Match Preorder Traversal](src/971.flip-binary-tree-to-match-preorder-traversal.py) | Medium | O(N) | O(N) | Tree, DFS | | |
 | 973 | [K Closest Points to Origin](src/973.k-closest-points-to-origin.py) | Medium | O(N log(K)) | O(K) | Divide and Conquer, Heap, Sort | | |
 | 974 | [Subarray Sums Divisible by K](src/974.subarray-sums-divisible-by-k.py) | Medium | O(N) | O(K) | Array, Hash Table | | |
@@ -380,14 +380,14 @@ https://leetcode.com/jummyegg/
 | 1014 | [Best Sightseeing Pair](src/1014.best-sightseeing-pair.py) | Medium | O(N) | O(1) | Array | | |
 | 1015 | [Smallest Integer Divisible by K](src/1015.smallest-integer-divisible-by-k.py) | Medium | O(K) | O(K) | Math | | |
 | 1022 | [Sum of Root To Leaf Binary Numbers](src/1022.sum-of-root-to-leaf-binary-numbers.py) | Easy | O(N) | O(H) | Tree | | |
-| 1023 | [Camelcase Matching](src/1023.camelcase-matching.py) | Medium | O(Q*N) | O(Q) | String, Trie | | |
+| 1023 | [Camelcase Matching](src/1023.camelcase-matching.py) | Medium | O(Q\*N) | O(Q) | String, Trie | | |
 | 1024 | [Video Stitching](src/1024.video-stitching.py) | Medium | O(NlogN) | O(1) | Dynamic Programming | | |
 | 1026 | [Maximum Difference Between Node and Ancestor](src/1026.maximum-difference-between-node-and-ancestor.py) | Medium | O(N) | O(H) | Tree, DFS | | |
 | 1029 | [Two City Scheduling](src/1029.two-city-scheduling.py) | Easy | O(NlogN) | O(N) | Greedy | Good Problem | |
 | 1032 | [Stream of Characters](src/1032.stream-of-characters.py) | Hard | O(M) | O(M) | Trie | | |
 | 1035 | [Uncrossed Lines](src/1035.uncrossed-lines.py) | Medium | O(N^2) | O(N) | Array, Dynamic Programming | | |
 | 1042 | [Flower Planting With No Adjacent](src/1042.flower-planting-with-no-adjacent.py) | Medium | O(V+E) | O(V+E) | Graph | | |
-| 1048 | [Longest String Chain](src/1048.longest-string-chain.py) | Medium | `O(N*logN+N*C*C)` | `O(N)` | Hash Table, Dynamic Programming | | |
+| 1048 | [Longest String Chain](src/1048.longest-string-chain.py) | Medium | `O(N\*logN+N\*C*C)` | `O(N)` | Hash Table, Dynamic Programming | | |
 | 1052 | [Grumpy Bookstore Owner](src/1052.grumpy-bookstore-owner.py) | Medium | O(N) | O(N) | Sliding Window, Array | | |
 | 1053 | [Previous Permutation With One Swap](src/1053.previous-permutation-with-one-swap.py) | Medium | O(N) | O(N) | Array, Greedy | | |
 | 1054 | [Distant Barcodes](src/1054.distant-barcodes.py) | Medium | O(NlogN) | O(N) | Sort, Heap | | |
@@ -451,7 +451,7 @@ https://leetcode.com/jummyegg/
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](src/1456.maximum-number-of-vowels-in-a-substring-of-given-length.py) | Medium | O(N) | O(1) | String, Sliding Window | | |
 | 1457 | [Pseudo-Palindromic Paths in a Binary Tree](src/1457.pseudo-palindromic-paths-in-a-binary-tree.py) | Medium | O(N) | O(H) | Bit Manipulation, Tree, DFS   | | |
 | 1460 | [Make Two Arrays Equal by Reversing Sub-arrays](src/1460.make-two-arrays-equal-by-reversing-sub-arrays.py) | Easy | O(N) | O(1) | Array | | |
-| 1461 | [Check If a String Contains All Binary Codes of Size K](src/1461.check-if-a-string-contains-all-binary-codes-of-size-k.py) | Medium | O(N) | O(2**K) | String, Bit Manipulation | | |
+| 1461 | [Check If a String Contains All Binary Codes of Size K](src/1461.check-if-a-string-contains-all-binary-codes-of-size-k.py) | Medium | O(N) | O(2\*\*K) | String, Bit Manipulation | | |
 | 1463 | [Cherry Pickup II](src/1463.cherry-pickup-ii.py) | hard | O(R\*C\*C) | O(R\*C\*C) | Dynamic Programming | | |
 | 1464 | [Maximum Product of Two Elements in an Array](src/1464.maximum-product-of-two-elements-in-an-array.py) | Easy | O(N) | O(1) | Array | | |
 | 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](src/1465.maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.py) | Medium | O(NlogN) | O(N) | Array | | |
@@ -474,7 +474,7 @@ https://leetcode.com/jummyegg/
 | 1507 | [Reformat Date](src/1507.reformat-date.py) | Easy | O(1) | O(1) | String | | |
 | 1508 | [Range Sum of Sorted Subarray Sums](src/1508.range-sum-of-sorted-subarray-sums.py) | Medium | O(N^2logN) | O(N^2) | | | |
 | 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](src/1509.minimum-difference-between-largest-and-smallest-value-in-three-moves.py) | Medium | O(NlogN) | O(1) | | | |
-| 1510 | [Stone Game IV](src/1510.stone-game-iv.py) | Hard | O(N*N^0.5) | O(N) | Dynamic Programming | | |
+| 1510 | [Stone Game IV](src/1510.stone-game-iv.py) | Hard | O(N\*N^0.5) | O(N) | Dynamic Programming | | |
 | 1512 | [Number of Good Pairs](src/1512.number-of-good-pairs.py) | Easy | O(N) | O(N) | | | |
 | 1513 | [Number of Substrings With Only 1s](src/1513.number-of-substrings-with-only-1-s.py) | Medium | O(N) | O(N) | String, Math | | |
 | 1518 | [Water Bottles](src/1518.water-bottles.py) | Easy | O(1) | O(1) | Greedy, Simulation | | |
@@ -519,7 +519,7 @@ https://leetcode.com/jummyegg/
 | 1615 | [Maximal Network Rank](src/1615.maximal-network-rank.py) | Medium | O(N) | O(1) | Graph | | |
 | 1618 | [Maximum Font to Fit a Sentence in a Screen](src/1618.py) | Medium | O(logN) | O(1) | Premium, String, Binary Search | | 🔒 |
 | 1624 | [Largest Substring Between Two Equal Characters](src/1624.largest-substring-between-two-equal-characters.py) | Easy | O(N) | O(1) | String | | |
-| 1625 | [Lexicographically Smallest String After Applying Operations](src/1625.lexicographically-smallest-string-after-applying-operations.py) | Medium | O(N*N) | O(N) | BFS, DFS | | |
+| 1625 | [Lexicographically Smallest String After Applying Operations](src/1625.lexicographically-smallest-string-after-applying-operations.py) | Medium | O(N\*N) | O(N) | BFS, DFS | | |
 | 1629 | [Slowest Key](src/1629.slowest-key.py) | Easy | O(N) | O(1) | String | | |
 | 1631 | [Path With Minimum Effort](src/1631.path-with-minimum-effort.py) | Medium | O(N\*M\*logH) | O(M\*N) | Binary Search, DFS, BFS, Union Find, Graph | | |
 | 1632 | [Rank Transform of a Matrix](src/1632.rank-transform-of-a-matrix.py) | Hard | O(NlogN) | O(N) | Array, Greedy, Union Find, Graph, Topological Sort, Matrix | | |
@@ -548,7 +548,7 @@ https://leetcode.com/jummyegg/
 | 1696 | [Jump Game VI](src/1696.jump-game-vi.py) | Medium | O(N) | O(N) | Dequeue | Dequeue, Monotonic Dequeue | |
 | 1700 | [Number of Students Unable to Eat Lunch](src/1700.number-of-students-unable-to-eat-lunch.py) | Medium | O(N) | O(1) | Array | | |
 | 1705 | [Maximum Number of Eaten Apples](src/1705.maximum-number-of-eaten-apples.py) | Medium | O(NlogN) | O(N) | Heap, Greedy | | |
-| 1706 | [Where Will the Ball Fall](src/1706.where-will-the-ball-fall.py) | Medium | O(N*M) | O(M) | Dynamic Programming | | |
+| 1706 | [Where Will the Ball Fall](src/1706.where-will-the-ball-fall.py) | Medium | O(N\*M) | O(M) | Dynamic Programming | | |
 | 1710 | [Maximum Units on a Truck](src/1710.maximum-units-on-a-truck.py) | Medium | O(NlogN) | O(N) | Greedy, Sort | | |
 | 1716 | [Calculate Money in Leetcode Bank](src/1716.calculate-money-in-leetcode-bank.py) | Easy | O(N) | O(1) | Math, Greedy | | |
 | 1721 | [Swapping Nodes in a Linked List](src/1721.swapping-nodes-in-a-linked-list.py) | Medium | O(N) | O(1) | Linked List | | |
@@ -580,7 +580,7 @@ https://leetcode.com/jummyegg/
 | 1816 | [Truncate Sentence](src/1816.truncate-sentence.py) | Easy | O(N) | O(1) | String | | |
 | 1818 | [Minimum Absolute Sum Difference](src/1818.minimum-absolute-sum-difference.py) | Medium | O(NlogN) | O(sort) | Binary Search, Greedy | | |
 | 1827 | [Minimum Operations to Make the Array Increasing](src/1827.minimum-operations-to-make-the-array-increasing.py) | Easy | O(N) | O(1) | Array, Greedy | | |
-| 1828 | [Queries on Number of Points Inside a Circle](src/1828.queries-on-number-of-points-inside-a-circle.py) | Medium | O(N*M) | O(M) | Math | | |
+| 1828 | [Queries on Number of Points Inside a Circle](src/1828.queries-on-number-of-points-inside-a-circle.py) | Medium | O(N\*M) | O(M) | Math | | |
 | 1832 | [Check if the Sentence Is Pangram](src/1832.check-if-the-sentence-is-pangram.py) | Easy | O(N) | O(1) | String | | |
 | 1833 | [Maximum Ice Cream Bars](src/1833.maximum-ice-cream-bars.py) | Medium | O(NlogN) | O(sort) | Array, Sort | | |
 | 1837 | [Sum of Digits in Base K](src/1837.sum-of-digits-in-base-k.py) | Medium | O(logN) | O(1) | Math, Bit Manipulation | | |
