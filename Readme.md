@@ -400,6 +400,7 @@ https://leetcode.com/jummyegg/
 | 1109 | [Corporate Flight Bookings](src/1109.corporate-flight-bookings.py) | Medium | O(N) | O(N) | Array, Math | | |
 | 1130 | [Minimum Cost Tree From Leaf Values](src/1130.minimum-cost-tree-from-leaf-values.py) | Medium | O(N) | O(N) | Dynamic Programming, Tree, Stack | | |
 | 1162 | [As Far from Land as Possible](src/1162.as-far-from-land-as-possible.py) | Medium | O(N\*M) | O(N\*M) | Graph, BFS | | |
+| 1178 | [Number of Valid Words for Each Puzzle](src/1178.number-of-valid-words-for-each-puzzle.py) | Medium | O(Complex) | O(Complex) | Array, Hash Table, String, Bit Manipulation, Trie | | |
 | 1192 | [Critical Connections in a Network](src/1192.critical-connections-in-a-network.py) | Medium | O(V+E) | O(V+E) | DFS, Tarjan | New Algorithm | |
 | 1209 | [Remove All Adjacent Duplicates in String II](src/1209.remove-all-adjacent-duplicates-in-string-ii.py) | Medium | O(N) | O(N) | Stack | | |
 | 1217 | [Minimum Cost to Move Chips to The Same Position](src/1217.minimum-cost-to-move-chips-to-the-same-position.py) | Easy | O(N) | O(1) | Math, Greedy, Array | | |
