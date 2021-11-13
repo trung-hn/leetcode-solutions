@@ -117,6 +117,7 @@ https://leetcode.com/jummyegg/
 | 190 | [Reverse Bits](src/190.reverse-bits.py) | Easy | O(1) | O(1) | Bit Manipulation | | |
 | 198 | [House Robber](src/198.house-robber.py) | Medium | O(N) | O(1) | Dynamic Programming | | |
 | 200 | [Number of Islands](src/200.number-of-islands.py) | Medium | O(R\*C) | O(R\*C) | Array, BFS, DFS, Union Find, Matrix | | |
+| 203 | [Count Primes](src/203.remove-linked-list-elements.py) | Easy | O(N) | O(1) | Linked List, Recursion | | |
 | 204 | [Count Primes](src/204.count-primes.py) | Medium | O(loglogN) | O(N) | Hash Table, Math | | |
 | 207 | [Course Schedule](src/207.course-schedule.py) | Medium | O(N + E) | O(N + E) | BFS, DFS, Graph, Topological Sort | | |
 | 208 | [Implement Trie (Prefix Tree)](src/208.implement-trie-prefix-tree.py) | Medium | Varying | Varying | Design, Trie | | |
