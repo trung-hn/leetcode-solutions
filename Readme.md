@@ -77,6 +77,7 @@ https://leetcode.com/jummyegg/
 | 100 | [Same Tree](src/100.same-tree.py) | Easy | O(N) | O(H) | Tree, Pythonic | | |
 | 102 | [Binary Tree Level Order Traversal](src/102.binary-tree-level-order-traversal.py) | Medium | O(N) | O(N) | Tree, BFS | | |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](src/105.construct-binary-tree-from-preorder-and-inorder-traversal.py) | Medium | O(N) | O(N) | Array, Tree, DFS | | |
+| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](src/106.construct-binary-tree-from-inorder-and-postorder-traversal.py) | Medium | O(N) | O(N) | Array, Hash Table, Divide and Conquer, Tree, Binary Tree | | |
 | 107 | [Binary Tree Level Order Traversal II](src/107.binary-tree-level-order-traversal-ii.py) | Easy | O(N) | O(N) | Tree, BFS | | |
 | 111 | [Minimum Depth of Binary Tree](src/111.minimum-depth-of-binary-tree.py) | Easy | O(N) | O(H) | Tree, DFS, BFS | | |
 | 114 | [Flatten Binary Tree to Linked List](src/114.flatten-binary-tree-to-linked-list.py) | Medium | O(N) | O(1) | Tree, DFS | | |
