@@ -5,6 +5,7 @@
 #
 
 # @lc code=start
+# TAGS: Array, Queue, Simulation
 class Solution:
     # 32 ms, 85.71%. Time: O(N). Space: O(1)
     def timeRequiredToBuy(self, tickets: List[int], k: int) -> int:
