@@ -611,6 +611,7 @@ https://leetcode.com/jummyegg/
 | 2062 | [Count Vowel Substrings of a String](src/2062.count-vowel-substrings-of-a-string.py) | Easy | O(N^3) | O(N) | Hash Table, String | | |
 | 2073 | [Time Needed to Buy Tickets](src/2073.time-needed-to-buy-tickets.py) | Easy | O(N) | O(1) | Array, Queue, Simulation | | |
 | 2074 | [Reverse Nodes in Even Length Groups](src/2074.reverse-nodes-in-even-length-groups.py) | Medium | O(N) | O(N) | Linked List | | |
+| 2094 | [Finding 3-Digit Even Numbers](src/2094.finding-3-digit-even-numbers.py) | Easy | O(N) | O(N) |  | | |
 | 2095 | [Delete the Middle Node of a Linked List](src/2095.delete-the-middle-node-of-a-linked-list.py) | Medium | O(N) | O(1) | Linked List | | |
 
 # Useful Posts
