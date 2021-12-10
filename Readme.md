@@ -5,7 +5,7 @@
 
 ## My profile
 
-https://leetcode.com/jummyegg/
+[Trung Hoang](https://leetcode.com/jummyegg/)
 
 ## Tips to Improve your Skills
 
@@ -31,7 +31,7 @@ https://leetcode.com/jummyegg/
 | `N <= 10^6` | `O(N)` or `O(NlogN)` |
 | `N > 10^6` | `O(1)` or `O(logN)` |
 
-# Solutions list (~550 Problems)
+## Solutions list (~550 Problems)
 
 | # | Title | Level | Time | Space | Tags | Note | Premium 🔒 |
 |---|---|---|---|---|---|---|---|
@@ -615,7 +615,7 @@ https://leetcode.com/jummyegg/
 | 2094 | [Finding 3-Digit Even Numbers](src/2094.finding-3-digit-even-numbers.py) | Easy | O(N) | O(N) |  | | |
 | 2095 | [Delete the Middle Node of a Linked List](src/2095.delete-the-middle-node-of-a-linked-list.py) | Medium | O(N) | O(1) | Linked List | | |
 
-# Useful Posts
+## Useful Posts
 
 - [Important and Useful links from all over the LeetCode](https://leetcode.com/discuss/general-discussion/665604/Important-and-Useful-links-from-all-over-the-LeetCode)
 - [Graph](https://leetcode.com/discuss/general-discussion/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions)
@@ -628,32 +628,34 @@ https://leetcode.com/jummyegg/
 - [Tips and Tricks](https://leetcode.com/discuss/study-guide/1177039/%22Practice-More-Learn-More%22-greater-Study-Guide-and-Interview-Preparation-Using-LEETCODE)
 - [Problem 65 - State Machine Solution](https://leetcode.com/problems/valid-number/discuss/360781/Python-with-state-machine-36ms)
 
-## Syntax
+### Syntax
 
 - [C++](https://leetcode.com/discuss/study-guide/1154632/C%2B%2B-STL-powerful-guide-or-Compiled-list-of-popular-STL-operations)
 - [Java](https://leetcode.com/discuss/study-guide/1170715/Java-or-Data-Structure-Mostly-used-Syntax)
 
-## Dynamic Programming
+### Dynamic Programming
 
-- https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions
-- https://leetcode.com/discuss/interview-question/491522/dynamic-programming-questions-thread
-- https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns
-- https://leetcode.com/discuss/general-discussion/868902/dynamic-programming
-- https://leetcode.com/discuss/general-discussion/1081421/powerful-dynamic-programming-explanation
+- [Post 1](https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions)
+- [Post 2](https://leetcode.com/discuss/interview-question/491522/dynamic-programming-questions-thread)
+- [Post 3](https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns)
+- [Post 4](https://leetcode.com/discuss/general-discussion/868902/dynamic-programming)
+- [Post 5](https://leetcode.com/discuss/general-discussion/1081421/powerful-dynamic-programming-explanation)
 
-## System Design
+### System Design
 
 - [✅ Helpful list of LeetCode Posts on System Design at Facebook, Google, Amazon, Uber, Microsoft](https://leetcode.com/discuss/interview-question/1140451/helpful-list-of-leetcode-posts-on-system-design-at-facebook-google-amazon-uber-microsoft)
-- https://leetcode.com/discuss/interview-question/1177601/Flipkart-or-Machine-Coding-or-Design-Online-Coding-Platform-CODING-BLOX-Leetcode-LLD
+- [Flipkart | Machine Coding | Design Online Coding Platform CODING BLOX / Leetcode LLD
+](https://leetcode.com/discuss/interview-question/1177601/Flipkart-or-Machine-Coding-or-Design-Online-Coding-Platform-CODING-BLOX-Leetcode-LLD)
 
-## LP
+### LP
 
 - [Amazon LPs Compiled](https://leetcode.com/discuss/interview-experience/1149636/amazon-lps-compiled)
 
-## Others
+### Others
 
-- https://leetcode.com/discuss/general-discussion/705117/requesting-guidance-from-those-who-solved-1000-leets-so-far
+- [Requesting guidance from those who solved 1000+ Leets so far!
+](https://leetcode.com/discuss/general-discussion/705117/requesting-guidance-from-those-who-solved-1000-leets-so-far)
 
-## List
+### List
 
 - [Amazon Questions](https://leetcode.com/list/5ecpr1th/)
