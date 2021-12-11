@@ -581,6 +581,7 @@
 | 1791 | [Find Center of Star Graph](src/1791.find-center-of-star-graph.py) | Medium | O(1) | O(1) | Graph | | |
 | 1792 | [Maximum Average Pass Ratio](src/1792.maximum-average-pass-ratio.py) | Medium | O(N+KlogN) | O(N) | Heap | | |
 | 1797 | [Design Authentication Manager](src/1797.design-authentication-manager.py) | Medium | O(Design) | O(N) | Hash Table, Design | | |
+| 1807 | [Evaluate the Bracket Pairs of a String](src/1807.evaluate-the-bracket-pairs-of-a-string.py) | Medium | O(N) | O(1) | Array, Hash Table, String | | |
 | 1816 | [Truncate Sentence](src/1816.truncate-sentence.py) | Easy | O(N) | O(1) | String | | |
 | 1818 | [Minimum Absolute Sum Difference](src/1818.minimum-absolute-sum-difference.py) | Medium | O(NlogN) | O(sort) | Binary Search, Greedy | | |
 | 1827 | [Minimum Operations to Make the Array Increasing](src/1827.minimum-operations-to-make-the-array-increasing.py) | Easy | O(N) | O(1) | Array, Greedy | | |
