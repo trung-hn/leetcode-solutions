@@ -9,29 +9,30 @@
 
 ## Tips to Improve your Skills
 
-- Solve problem by Topic: when you first started, it is important to understand the topic quickly and solving 10-20 problems per topic is a good way to grasp it.
+- Solve problems by topic: when you first started, it is important to understand different topics quickly and solving 10-20 problems per topic is a good way to grasp the concept.
 - If you are using Python and are interested in writing Pythonic code, I created a repo for [Python tips and tricks](https://github.com/trung-hn/python-tips-and-tricks)
-- Always aim to get a better solution by reading the dicussion after you successfully solve it. Leetcode's community is amazing, you will learn of lot of tips and tricks to make your code cleaner and faster from the dicussion posts.
+- Always aim to get a better solution by reading the dicussion after you successfully solves a problem. Leetcode's community is amazing, you will learn of lot of useful tips and tricks to make your code cleaner and faster from the dicussion posts.
 - Leetcode has a "Taking Note" system where you can take notes of things you learn for each problem. Make good use of it.
 - Leetcode's category of difficulty (Easy, Medium, Hard) is not always correct. My rule of thumb is looking at the acceptance rate. `>55%` means Easy and `<35%` means Hard
 - What is correct is the amount of likes and dislikes in a problem. Problems with more dislikes than likes is usually not worth solving. Try a different one.
-- When you stuck, there are a few things you can do to give yourself hints:
-  - Look at the tag for the problem and see what kind of algorithm or data strucutre is needed to solve it
-  - Look at the hints provided by Leetcode
-  - Quickly look at the discussion to see what the expected complexity is or the name of the algorithm.
-  - Estimate the Time Complexity of the problem based on the input constraints (see next tip)
-- You can estimate the Time complexity based on the input constraints:
+- When you are stuck, there are a few things you can do to give yourself hints:
+  1. Look at the tag for the problem and see what kind of algorithm or data strucutre is needed for solving
+  2. Look at the hints provided by Leetcode
+  3. Quickly look at the discussion title to see what the expected complexity is or the name of the algorithm.
+  4. Estimate the Time Complexity of the problem based on the input constraints (see next tip)
+- You can estimate the Time complexity based on the input constraints as follows:
 
 | input size | estimated time complexity |
 |---|---|
 | `N <= 10` | `O(N!)` |
 | `N <= 20` | `O(2^N)` |
-| `N <= 500` | `O(N^3)` |
-| `N <= 5000` | `O(N^2)` |
-| `N <= 10^6` | `O(N)` or `O(NlogN)` |
+| `N <= 10^2` | `O(N^3)` |
+| `N <= 10^3` | `O(N^2)` |
+| `N <= 10^4` | `O(NlogN)` |
+| `N <= 10^6` | `O(N)` |
 | `N > 10^6` | `O(1)` or `O(logN)` |
 
-## Solutions list (~550 Problems)
+## Solutions list (~600 Problems)
 
 | # | Title | Level | Time | Space | Tags | Note | Premium 🔒 |
 |---|---|---|---|---|---|---|---|
