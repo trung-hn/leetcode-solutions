@@ -602,6 +602,7 @@
 | 1897 | [Redistribute Characters to Make All Strings Equal](src/1897.redistribute-characters-to-make-all-strings-equal.py) | Easy | O(N) | O(N) | Hash Table, String, Couting | | |
 | 1899 | [Merge Triplets to Form Target Triplet](src/1899.merge-triplets-to-form-target-triplet.py) | Medium | O(N) | O(1) | Greedy, Array | | |
 | 1903 | [Largest Odd Number in String](src/1903.largest-odd-number-in-string.py) | Easy | O(N) | O(1) | Math, String, Greedy | | |
+| 1905 | [Count Sub Islands](src/1905.count-sub-islands.py) | Medium | O(R\*C) | O(R\*C) | Array, DFS, BFS, Union-Find, Matrix | | |
 | 1911 | [Maximum Alternating Subsequence Sum](src/1911.maximum-alternating-subsequence-sum.py) | Medium | O(N) | O(1) | Array, Dynamic Programming, Greedy | | |
 | 1920 | [Build Array from Permutation](src/1920.build-array-from-permutation.py) | Easy | O(N) | O(1) | Array, Simulation | | |
 | 1929 | [Concatenation of Array](src/1929.concatenation-of-array.py) | Easy | O(N) | O(1) | Array | | |
