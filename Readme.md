@@ -609,6 +609,7 @@
 | 1971 | [Find if Path Exists in Graph](src/1971.find-if-path-exists-in-graph.py) | Easy | O(N) | O(N) | BFS, DFS, Graph | | |
 | 1974 | [Minimum Time to Type Word Using Special Typewriter](src/1974.minimum-time-to-type-word-using-special-typewriter.py) | Easy | O(N) | O(1) | String, Greedy | | |
 | 2000 | [Reverse Prefix of Word](src/2000.reverse-prefix-of-word.py) | Easy | O(N) | O(1) | Two Pointers, String | | |
+| 2039 | [The Time When the Network Becomes Idle](src/2039.the-time-when-the-network-becomes-idle.py) | Medium | O(V+E) | O(V+E) | Array, BFS, Graph | | |
 | 2042 | [Check if Numbers Are Ascending in a Sentence](src/2042.check-if-numbers-are-ascending-in-a-sentence.py) | Easy | O(N) | O(1) | String | | |
 | 2062 | [Count Vowel Substrings of a String](src/2062.count-vowel-substrings-of-a-string.py) | Easy | O(N^3) | O(N) | Hash Table, String | | |
 | 2073 | [Time Needed to Buy Tickets](src/2073.time-needed-to-buy-tickets.py) | Easy | O(N) | O(1) | Array, Queue, Simulation | | |
