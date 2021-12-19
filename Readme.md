@@ -155,7 +155,7 @@
 | 296 | [Best Meeting Point](src/296.py) | Hard | O(M\*N) | O(M+N) | Premium, Math | | 🔒 |
 | 297 | [Serialize and Deserialize Binary Tree](src/297.serialize-and-deserialize-binary-tree.py) | Hard | O(N) | O(N) | Tree, Design | | |
 | 299 | [Bulls and Cows](src/299.bulls-and-cows.py) | Easy | O(N) | O(N) | Hash Table | | |
-| 300 | [Longest Increasing Subsequence](src/300.longest-increasing-subsequence.py) | Medium | O(NlogN) | O(N) | Binary Search, Dynamic Programming | | |
+| 300 | [Longest Increasing Subsequence](src/300.longest-increasing-subsequence.py) | Medium | O(NlogN) | O(N) | Binary Search, Dynamic Programming, Popular Algorithm | | |
 | 304 | [Range Sum Query 2D - Immutable](src/304.range-sum-query-2-d-immutable.py) | Medium | O(1) | O(R\*C) | Dynamic Programming | Matrix Range Sum Trick | |
 | 310 | [Minimum Height Trees](src/310.minimum-height-trees.py) | Medium | O(V) | O(V) | BFS, Graph | | |
 | 316 | [Remove Duplicate Letters](src/316.remove-duplicate-letters.py) | Hard | O(N) | O(1) | Greedy, Tricky, Stack | | |
