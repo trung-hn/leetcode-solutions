@@ -618,6 +618,7 @@
 | 2074 | [Reverse Nodes in Even Length Groups](src/2074.reverse-nodes-in-even-length-groups.py) | Medium | O(N) | O(N) | Linked List | | |
 | 2094 | [Finding 3-Digit Even Numbers](src/2094.finding-3-digit-even-numbers.py) | Easy | O(N) | O(N) |  | | |
 | 2095 | [Delete the Middle Node of a Linked List](src/2095.delete-the-middle-node-of-a-linked-list.py) | Medium | O(N) | O(1) | Linked List | | |
+| 2103 | [Rings and Rods](src/2103.rings-and-rods.py) | Easy | O(N) | O(N) | Hash Table, String | | |
 
 ## Useful Posts
 
