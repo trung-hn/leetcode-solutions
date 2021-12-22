@@ -72,6 +72,7 @@
 | 78 | [Subsets](src/78.subsets.py) | Medium | O(N\*2^N) | O(N\*2^N) | Backtracking, Bit Manipulation | | |
 | 80 | [Remove Duplicates from Sorted Array II](src/80.remove-duplicates-from-sorted-array-ii.py) | Medium | O(N) | O(1) | Array, Two Pointers | | |
 | 82 | [Remove Duplicates from Sorted List II](src/82.remove-duplicates-from-sorted-list-ii.py) | Medium | O(N) | O(1) | Linked List | | |
+| 84 | [Largest Rectangle in Histogram](src/84.largest-rectangle-in-histogram.py) | Hard | O(N) | O(N) | Array, Stack, Monotonic Stack | | |
 | 91 | [Decode Ways](src/91.decode-ways.py) | Medium | O(N) | O(N) | String, Dynamic Programming | | |
 | 92 | [Reverse Linked List II](src/92.reverse-linked-list-ii.py) | Medium | O(N) | O(1) | Linked List | | |
 | 94 | [Binary Tree Inorder Traversal](src/94.binary-tree-inorder-traversal.py) | Easy | O(N) | O(N) | Stack, Tree, DFS, Binary Tree | | |
