@@ -73,6 +73,7 @@
 | 80 | [Remove Duplicates from Sorted Array II](src/80.remove-duplicates-from-sorted-array-ii.py) | Medium | O(N) | O(1) | Array, Two Pointers | | |
 | 82 | [Remove Duplicates from Sorted List II](src/82.remove-duplicates-from-sorted-list-ii.py) | Medium | O(N) | O(1) | Linked List | | |
 | 84 | [Largest Rectangle in Histogram](src/84.largest-rectangle-in-histogram.py) | Hard | O(N) | O(N) | Array, Stack, Monotonic Stack | | |
+| 85 | [Maximal Rectangle](src/85.maximal-rectangle.py) | Hard | O(R\*C\*C) | O(C) | Array, Dynamic Programming, Stack, Matrix, Monotonic Stack | | |
 | 91 | [Decode Ways](src/91.decode-ways.py) | Medium | O(N) | O(N) | String, Dynamic Programming | | |
 | 92 | [Reverse Linked List II](src/92.reverse-linked-list-ii.py) | Medium | O(N) | O(1) | Linked List | | |
 | 94 | [Binary Tree Inorder Traversal](src/94.binary-tree-inorder-traversal.py) | Easy | O(N) | O(N) | Stack, Tree, DFS, Binary Tree | | |
@@ -392,7 +393,7 @@
 | 1032 | [Stream of Characters](src/1032.stream-of-characters.py) | Hard | O(M) | O(M) | Trie | | |
 | 1035 | [Uncrossed Lines](src/1035.uncrossed-lines.py) | Medium | O(N^2) | O(N) | Array, Dynamic Programming | | |
 | 1042 | [Flower Planting With No Adjacent](src/1042.flower-planting-with-no-adjacent.py) | Medium | O(V+E) | O(V+E) | Graph | | |
-| 1048 | [Longest String Chain](src/1048.longest-string-chain.py) | Medium | `O(N\*logN+N\*C*C)` | `O(N)` | Hash Table, Dynamic Programming | | |
+| 1048 | [Longest String Chain](src/1048.longest-string-chain.py) | Medium | `O(N\*logN+N\*C\*C)` | `O(N)` | Hash Table, Dynamic Programming | | |
 | 1052 | [Grumpy Bookstore Owner](src/1052.grumpy-bookstore-owner.py) | Medium | O(N) | O(N) | Sliding Window, Array | | |
 | 1053 | [Previous Permutation With One Swap](src/1053.previous-permutation-with-one-swap.py) | Medium | O(N) | O(N) | Array, Greedy | | |
 | 1054 | [Distant Barcodes](src/1054.distant-barcodes.py) | Medium | O(NlogN) | O(N) | Sort, Heap | | |
