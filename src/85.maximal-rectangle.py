@@ -6,6 +6,7 @@
 
 # @lc code=start
 # TAGS: Array, Dynamic Programming, Stack, Matrix, Monotonic Stack
+# REVIEWME: Dynamic Programming, Monotonic Stack
 class Solution:
     # 288 ms, 36.74%. Time: O(R*C*C). Space: O(C)
     def maximalRectangle(self, matrix: List[List[str]]) -> int:
