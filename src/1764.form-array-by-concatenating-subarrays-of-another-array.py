@@ -23,7 +23,7 @@ class Solution:
         return True
 
     # 64 ms, Time: O(N+M). Space: O(M). KMP algorithm
-    # Explanation: https://www.youtube.com/watch?v=GTJr8OvyEVQ
+    # Explanation: https://www.youtube.com/watch?v=V5-7GzOfADQ
     def canChoose(self, groups: List[List[int]], nums: List[int]) -> bool:
         start = 0
         for group in groups:
