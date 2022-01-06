@@ -6,18 +6,21 @@
 
 # @lc code=start
 # TAGS: Greedy
-# REVIEWME: Bucket Sort. 
+# REVIEWME: Bucket Sort.
 import collections
+from typing import List
+
+
 class Solution:
     # 52 ms, 99.61%. Time: O(N). Space: O(1). Bucket Sort
-    # Not good if the value of miles is very large. 
+    # Not good if the value of miles is very large.
     def carPooling(self, trips: List[List[int]], capacity: int) -> bool:
         stations = [0] * 1000
         for i in range(len(trips)):
             no, start, end = trips[i]
             stations[start] += no
             stations[end] -= no
-        
+
         total = 0
         for no in stations:
             total += no
@@ -25,15 +28,15 @@ class Solution:
                 return False
         return True
 
+    # 52 ms, 99.61%. Time: O(NlogN). Space: O(N). Higher Time Complexity but works better in general.
 
-    # 52 ms, 99.61%. Time: O(NlogN). Space: O(N). Higher Time Complexity but works better in general. 
     def carPooling(self, trips: List[List[int]], capacity: int) -> bool:
         stations = collections.defaultdict(int)
         for i in range(len(trips)):
             no, start, end = trips[i]
             stations[start] += no
             stations[end] -= no
-        
+
         total = 0
         for station in sorted(stations.keys()):
 
@@ -43,4 +46,3 @@ class Solution:
         return True
 
 # @lc code=end
-
