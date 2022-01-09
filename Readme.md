@@ -628,6 +628,7 @@
 | 2094 | [Finding 3-Digit Even Numbers](src/2094.finding-3-digit-even-numbers.py)                                                                                       | Easy   | O(N)                  | O(N)           |                                                                                                      |                                         |           |
 | 2095 | [Delete the Middle Node of a Linked List](src/2095.delete-the-middle-node-of-a-linked-list.py)                                                                 | Medium | O(N)                  | O(1)           | Linked List                                                                                          |                                         |           |
 | 2103 | [Rings and Rods](src/2103.rings-and-rods.py)                                                                                                                   | Easy   | O(N)                  | O(N)           | Hash Table, String                                                                                   |                                         |           |
+| 2119 | [A Number After a Double Reversal](src/2103.rings-and-rods.py)                                                                                                 | Easy   | O(1)                  | O(1)           | Math                                                                                                 |                                         |           |
 
 ## Useful Posts
 
