@@ -632,6 +632,7 @@
 | 2103 | [Rings and Rods](src/2103.rings-and-rods.py)                                                                                                                   | Easy   | O(N)                  | O(N)           | Hash Table, String                                                                                   |                                         |           |
 | 2119 | [A Number After a Double Reversal](src/2119.a-number-after-a-double-reversal.py)                                                                               | Easy   | O(1)                  | O(1)           | Math                                                                                                 |                                         |           |
 | 2120 | [Execution of All Suffix Instructions Staying in a Grid](src/2120.execution-of-all-suffix-instructions-staying-in-a-grid.py)                                   | Medium | O(S)                  | O(S)           | String, Simulation                                                                                   |                                         |           |
+| 2121 | [Intervals Between Identical Elements](src/2121.intervals-between-identical-elements.py)                                                                       | Medium | O(N)                  | O(N)           | Array, Hash Table, Prefix Sum                                                                        |                                         |           |
 
 ## Useful Posts
 
