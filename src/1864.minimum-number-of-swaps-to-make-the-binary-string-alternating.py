@@ -11,21 +11,15 @@ class Solution:
     def minSwaps(self, s: str) -> int:
 
         def compare(s, t):
-            return sum(v1 != v2 for v1, v2 in zip(s, t)) // 2
+            swaps = sum(v1 != v2 for v1, v2 in zip(s, t))
+            return float(inf) if swaps % 2 else swaps // 2
 
         ones = s.count('1')
         zeroes = s.count('0')
         if abs(ones - zeroes) > 1:
             return -1
 
-        rv = float("inf")
-        if ones > zeroes:
-            rv = min(rv, compare(s, "10" * zeroes + "1"))
-        elif zeroes > ones:
-            rv = min(rv, compare(s, "01" * ones + "0"))
-        else:
-            rv = min(rv, compare(s, "10" * ones))
-            rv = min(rv, compare(s, "01" * ones))
-        return rv
+        return min(compare(s, "10" * max(ones, zeroes)),
+                   compare(s, "01" * max(ones, zeroes)))
 
 # @lc code=end
