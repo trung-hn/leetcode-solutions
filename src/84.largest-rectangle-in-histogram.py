@@ -7,7 +7,11 @@
 # @lc code=start
 # TAGS: Array, Stack, Monotonic Stack
 # REVIEWME: Monotonic Stack
+from typing import List
+
+
 class Solution:
+    # 836 ms, 61.07%. Time and Space: O(N)
     def largestRectangleArea(self, heights: List[int]) -> int:
         """
         The stack maintain the indexes of buildings with ascending height. 
@@ -18,12 +22,12 @@ class Solution:
         heights.append(-1)
         ans = 0
         stack = [-1]
-        for i, height in enumerate(heights):
-            while stack and heights[stack[-1]] > height:
-                curr = stack.pop()
+        for i, val in enumerate(heights):
+            while stack and heights[stack[-1]] > val:
+                height = heights[stack.pop()]
                 left = stack[-1]
-                right = i
-                ans = max(ans, heights[curr] * (right - left - 1))
+                width = i - left - 1
+                ans = max(ans, width * height)
             stack.append(i)
         return ans
 # @lc code=end
