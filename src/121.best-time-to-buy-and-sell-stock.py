@@ -6,10 +6,14 @@
 
 # @lc code=start
 # TAGS: Dynamic Programming
+from typing import List
+
+
 class Solution:
     # 60 ms, 84.22% Greedy. Time: O(N). Space: O(1)
     def maxProfit(self, prices: List[int]) -> int:
-        if len(prices) <= 1: return 0
+        if len(prices) <= 1:
+            return 0
         start = prices[0]
         total = 0
         for price in prices[1:]:
@@ -19,12 +23,11 @@ class Solution:
                 total = max(total, price - start)
         return total
 
-    # DP. Time: O(N). Space: O(1)
+    # DP or cumulative min. Time: O(N). Space: O(1)
     def maxProfit(self, prices: List[int]) -> int:
-        max_total = max_cur = 0
-        for i in range(1, len(prices)):
-            max_cur = max(0, max_cur + prices[i] - prices[i - 1])
-            max_total = max(max_total, max_cur)
-        return max_total
+        buy = ans = 0
+        for price in prices:
+            buy = min(buy, price)
+            ans = max(ans, price - buy)
+        return ans
 # @lc code=end
-
