@@ -650,6 +650,7 @@
 | 2139 | [Minimum Moves to Reach Target Score](src/2139.minimum-moves-to-reach-target-score.py)                                                                               | Medium | O(logN)               | O(1)           | Math, Greedy                                                                                         |                                         |           |
 | 2140 | [Solving Questions With Brainpower](src/2140.solving-questions-with-brainpower.py)                                                                                   | Medium | O(N)                  | O(N)           | Array, Dynamic Programming                                                                           |                                         |           |
 | 2176 | [Count Equal and Divisible Pairs in an Array](src/2176.count-equal-and-divisible-pairs-in-an-array.py)                                                               | Easy   | O(N^2)                | O(1)           | Array                                                                                                |                                         |           |
+| 2177 | [Count Equal and Divisible Pairs in an Array](src/2177.find-three-consecutive-integers-that-sum-to-a-given-number.py)                                                | Medium | O(1)                  | O(1)           | Math, Binary Search                                                                                  |                                         |           |
 
 ## Useful Posts
 
