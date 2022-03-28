@@ -651,6 +651,7 @@
 | 2140 | [Solving Questions With Brainpower](src/2140.solving-questions-with-brainpower.py)                                                                                   | Medium | O(N)                  | O(N)           | Array, Dynamic Programming                                                                           |                                         |           |
 | 2176 | [Count Equal and Divisible Pairs in an Array](src/2176.count-equal-and-divisible-pairs-in-an-array.py)                                                               | Easy   | O(N^2)                | O(1)           | Array                                                                                                |                                         |           |
 | 2177 | [Count Equal and Divisible Pairs in an Array](src/2177.find-three-consecutive-integers-that-sum-to-a-given-number.py)                                                | Medium | O(1)                  | O(1)           | Math, Binary Search                                                                                  |                                         |           |
+| 2190 | [Most Frequent Number Following Key In an Array](src/2190.most-frequent-number-following-key-in-an-array.py)                                                         | Easy   | O(N)                  | O(N)           | Array, Hash Table, Counting                                                                          |                                         |           |
 
 ## Useful Posts
 
