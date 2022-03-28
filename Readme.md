@@ -652,6 +652,7 @@
 | 2176 | [Count Equal and Divisible Pairs in an Array](src/2176.count-equal-and-divisible-pairs-in-an-array.py)                                                               | Easy   | O(N^2)                | O(1)           | Array                                                                                                |                                         |           |
 | 2177 | [Count Equal and Divisible Pairs in an Array](src/2177.find-three-consecutive-integers-that-sum-to-a-given-number.py)                                                | Medium | O(1)                  | O(1)           | Math, Binary Search                                                                                  |                                         |           |
 | 2190 | [Most Frequent Number Following Key In an Array](src/2190.most-frequent-number-following-key-in-an-array.py)                                                         | Easy   | O(N)                  | O(N)           | Array, Hash Table, Counting                                                                          |                                         |           |
+| 2191 | [Sort the Jumbled Numbers](src/2191.sort-the-jumbled-numbers.py)                                                                                                     | Medium | O(NlogN)              | O(1)           | Array, Sorting                                                                                       |                                         |           |
 
 ## Useful Posts
 
