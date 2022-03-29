@@ -653,6 +653,7 @@
 | 2177 | [Count Equal and Divisible Pairs in an Array](src/2177.find-three-consecutive-integers-that-sum-to-a-given-number.py)                                                | Medium | O(1)                  | O(1)           | Math, Binary Search                                                                                  |                                         |           |
 | 2190 | [Most Frequent Number Following Key In an Array](src/2190.most-frequent-number-following-key-in-an-array.py)                                                         | Easy   | O(N)                  | O(N)           | Array, Hash Table, Counting                                                                          |                                         |           |
 | 2191 | [Sort the Jumbled Numbers](src/2191.sort-the-jumbled-numbers.py)                                                                                                     | Medium | O(NlogN)              | O(1)           | Array, Sorting                                                                                       |                                         |           |
+| 2192 | [All Ancestors of a Node in a Directed Acyclic Graph](src/2192.all-ancestors-of-a-node-in-a-directed-acyclic-graph.py)                                               | Medium | O(N+V)                | O(U+V)         | DFS, BFS, Topological Sort, Graph                                                                    |                                         |           |
 
 ## Useful Posts
 
