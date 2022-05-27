@@ -659,6 +659,7 @@
 | 2190 | [Most Frequent Number Following Key In an Array](src/2190.most-frequent-number-following-key-in-an-array.py)                                                         | Easy   | O(N)                  | O(N)           | Array, Hash Table, Counting                                                                          |                                         |           |
 | 2191 | [Sort the Jumbled Numbers](src/2191.sort-the-jumbled-numbers.py)                                                                                                     | Medium | O(NlogN)              | O(1)           | Array, Sorting                                                                                       |                                         |           |
 | 2192 | [All Ancestors of a Node in a Directed Acyclic Graph](src/2192.all-ancestors-of-a-node-in-a-directed-acyclic-graph.py)                                               | Medium | O(N+V)                | O(U+V)         | DFS, BFS, Topological Sort, Graph                                                                    |                                         |           |
+| 2196 | [Create Binary Tree From Descriptions](src/2192.all-ancestors-of-a-node-in-a-directed-acyclic-graph.py)                                                              | Medium | O(N)                  | O(N)           | DFS, BFS, Binary Tree, Tree, Hash Table, Array                                                       |                                         |           |
 
 ## Useful Posts
 
