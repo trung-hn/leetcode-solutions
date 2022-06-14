@@ -10,25 +10,31 @@
 import collections
 from typing import List
 
+# 1. Find degree of the array
+# 2. Find elements with degree
+# 3. Find leftmost and rightmost index of the elements from step 2
+# 4. Find minimum (right - left) + 1
+
 
 class Solution:
-    # 232 ms, 93%. Time: O(N). Space: O(N)
+    # 360 ms, 46%. Time: O(N). Space: O(N)
     def findShortestSubArray(self, nums: List[int]) -> int:
         counters = collections.Counter(nums)
 
-        mx_freq = max(counters.values())
-        mx_nums = set(num for num, freq in counters.items() if freq == mx_freq)
+        degree = max(counters.values())
+        elements = [num for num, freq in counters.items() if freq == degree]
 
         first_i = {}
         last_i = {}
         for i, num in enumerate(nums):
             if num not in first_i:
-                first_i[num]
+                first_i[num] = i
             last_i[num] = i
-        return min(last_i[num] - first_i[num] + 1 for num in mx_nums)
+        return min(last_i[num] - first_i[num] + 1 for num in elements)
 
-    # 256 ms, 55%. O(N). one pass
-    def findShortestSubArray3(self, nums):
+    # 321 ms, 57%. O(N).
+    # Only go through nums once instead of multiple times like previous solution
+    def findShortestSubArray2(self, nums):
         first, count, ans, degree = {}, {}, 0, 0
         for i, num in enumerate(nums):
             first.setdefault(num, i)
