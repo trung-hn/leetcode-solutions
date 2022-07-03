@@ -17,7 +17,7 @@ class Solution:
             right -= num
             if left == right:
                 return i
-            left += nums[i]
+            left += num
         return -1
 
 
