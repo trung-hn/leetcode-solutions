@@ -6,26 +6,13 @@
 
 # @lc code=start
 # TAGS: Binary Search
-
+from typing import List
 import collections
 
 
 class Solution:
-
     # Time and Space: O(N)
-    def singleNonDuplicate(self, nums: List[int]) -> int:
-        visited = {}
-        for num in nums:
-            if num in visited:
-                visited[num] += 1
-            else:
-                visited[num] = 1
-
-        for k, v in visited.items():
-            if v == 1:
-                return k
-
-    def singleNonDuplicate(self, nums: List[int]) -> int:
+    def singleNonDuplicate1(self, nums: List[int]) -> int:
         visited = collections.defaultdict(int)
         for num in nums:
             visited[num] += 1
@@ -34,7 +21,8 @@ class Solution:
             if v == 1:
                 return k
 
-    def singleNonDuplicate(self, nums: List[int]) -> int:
+    # Time: O(N). Space: O(1)
+    def singleNonDuplicate2(self, nums: List[int]) -> int:
         visited = set()
         for num in nums:
             if num not in visited:
@@ -45,7 +33,14 @@ class Solution:
         return visited.pop()
 
     # Time: O(N). Space: O(1)
-    def singleNonDuplicate(self, nums: List[int]) -> int:
+    def singleNonDuplicate3(self, nums: List[int]) -> int:
+        for i in range(0, len(nums) - 1, 2):
+            if nums[i] != nums[i + 1]:
+                return nums[i]
+        return nums[-1]
+
+    # Time: O(N). Space: O(1)
+    def singleNonDuplicate4(self, nums: List[int]) -> int:
         val = nums[0]
         for num in nums[1:]:
             val ^= num
@@ -60,5 +55,7 @@ class Solution:
                 lo = mid + 1
             else:
                 hi = mid
-        return nums[lo*2]
+        return nums[lo * 2]
+
+
 # @lc code=end
