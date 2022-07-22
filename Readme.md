@@ -3,7 +3,7 @@
 - This list was initially created for personal use
 - Headers and footers of source code are generated from extension `LeetCode` in VSCode
 
-## My profile
+## My LEETCODE profile
 
 [Trung Hoang](https://leetcode.com/jummyegg/)
 
