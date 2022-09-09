@@ -6,6 +6,7 @@
 
 # @lc code=start
 # TAGS: Array, Stack, Greedy, Sorting, Monotonic Stack
+# REVIEWME: Sorting, Monotonic Stack
 class Solution:
     # 3704 ms, 39.59%. Time: O(NlogN). Space: O(N)
     def numberOfWeakCharacters(self, properties: List[List[int]]) -> int:
