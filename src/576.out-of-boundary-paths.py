@@ -4,15 +4,18 @@
 # [576] Out of Boundary Paths
 #
 # TAGS: Dynamic Programming
-import functools
+# REVIEWME: Dynamic Programming
+import functools, collections
+
 
 # @lc code=start
 class Solution:
-    # 146 ms, 77.75%. Time and Space: O(N*m*n)
+    # Memoization
+    # Time and Space: O(R * C * N)
     def findPaths(
         self, m: int, n: int, maxMove: int, startRow: int, startColumn: int
     ) -> int:
-        M = 10 ** 9 + 7
+        M = 10**9 + 7
 
         @functools.cache
         def dfs(r, c, N):
@@ -26,6 +29,30 @@ class Solution:
 
         R, C = m, n
         return dfs(startRow, startColumn, maxMove)
+
+    # Optimized for Space Complexity
+    # Space: O(R * C * N). Space: O(R * C)
+    def findPaths(
+        self, m: int, n: int, maxMove: int, startRow: int, startColumn: int
+    ) -> int:
+        MOD = 10**9 + 7
+        dp = collections.defaultdict(int)
+        dp[(startRow, startColumn)] = 1
+        ans = 0
+        R, C = m, n
+        for n in range(maxMove):
+            temp = collections.defaultdict(int)
+            for r in range(R):
+                for c in range(C):
+                    for x, y in (r + 1, c), (r - 1, c), (r, c + 1), (r, c - 1):
+                        if 0 <= x < R and 0 <= y < C:
+                            # record how many times to get here for this n
+                            temp[(x, y)] += dp[(r, c)] % MOD
+                        else:
+                            # out of bound
+                            ans += dp[(r, c)] % MOD
+            dp = temp
+        return ans % MOD
 
 
 # @lc code=end
