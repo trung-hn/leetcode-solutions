@@ -15,7 +15,7 @@ class Solution:
     def canCompleteCircuit(self, gas: List[int], cost: List[int]) -> int:
         if not gas:
             return -1
-        net = [g-d for g, d in zip(gas, cost)]
+        net = [g - d for g, d in zip(gas, cost)]
         net2 = net + net[:-1]
         # Greatest sub array sum.
         greatest = curr = 0
@@ -41,6 +41,7 @@ class Solution:
     # Combine into 1 step
     # 52 ms, 75.93%
     def canCompleteCircuit(self, gas: List[int], cost: List[int]) -> int:
+        """Find the first positive of prefix that maintains positive"""
         if not gas:
             return -1
 
@@ -49,30 +50,25 @@ class Solution:
         for i in range(len(gas)):
             curr += gas[i] - cost[i]
             total += gas[i] - cost[i]
-
-            # Think this way:
-            # If we are out of gas. We might as wells restart at the next station
             if curr < 0:
                 curr = 0
                 start = i + 1
 
         return start if total >= 0 else -1
 
-    # 68 ms, 31.09%. O(N) Time and Space
     def canCompleteCircuit(self, gas: List[int], cost: List[int]) -> int:
-        if not gas:
-            return -1
-        if sum(gas) < sum(cost):
+        """Find global minimum"""
+        if sum(cost) > sum(gas):
             return -1
 
-        gas_diff = [g - c for g, c in zip(gas, cost)]
-        gas_diff = gas_diff + gas_diff[:-1]
-        curr = ptr = highest = 0
-        for i, val in enumerate(gas_diff):
-            if val > curr + val:
-                ptr = i
-            curr = max(val, curr + val)
-            highest = max(highest, curr)
-        return ptr
+        deltas = [g - c for g, c in zip(gas, cost)]
+        ans = prefix = min_sofar = 0
+        for i, delta in enumerate(deltas):
+            prefix += delta
+            if prefix < min_sofar:
+                ans = i + 1
+            min_sofar = min(min_sofar, prefix)
+        return ans
+
 
 # @lc code=end
