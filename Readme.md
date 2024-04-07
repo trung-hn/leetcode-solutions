@@ -705,6 +705,7 @@
 | 3005 | [Count Elements With Maximum Frequency](src/3005.count-elements-with-maximum-frequency.py)                                                                           | Easy   | O(N)                  | O(N)           | Array, Hash Table, Counting                                                                          |                                         |           |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](src/3105.longest-strictly-increasing-or-strictly-decreasing-subarray.py)                               | Easy   | O(N)                  | O(1)           |                                                                                                      |                                         |           |
 | 3106 | [Lexicographically Smallest String After Operations With Constraint](src/3106.lexicographically-smallest-string-after-operations-with-constraint.py)                 | Medium | O(N)                  | O(N)           |                                                                                                      |                                         |           |
+| 3107 | [Minimum Operations to Make Median of Array Equal to K](src/3107.minimum-operations-to-make-median-of-array-equal-to-k.py)                                           | Medium | O(NlogN)              | O(N)           |                                                                                                      |                                         |           |
 
 ## Useful Posts
 
