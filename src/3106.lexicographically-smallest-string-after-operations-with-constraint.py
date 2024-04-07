@@ -7,6 +7,7 @@
 
 # @lc code=start
 class Solution:
+    # Time and Space O(N)
     def getSmallestString(self, s: str, k: int) -> str:
         def get_new_c(c, dist):
             if ord(c) + dist > ord("z"):
