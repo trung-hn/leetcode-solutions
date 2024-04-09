@@ -6,6 +6,7 @@
 
 
 # @lc code=start
+# TAGS: Hash Table, String, Greedy, Sorting, Counting
 class Solution:
     # Time: O(N). Space: O(26)
     def minimumDeletions(self, word: str, k: int) -> int:

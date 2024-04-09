@@ -6,6 +6,7 @@
 
 
 # @lc code=start
+# TAGS: Math, String, Counting
 class Solution:
     # Time: O(N). Space: O(1)
     def countSubstrings(self, s: str, c: str) -> int:

@@ -6,6 +6,7 @@
 
 
 # @lc code=start
+# TAGS: Hash Table, String
 class Solution:
     def isSubstringPresent(self, s: str) -> bool:
         seen = set()
