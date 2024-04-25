@@ -11,6 +11,7 @@
 
 
 class Solution:
+    # Time and Space: O(N)
     def longestIdealString(self, s: str, k: int) -> int:
         counter = [0] * 26
         for c in s:
