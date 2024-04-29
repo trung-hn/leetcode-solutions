@@ -14,6 +14,7 @@
 #         self.left = left
 #         self.right = right
 class Solution:
+    # Time and Space: O(N)
     def getDirections(
         self, root: Optional[TreeNode], startValue: int, destValue: int
     ) -> str:
