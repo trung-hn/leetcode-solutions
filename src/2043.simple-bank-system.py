@@ -19,7 +19,11 @@ class Bank:
         return 0 < i <= len(self.balance)
 
     def transfer(self, account1: int, account2: int, money: int) -> bool:
-        if self.valid(account1) and self.valid(account2) and self.balance[account1 - 1] >= money:
+        if (
+            self.valid(account1)
+            and self.valid(account2)
+            and self.balance[account1 - 1] >= money
+        ):
             self.withdraw(account1, money)
             self.deposit(account2, money)
             return True
