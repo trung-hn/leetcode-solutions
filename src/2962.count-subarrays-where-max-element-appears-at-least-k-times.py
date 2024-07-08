@@ -12,19 +12,40 @@ from typing import List
 
 
 class Solution:
-    # Time and Space:O(N)
-    def countSubarrays(self, nums: List[int], k: int) -> int:
-        ans = index = 0
+
+    # Time: O(N^3). Space: O(1)
+    def countSubarrays1(self, nums: List[int], k: int) -> int:
+        ans = 0
+        mx = max(nums)
+        for left in range(len(nums)):
+            for right in range(left, len(nums)):
+                if nums[left : right + 1].count(mx) >= k:
+                    ans += 1
+        return ans
+
+    # Time: O(N^2). Space: O(1)
+    def countSubarrays2(self, nums: List[int], k: int) -> int:
+        ans = 0
+        mx = max(nums)
+        for left in range(len(nums)):
+            cnt = 0
+            for right in range(left, len(nums)):
+                cnt += nums[right] == mx
+                ans += cnt >= k
+        return ans
+
+    # Time and Space: O(N).
+    def countSubarrays3(self, nums: List[int], k: int) -> int:
+        ans = left = 0
         mx = max(nums)
         counter = collections.Counter()
-        for i, num in enumerate(nums):
+        for _, num in enumerate(nums):  # right
             counter[num] += 1
-            while counter[mx] > k or nums[index] != mx:
-                counter[nums[index]] -= 1
-                index += 1
-            if counter[mx] < k:
-                continue
-            ans += index + 1
+            while counter[mx] > k or nums[left] != mx:  # left
+                counter[nums[left]] -= 1
+                left += 1
+            if counter[mx] >= k:
+                ans += left + 1
         return ans
 
 
